@@ -3,109 +3,112 @@
 
 ---
 
-## What This Is
+## What This Does
 
-An AI assistant that reads interview transcripts and generates structured scoring reports — Natural Fit, Org Fit, recommendations, and a Word document ready to share. You give it a transcript; it gives you a complete evaluation report.
-
----
-
-## One-Time Setup (do this once)
-
-### Step 1 — Install Node.js
-Go to [nodejs.org](https://nodejs.org) → download the **LTS** version → install it.
-*(Skip if already installed.)*
-
-### Step 2 — Install Claude Code
-Open Terminal (Mac) or Command Prompt (Windows) and run:
-```
-npm install -g @anthropic-ai/claude-code
-```
-
-### Step 3 — Get an Anthropic API Key
-1. Go to [console.anthropic.com](https://console.anthropic.com)
-2. Sign in (or create an account with your work email)
-3. Go to **API Keys** → click **Create Key** → copy it
-
-### Step 4 — Get the Agent Files
-Clone the repository (ask your tech contact for the GitHub link):
-```
-git clone <repository-link>
-cd claude-skills
-```
-Or ask to be added as a collaborator on GitHub and use **GitHub Desktop** if you prefer a visual tool.
-
-### Step 5 — Start the Agent
-Inside the `claude-skills` folder, run:
-```
-claude
-```
-Paste your API key when prompted the first time. You are now inside the agent.
+You paste an interview transcript → the agent reads it → you get a complete Word document with scores, recommendations, and a Hire / Hold / Reject call for every candidate.
 
 ---
 
-## Running an Evaluation (every time)
+## One-Time Setup
 
-**Step 1** — Open Claude Code in the `claude-skills` folder
-```
-claude
-```
+### Step 1 — Get the files on your computer
 
-**Step 2** — Paste the transcript into the chat
+1. Install **GitHub Desktop**: [desktop.github.com](https://desktop.github.com) → download → install
+2. Open GitHub Desktop → click **Clone a Repository from the Internet**
+3. Paste this URL: `https://github.com/A4Gcollab/HR-Evaluation-agent`
+4. Choose where to save it on your computer → click **Clone**
 
-Paste the full Zoom AI Companion export, VTT file, or meeting notes directly into the chat window.
+You now have the agent files on your computer. You won't need to do this again.
 
-**Step 3** — Type (or just send the transcript — the agent auto-detects)
-```
-/evaluate-candidate
-```
+---
 
-**Step 4** — Answer any clarifying questions the agent asks
-It may ask: role applied for, interview date, which rounds were conducted, confidence level.
+### Step 2 — Choose your tool
 
-**Step 5** — Wait (~2–3 minutes)
-The agent reads the transcript, scores all candidates, and generates:
-- A markdown summary in the chat window
-- A Word document saved to `data/evaluation-reports/batch-[date]-[role].docx`
+Pick whichever you already have or prefer:
 
-**Step 6** — Open the `.docx` file and share with Nitin Sir
+| | Antigravity IDE | Claude.ai (browser) |
+|---|---|---|
+| **Setup** | Open the cloned folder | One-time project setup |
+| **Best for** | Regular daily use | Quick one-off evaluations |
+
+---
+
+#### Option A — Using Antigravity
+
+1. Open **Antigravity**
+2. Click **Open Folder** → select the `HR-Evaluation-agent` folder you cloned
+3. Open the chat panel
+4. Paste your transcript → send
+5. The agent auto-detects and starts the evaluation
+
+#### Option B — Using Claude.ai (browser)
+
+**First time only — create a Project:**
+1. Go to [claude.ai](https://claude.ai) → click **Projects** → **New Project**
+2. Name it: `HR Evaluation Agent`
+3. Click **Add Content** → upload these two files from the cloned folder:
+   - `skills/0.evaluate-candidate/SKILL.md`
+   - `CLAUDE.md`
+4. Save the project
+
+**Every evaluation:**
+1. Open the `HR Evaluation Agent` project on Claude.ai
+2. Start a new conversation
+3. Paste the transcript → send
+
+---
+
+## Running an Evaluation
+
+Whether you use Antigravity or Claude.ai, the steps are the same once the chat is open:
+
+1. **Paste the transcript** — Zoom AI Companion export, VTT file, or meeting notes
+2. **Send it** — the agent auto-starts (or type `/evaluate-candidate` if it doesn't)
+3. **Answer 1–2 questions** the agent may ask — role name, interview date, rounds completed
+4. **Wait ~2–3 minutes** — the agent scores all candidates and produces:
+   - A summary in the chat
+   - A Word document saved to `data/evaluation-reports/` inside your cloned folder
+5. **Open the `.docx`** and share with Nitin Sir
 
 ---
 
 ## Getting Updates
 
-When the agent is improved, pull the latest version:
-```
-git pull
-```
-No reinstallation needed — the update takes effect immediately.
+When the agent is improved:
+
+1. Open **GitHub Desktop**
+2. Select the `HR-Evaluation-agent` repository
+3. Click **Pull origin** (top bar)
+
+Done — the update takes effect immediately, no reinstallation.
 
 ---
 
 ## Common Questions
 
-**"Which role do I select?"**
-The agent asks you — just type the role name (HR Intern, Project Intern, etc.).
+**"Which role do I enter?"**
+Just type it when the agent asks — HR Intern, Project Intern, etc.
 
-**"What if a candidate only completed GD?"**
-Paste the full transcript. The agent automatically skips NF/OF scoring for candidates who didn't reach those rounds.
+**"What if a candidate only did GD and not the full interview?"**
+Paste the full transcript. The agent automatically skips scoring for rounds that weren't conducted.
 
-**"Where is the Word document saved?"**
-Inside the `claude-skills` folder → `data` → `evaluation-reports` → file named `batch-[date]-[role].docx`.
+**"Where does the Word document get saved?"**
+In the cloned folder → `data` → `evaluation-reports` → `batch-[date]-[role].docx`
 
-**"Can I evaluate multiple candidates from one session?"**
-Yes — paste the full session transcript. The agent handles all candidates in one run.
+**"Can I run multiple candidates from one session in one go?"**
+Yes — paste the full session transcript. All candidates are handled in one run.
 
-**"What if the transcript has connectivity gaps?"**
-The agent notes it automatically and applies a default score for unprobed sections. You'll see a `limitation_note` in the report.
-
----
-
-## Important Notes
-
-- The final hire/reject decision is always Nitin Sir's. The report is a scoring input, not a decision.
-- Do not share the `data/evaluation-reports/` folder publicly — it contains candidate PII.
-- If something looks wrong in a report, use `/justify-rejection` to check rejection criteria, or flag to the agent owner.
+**"The transcript had audio/connectivity issues — will that affect the score?"**
+The agent notes it and applies a default score for any section that couldn't be assessed. You'll see a note in the report.
 
 ---
 
-*For setup help, contact: a4gcollab@gmail.com*
+## Rules
+
+- Nitin Sir makes the final hire/reject call. This report is a scoring input, not a decision.
+- Do not share the `data/evaluation-reports/` folder — it contains candidate data.
+- If a score looks off, flag it to a4gcollab@gmail.com.
+
+---
+
+*Setup help: a4gcollab@gmail.com*
