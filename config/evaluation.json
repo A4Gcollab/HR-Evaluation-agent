@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "description": "Master configuration for the HR Evaluation Agent. Suhani edits this file to define evaluation rules — the agent reads it at runtime and operates within these boundaries.",
+
+  "scoring": {
+    "default_insufficient_evidence_score": 2,
+    "tier_boundary_threshold": 0.3,
+    "recommendation_thresholds": {
+      "recommended": 8.5,
+      "can_be_considered": 7.0,
+      "borderline": 5.5,
+      "not_recommended": 3.5
+    },
+    "nf_weight": 0.5,
+    "of_weight": 0.5
+  },
+
+  "autonomy": {
+    "auto_resolve_insufficient_evidence": true,
+    "auto_resolve_ambiguous_signals": true,
+    "auto_infer_role_from_context": true,
+    "allow_placeholder_scoring": false,
+    "max_escalations_per_batch": 3,
+    "escalation_note": "When auto-resolve is true, the agent uses default scores and notes the gap in the report instead of asking Suhani. Set to false to revert to ask-every-time behavior."
+  },
+
+  "rejection_screening": {
+    "auto_include_in_pipeline": false,
+    "include_flags_in_report": false,
+    "note": "When auto_include_in_pipeline is true, justify-rejection runs automatically as part of evaluate-candidate. When false, rejection screening is only triggered via /justify-rejection."
+  },
+
+  "transcript_quality": {
+    "minimum_confidence_to_score": "low",
+    "auto_proceed_on_poor_quality": true,
+    "note": "Auto-proceed applies only to PARTIAL BUT READABLE transcripts (some sections missing, generally intelligible) — these become a Level 1 flag in the report. Transcripts that are TRULY UNCLEAR in scoring-critical sections (garbled, ambiguous attribution, missing NF/OF round mid-assessment) always escalate to Level 2 regardless of this flag. Per HR OL: evaluation must never be based on assumption — even a 0.5 difference can change rankings."
+  },
+
+  "roles": {
+    "hr": {
+      "availability_requirement": "From 3:00 PM onwards on weekdays",
+      "hard_rejection_code": "H2",
+      "reference_file": "2.natural-fit/references/natural-fit-hr.md",
+      "traits_validated": true,
+      "minimum_commitment_months": 6
+    },
+    "marketing": {
+      "availability_requirement": "5:00 PM to 9:00 PM on weekdays",
+      "hard_rejection_code": "H3",
+      "reference_file": "2.natural-fit/references/natural-fit-marketing.md",
+      "traits_validated": false,
+      "minimum_commitment_months": 6
+    },
+    "community": {
+      "availability_requirement": "5:00 PM to 9:00 PM on weekdays",
+      "hard_rejection_code": "H3",
+      "reference_file": "2.natural-fit/references/natural-fit-community.md",
+      "traits_validated": false,
+      "minimum_commitment_months": 6
+    },
+    "product": {
+      "availability_requirement": "5:00 PM to 9:00 PM on weekdays",
+      "hard_rejection_code": "H3",
+      "reference_file": "2.natural-fit/references/natural-fit-product.md",
+      "traits_validated": false,
+      "minimum_commitment_months": 6
+    },
+    "project": {
+      "availability_requirement": "5:00 PM to 9:00 PM on weekdays",
+      "hard_rejection_code": "H3",
+      "reference_file": "2.natural-fit/references/natural-fit-project.md",
+      "traits_validated": true,
+      "minimum_commitment_months": 6
+    },
+    "rab": {
+      "availability_requirement": "5:00 PM to 9:00 PM on weekdays",
+      "hard_rejection_code": "H3",
+      "reference_file": "2.natural-fit/references/natural-fit-rab.md",
+      "traits_validated": true,
+      "minimum_commitment_months": 6
+    }
+  },
+
+  "report": {
+    "output_directory": "data/evaluation-reports",
+    "filename_pattern": "batch-{date}-{role}.docx",
+    "include_inline_markdown": true,
+    "footer_decision_authority": "HR OL — Nitin Sir"
+  }
+}

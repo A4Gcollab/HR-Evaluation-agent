@@ -1,0 +1,22 @@
+# Candidate evaluation reports — contain PII (names, scores, availability)
+data/evaluation-reports/*.docx
+data/evaluation-reports/*.json
+
+# Transcripts — contain raw interview recordings
+data/sample-transcripts/
+
+# Temp Word lock files
+data/evaluation-reports/~$*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
