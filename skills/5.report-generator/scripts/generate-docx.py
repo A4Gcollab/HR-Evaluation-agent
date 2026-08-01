@@ -227,6 +227,38 @@ def add_candidate_report(doc, candidate, index):
     run.bold = True
     run.font.size = Pt(11)
 
+    # --- Section 5b: Secondary Natural Fit (if applicable) ---
+    sec_nf = candidate.get("secondary_fit", {})
+    sec_nf_avg = 0
+    if sec_nf:
+        sec_title = f"5b. Natural Fit Evaluation — {sec_nf.get('role', 'Secondary Role')} (Secondary Role)"
+        doc.add_heading(sec_title, level=2)
+
+        ref_para = doc.add_paragraph()
+        ref_para.add_run("Role reference used: ").bold = True
+        ref_para.add_run(sec_nf.get("role_reference", "—"))
+
+        sec_traits = sec_nf.get("traits", [])
+        sec_trait_rows = []
+        for t in sec_traits:
+            sec_trait_rows.append([
+                t.get("trait", "—"),
+                f"{t.get('score', '—')}/5",
+                t.get("observation", "—"),
+            ])
+        add_styled_table(
+            doc,
+            ["Trait", "Score", "Evaluation"],
+            sec_trait_rows,
+            col_widths=[4, 1.5, 11.5],
+        )
+
+        sec_nf_avg = sec_nf.get("average", 0)
+        sec_avg_para = doc.add_paragraph()
+        run = sec_avg_para.add_run(f"Secondary Natural Fit Average: {sec_nf_avg} / 5")
+        run.bold = True
+        run.font.size = Pt(11)
+
     # --- Section 6: Org Fit ---
     of = candidate.get("org_fit", {})
     of_title = "6. Organizational Fit Evaluation"
@@ -258,11 +290,17 @@ def add_candidate_report(doc, candidate, index):
     # --- Section 7: Score Summary ---
     doc.add_heading("7. Score Summary", level=2)
     total = candidate.get("total_score", 0)
+    
     score_rows = [
-        ["Natural Fit", f"{nf_avg} / 5", "50%", f"{nf_avg}"],
+        ["Natural Fit — Primary", f"{nf_avg} / 5", "50%", f"{nf_avg}"],
+    ]
+    if sec_nf:
+        score_rows.append([f"Natural Fit — {sec_nf.get('role', 'Secondary')}", f"{sec_nf_avg} / 5", "Advisory", "—"])
+    score_rows.extend([
         ["Org Fit", f"{of_avg} / 5", "50%", f"{of_avg}"],
         ["TOTAL SCORE", "", "", f"{total} / 10"],
-    ]
+    ])
+    
     add_styled_table(
         doc,
         ["Component", "Raw Score", "Weight", "Contribution"],
