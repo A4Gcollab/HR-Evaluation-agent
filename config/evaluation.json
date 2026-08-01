@@ -19,7 +19,7 @@
     "auto_resolve_insufficient_evidence": true,
     "auto_resolve_ambiguous_signals": true,
     "auto_infer_role_from_context": true,
-    "allow_placeholder_scoring": false,
+    "allow_placeholder_scoring": true,
     "max_escalations_per_batch": 3,
     "escalation_note": "When auto-resolve is true, the agent uses default scores and notes the gap in the report instead of asking Suhani. Set to false to revert to ask-every-time behavior."
   },

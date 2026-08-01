@@ -1,0 +1,128 @@
+{
+  "batch_info": {
+    "interview_date": "July 31, 2026",
+    "interviewers": "Sushma (Lead HR), Swetcha (Natural Fit & Org Fit)",
+    "role": "Marketing Intern",
+    "transcript_note": "Zoom AI Companion auto-generated VTT file. Contains minor transcription artifacts; evaluations account for these and focus on behavioral signals."
+  },
+  "candidates": [
+    {
+      "name": "Kaushik Ranjan",
+      "role_applied": "Marketing Intern",
+      "interview_date": "July 31, 2026",
+      "availability": "5:00 PM to 9:00 PM on weekdays (confirmed 30 hours per week). College ends at 12 PM or 1 PM.",
+      "stipend_discussed": "Yes — understood structure (5K / 7.5K / 10K based on performance >= 3.5/5 and 30 hrs/week)",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round + Natural Fit + Org Fit",
+      "confidence_level": "High",
+      "limitation_note": "",
+      "background": "Final-year PG student in Mass Communication & Journalism. Worked as a PR/CSR intern at Aditya Birla Group (Grasim units) for 1 month, assisting on the 'Didi Ki Dukan' initiative (seed-funding 20 tribal women). Also co-founded a Gaya-based sociology NGO, securing CSR funding from Amazon Foundation (DonateKart) and handling their social media until April 2026. Skilled in Adobe Photoshop, InDesign, and Premiere Pro.",
+      "interview_summary": "Kaushik demonstrated solid technical and operational skills in media production and remote collaboration, but exhibited severe organizational fit concerns. During the GD and HR rounds, he was eager to gain industry exposure to support his goal of preparing for the UGC NET exam and eventually moving to MNCs. In the Natural Fit round, he showed strong software competency (Photoshop, Premiere Pro) but struggled with strategic marketing concepts, consistency, and data-driven analysis. Crucially, the Organizational Fit round surfaced a major diversity red flag when he questioned the necessity of working with teammates from different backgrounds, though he later retroactively justified his ability to adapt.",
+      "natural_fit": {
+        "role_reference": "natural-fit-marketing.md",
+        "traits": [
+          {
+            "trait": "Creativity and Storytelling",
+            "score": 3.0,
+            "observation": "Demonstrated technical proficiency in video editing and production, but lacked original marketing strategy or storytelling depth. Described standard production steps rather than creative campaigns.",
+            "example": "Described video production steps for Jharkhand Tourism: raw cuts, adding music, transitions, and logo placement."
+          },
+          {
+            "trait": "Audience Awareness",
+            "score": 3.0,
+            "observation": "Acknowledged basic differences in platform dynamics, noting LinkedIn is more professional than Instagram, but was generic on target audience motivations.",
+            "example": "Stated that engaging audiences requires aligning the organization's goals with their needs, but did not define specific segments."
+          },
+          {
+            "trait": "Curiosity and Trend Awareness",
+            "score": 3.0,
+            "observation": "Willing to learn Meta Ads and noted observing their use in his previous internship, but did not mention current trends, tools, or formats unprompted.",
+            "example": "Expressed interest in learning Meta Ads because he did not fully understand them during his 1-month Aditya Birla internship."
+          },
+          {
+            "trait": "Execution and Consistency",
+            "score": 2.5,
+            "observation": "Struggled with the concept of consistency, directly stating he did not have an answer for how to maintain it. However, provided a structured example of executing a video production workflow.",
+            "example": "Admitted to having no answer when asked how he would maintain consistent brand visibility, but later detailed a structured workflow for tourism video shoots."
+          },
+          {
+            "trait": "Data and Feedback Orientation",
+            "score": 2.5,
+            "observation": "Understood the basic need to adjust content if a campaign fails, but did not mention performance metrics, data tools, or testing methods.",
+            "example": "Stated that if a campaign performs poorly, they would look for gaps or technical errors and correct wording that the audience didn't understand."
+          }
+        ],
+        "average": 2.8
+      },
+      "org_fit": {
+        "values": [
+          {
+            "value": "Ownership and Alignment",
+            "score": 2.5,
+            "observation": "Aligned with remote work logistics but passive about personal contribution, stating he would only understand what to contribute after starting work.",
+            "example": "Stated that his career goals are focused on UGC NET prep and MNC jobs, viewing the internship primarily as an experience-builder."
+          },
+          {
+            "value": "Respect & Acceptance",
+            "score": 2.0,
+            "observation": "Surfaced a significant cultural alignment issue by questioning diversity. Admitted having no clear understanding of respect in the workplace due to limited office experience.",
+            "example": "Asked, 'Why will I work with someone who is different from me?' when asked about working with diverse colleagues, though later noted studying with diverse peers."
+          },
+          {
+            "value": "Innovation & Imagination",
+            "score": 2.5,
+            "observation": "Willing to adapt to guidelines but did not show examples of creative initiatives or imaginative problem-solving in past work.",
+            "example": "NGO and tourism work focused on standard execution (social media uploads, video editing) rather than self-driven innovative concepts."
+          },
+          {
+            "value": "Agility",
+            "score": 3.0,
+            "observation": "Demonstrated logical prioritization and work breakdown to avoid overwhelm, but communication and comprehension agility were limited, requiring several questions to be simplified.",
+            "example": "Proposed breaking overwhelming tasks into parts to stay engaged; struggled initially to understand questions about consistency and procedural organization."
+          },
+          {
+            "value": "Integrity & Authenticity",
+            "score": 3.0,
+            "observation": "Authentically honest about his lack of answers and limited experience, but showed highly compliant ethical boundaries, separating personal ethics from company directives.",
+            "example": "Stated he would promote things he doesn't believe in if the 'work ethics' allowed it, separating personal values from professional duties."
+          }
+        ],
+        "average": 2.6
+      },
+      "total_score": 5.4,
+      "recommendation": "Not Recommended",
+      "recommendation_emoji": "🔴",
+      "key_strengths": [
+        "Strong technical skills in media production software including Adobe Photoshop, InDesign, and Premiere Pro.",
+        "Clear hands-on experience in video production workflow and basic social media account management for his cousin's NGO.",
+        "Honest and authentic in admitting gaps and limitations during the interview."
+      ],
+      "areas_for_development": [
+        "Understanding of organizational diversity and inclusion principles (critical area).",
+        "Strategic and analytical marketing skills including campaign planning, audience segmentation, and performance metrics.",
+        "Self-driven consistency and ability to define workplace respect and personal contribution parameters."
+      ],
+      "overall_observation": "Kaushik Ranjan is a technically competent candidate in media production (video and poster design) who lacks the strategic marketing depth and cultural alignment required for the role. In the HR round, he confirmed full availability and 6-month commitment, but his career focus is heavily aligned with UGC NET academic prep. In the Natural Fit round, he showed solid execution capabilities in video editing but struggled to define consistency and data analytics. Most importantly, his initial reaction to diversity ('Why will I work with someone who is different from me?') represents a severe alignment issue with the organization's inclusive values. Therefore, he is not recommended for the role.",
+      "action_label": "❌ Reject",
+      "key_risk": "Cultural alignment and diversity friction; candidate actively questioned the need to collaborate with diverse team members during the Org Fit assessment.",
+      "recommendation_basis": "Natural Fit average of 2.8/5 driven by gaps in consistency and data orientation. Org Fit average of 2.6/5 driven by a 2.0/5 in Respect & Acceptance due to diversity friction. Total score of 5.4/10 lands in the Not Recommended tier."
+    }
+  ],
+  "gd_eliminations": [
+    {
+      "name": "Rohit Shaw",
+      "outcome": "Eliminated at GD",
+      "note": "Rohit was active in GD but struggled to articulate a clear understanding of the organization's initiatives (A4G focus areas) or the marketing intern role. His contributions were limited to generic platform-driven branding statements, and he did not advance to the HR round due to low preparation."
+    },
+    {
+      "name": "Manoj Kumar Mali",
+      "outcome": "Did not advance to HR Round",
+      "note": "Manoj had 1 year of experience in marketing and resigned 20 days prior to the interview. He struggled with audibility issues and was underprepared on the organization's focus. When asked why he wants an internship instead of a full-time role, he stated that full-time roles offer 'no learning opportunities,' raising questions about his alignment. He did not advance to the next round."
+    },
+    {
+      "name": "Bhawna Tyagi",
+      "outcome": "Eliminated after HR Round",
+      "note": "Bhawna demonstrated a critical lack of preparation and organizational awareness, admitting she applied to multiple places and did not remember Omysha/A4G, guessing it was an 'IT solution and HR facilities company.' While she could manage the 5 PM to 9 PM window around her B.Sc. classes, her lack of basic research led to her elimination after the HR round."
+    }
+  ]
+}
