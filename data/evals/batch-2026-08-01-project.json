@@ -1,0 +1,144 @@
+{
+  "batch_info": {
+    "interview_date": "August 1, 2026",
+    "interviewers": "Sushma (Lead HR), Suhani (Natural Fit & Org Fit)",
+    "role": "Project Management Intern",
+    "transcript_note": "Plain text transcript of the Project Management interviews. Contains group discussion and individual interviews. Swetcha/Suhani conducted the Natural Fit and Org Fit, and Sushma conducted the HR rounds."
+  },
+  "candidates": [
+    {
+      "name": "Atif",
+      "role_applied": "Project Management Intern",
+      "interview_date": "August 1, 2026",
+      "availability": "Fully available 30 hours per week (5 PM to 9 PM, Monday to Saturday). College ends by 12:30 PM.",
+      "stipend_discussed": "Yes — understood structure (5K / 7.5K / 10K based on performance >= 3.5/5 and 30 hrs/week)",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round + Natural Fit + Org Fit",
+      "confidence_level": "High",
+      "limitation_note": "",
+      "background": "Final-year B.Com Honors and Research Program student. Co-founded and managed university-wide placement drives and inter-university events (TPO Journal placement program from scratch, managing sponsorships, applicants, and tools). Completed a 3-4 month marketing internship in Aligarh, leading a 7-member team from the second month. Has some freelance gig experience.",
+      "interview_summary": "Atif demonstrated strong structural and team coordination capabilities, but showed punctuality issues. In the GD and HR rounds, he was articulate about his desire to enter the operations and management domain, and fully accepted the stipend structure. In the Natural Fit round, he showed excellent Structuring Work (4.5) and Follow-Through (4.5) skills, citing concrete team leadership and event planning experiences. His Org Fit round was also solid, showing high Innovation (4.0) and Authenticity (4.0). However, he was 20 minutes late to both scheduled interviews, representing a punctuality risk.",
+      "natural_fit": {
+        "role_reference": "natural-fit-project.md",
+        "traits": [
+          {
+            "trait": "Structuring Work",
+            "score": 4.5,
+            "observation": "Demonstrated excellent capability to structure complex events from scratch, using AI tools and spreadsheets to build timelines, sponsorships, and tracking systems.",
+            "example": "Built the NCR placement offer program for the TPO Journal from scratch, managing sponsorships, company outreach, and applicant coordination."
+          },
+          {
+            "trait": "Anticipation & Risk Awareness",
+            "score": 4.0,
+            "observation": "Shows clear understanding of contingency thinking, distinguishing between risk and issues, and proactively planning mitigations.",
+            "example": "Provided the example of preparing a backup spokesperson for a meeting in case the primary speaker drops off."
+          },
+          {
+            "trait": "Prioritization",
+            "score": 3.5,
+            "observation": "Considers both quality and team support when deadlines approach, but relies heavily on timelines/deadlines without showing structured priority frameworks.",
+            "example": "Stated he would hasten working processes and request extension from management if quality is severely affected as a deadline approaches."
+          },
+          {
+            "trait": "Follow-Through",
+            "score": 4.5,
+            "observation": "Strong team follow-through signal. Focuses on unblocking and tracking team members systematically to ensure completion.",
+            "example": "Implemented a reporting system (half-day and end-day reports) for a 7-member team during his marketing internship to maintain accountability."
+          },
+          {
+            "trait": "Analytical Thinking",
+            "score": 3.5,
+            "observation": "Good at breaking down tasks for event management, but is relationship-oriented rather than data-driven when assessing if something is working.",
+            "example": "Stated that if he is unsure whether his approach is working, he would consult with colleagues or managers in similar positions."
+          }
+        ],
+        "average": 4.0
+      },
+      "org_fit": {
+        "values": [
+          {
+            "value": "Ownership and Alignment",
+            "score": 3.5,
+            "observation": "Highly aligned with operations-focused work and willing to work under the stipend structure, but tardiness on two occasions shows minor ownership gaps.",
+            "example": "Confirmed he wants to work in operations because IT desk work bores him, but blamed network issues for being 20 minutes late twice."
+          },
+          {
+            "value": "Respect & Acceptance",
+            "score": 3.5,
+            "observation": "Values diverse team backgrounds and connections, but is easily frustrated by people who speak without thinking.",
+            "example": "Stated that working with diverse people is a career advantage, but noted that 'speaking without thinking' is the behavior that shuts him down fastest."
+          },
+          {
+            "value": "Agility",
+            "score": 3.5,
+            "observation": "Maintains a task list to handle overwhelm, but his tardiness reflects minor operational agility issues.",
+            "example": "Updates a list of notes on his phone to regain control when overwhelmed, enabling him to break tasks down."
+          },
+          {
+            "value": "Innovation & Imagination",
+            "score": 4.0,
+            "observation": "Resourceful user of AI tools and co-founded inter-university programs from scratch.",
+            "example": "Used AI tools for organizing the TPO journal placement drive and co-founded university clubs."
+          },
+          {
+            "value": "Integrity & Authenticity",
+            "score": 4.0,
+            "observation": "Authentic about his gaps, dislikes insincerity, and honestly admitted to past interview delays.",
+            "example": "Stated that insincere or sudden praise makes him uncomfortable, showing self-awareness."
+          }
+        ],
+        "average": 3.7
+      },
+      "total_score": 7.7,
+      "recommendation": "Can Be Considered",
+      "recommendation_emoji": "🟢",
+      "key_strengths": [
+        "Strong team coordination and follow-through, using structured reporting systems (half-day and end-day reports).",
+        "Demonstrated ability to plan and execute complex programs from scratch (NCR placement drives).",
+        "Resourceful use of AI tools to structure and optimize workflows."
+      ],
+      "areas_for_development": [
+        "Punctuality and personal schedule management (critical operational area).",
+        "Framework-based prioritization rather than purely deadline-driven reaction.",
+        "Developing data-driven checkpoints rather than relying solely on informal consulting."
+      ],
+      "overall_observation": "Atif is a strong candidate for the project management role, showing a natural fit for team leadership, task tracking, and structured planning. His background in co-founding clubs and managing placement drives shows high ownership and execution capability. He handles team follow-through exceptionally well. However, his repeated tardiness (20 minutes late to both scheduled interviews) represents an operational risk. Despite this, his core competencies are solid, and he is recommended for hold/conditional hire.",
+      "action_label": "🟡 Hold",
+      "key_risk": "Tardiness and punctuality risk; candidate was 20 minutes late to both scheduled interview sessions, citing technical issues.",
+      "placement_fit": "Strongest in structuring work and follow-through—best fit for operations-heavy project tracking and team coordination.",
+      "recommendation_basis": "Natural Fit average of 4.0/5 driven by strong Structuring (4.5) and Follow-Through (4.5). Org Fit average of 3.7/5 driven by Innovation (4.0) and Authenticity (4.0). Total score of 7.7/10 lands in the Can Be Considered tier."
+    }
+  ],
+  "gd_eliminations": [
+    {
+      "name": "Mufiz Ansari",
+      "outcome": "Eliminated at GD",
+      "note": "Mufiz contributed briefly to the early discussion but was eliminated at the end of the GD phase due to low participation and limited understanding of initiatives."
+    },
+    {
+      "name": "Pranjal Singh",
+      "outcome": "Eliminated at GD",
+      "note": "Pranjal spoke about project manager duties in GD but did not demonstrate sufficient alignment or preparation. He was eliminated before the HR round."
+    },
+    {
+      "name": "Rooli",
+      "outcome": "Eliminated at GD",
+      "note": "Rooli contributed briefly to the early phase of GD but was eliminated before individual rounds due to low participation."
+    },
+    {
+      "name": "Rani Parihar Thakur",
+      "outcome": "Did not advance past GD (Left the meeting early)",
+      "note": "Rani participated briefly at the start but disconnected/dropped off early in between the Group Discussion and was not evaluated further."
+    },
+    {
+      "name": "Ojas Khetarpal",
+      "outcome": "Did not advance past GD (Left due to technical issues)",
+      "note": "Ojas contributed strongly to the GD, discussing his Rotaract Club secretary experience and social projects. However, he dropped off due to severe power/electricity issues at his location and could not join the HR round."
+    },
+    {
+      "name": "Saikumar Datla",
+      "outcome": "Withdrew during HR Round",
+      "note": "Saikumar has 6 months of coordination experience and co-managed programs. However, during the HR round, he withdrew his application upon learning the internship was a contract with no immediate full-time conversion, citing a need for immediate full-time employment."
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+﻿WEBVTT
+
+1
+00:00:04.170 --> 00:00:07.899
+Sushma: Good afternoon, everyone. Welcome to the Bridget Management Interviews.
+
+2
+00:00:08.170 --> 00:00:12.090
+Sushma: I'm Sushma, HR at Omisha Foundation, Roman A4C.
+
+3
+00:00:12.500 --> 00:00:18.000
+Sushma: The first round of this interview starts with group discussion.
+
+4
+00:00:19.660 --> 00:00:21.740
+Sushma: So, in this group discussion.
+
+5
+00:00:21.870 --> 00:00:29.980
+Sushma: We would like to hear from you about your understanding of F4G and the role, project management intern role.
+
+6
+00:00:30.620 --> 00:00:45.689
+Sushma: So, what do you understand? By seeing the job description, what do you understand about us, about AFOG? And what do you understand about, project management intern role at Ohasha Foundation? Like, at AFOG?
+
+7
+00:00:46.500 --> 00:00:54.230
+Sushma: So I'm just giving you 3 to 4 minutes of time if you would like to note down a point to discuss.
+
+8
+00:00:54.380 --> 00:01:01.179
+Sushma: You can do that, and after that, any one of you plays that you are understanding.
+
+9
+00:01:01.490 --> 00:01:03.290
+Sushma: It's like a group discussion.
+
+10
+00:01:03.530 --> 00:01:05.280
+Sushma: Just share your understanding.
+
+11
+00:01:05.880 --> 00:01:10.399
+Sushma: And you can add a few more points from others' understanding as well, like that.
+
+12
+00:01:12.470 --> 00:01:13.810
+Sushma: I hope I'm clear.
+
+13
+00:01:14.400 --> 00:01:15.289
+Isha patel: Yes, ma'am.
+
+14
+00:01:15.640 --> 00:01:16.840
+Priyanka Yadav: It's not.
+
+15
+00:01:17.730 --> 00:01:26.629
+Sushma: Meanwhile, yeah, meanwhile, I'm thinking that, I'm hoping that everyone drop your resume, yes.
+
+16
+00:01:26.760 --> 00:01:31.700
+Sushma: Then you can… Take 3 to 4 minutes of time to gather the prompts.
+
+17
+00:04:40.020 --> 00:04:42.280
+Sushma: Okay, shall we start?
+
+18
+00:04:43.310 --> 00:04:44.120
+Isha patel: Thanks.
+
+19
+00:04:44.400 --> 00:04:50.630
+Sushma: who you would like, who would like to start? First of all, let's discuss about AFOG.
+
+20
+00:04:51.310 --> 00:04:53.289
+Sushma: What do you understand about APOG?
+
+21
+00:04:56.040 --> 00:04:57.230
+vivek shelke: Can I stop?
+
+22
+00:04:58.110 --> 00:04:58.830
+Sushma: Please.
+
+23
+00:04:59.420 --> 00:05:05.110
+vivek shelke: So, called, what I understand upon about AFOG is, it's, like,
+
+24
+00:05:05.390 --> 00:05:08.659
+vivek shelke: In FOG, you help, like,
+
+25
+00:05:09.100 --> 00:05:15.929
+vivek shelke: It's work on ethical AI governance, like mental well-being, or helping the people to adopt the AI.
+
+26
+00:05:16.180 --> 00:05:18.110
+vivek shelke: In this AIG1 world.
+
+27
+00:05:18.220 --> 00:05:26.699
+vivek shelke: So basically, you help, peoples to empower, like, youth in AI and, the technology which is going on.
+
+28
+00:05:29.720 --> 00:05:30.330
+Isha patel: Yes.
+
+29
+00:05:34.110 --> 00:05:41.859
+Priyanka Yadav: Basically, AI… A4G stands for AI for Good, goods, Impact and Collaboratives.
+
+30
+00:05:41.870 --> 00:06:00.310
+Priyanka Yadav: Its major focus is on governance of AI and social innovation impact without… we are developing… well, A4G is developing AI for the benefit of society, so the society and our A4G aim should work together.
+
+31
+00:06:00.310 --> 00:06:04.830
+Priyanka Yadav: Without causing damage to anyone.
+
+32
+00:06:05.740 --> 00:06:23.669
+Isha patel: Yes, ma'am, even, I've seen that A4Gs, it is essential to support people and using AI in effective manner so that we could, uplift this, socio-economic status of people by, using AI and creating jobs rather than, replacing their jobs with AI.
+
+33
+00:06:25.650 --> 00:06:26.159
+Harshita kerni: And now…
+
+34
+00:06:26.160 --> 00:06:26.610
+Sachindra Kumar: So…
+
+35
+00:06:26.840 --> 00:06:42.169
+Harshita kerni: Ai is responsible to create positive social impact, and especially in areas like AI governance and mental well-being, and social-economic well-being, and for the betterment of the people and the society.
+
+36
+00:06:47.490 --> 00:07:05.900
+Sachindra Kumar: So, which comes under Hita Foundation, which helps in, three focus areas. So, AI for governance, AI for social well-being, and, one more is AI for mental well-being. So, I think this, in all these three sectors, AI is working
+
+37
+00:07:06.310 --> 00:07:12.849
+Sachindra Kumar: we can take AI in better conditions, in rehabilitating the professionals, replaced by AI.
+
+38
+00:07:12.850 --> 00:07:16.200
+Sushma: Interrupting, your video was tucking.
+
+39
+00:07:16.430 --> 00:07:18.439
+Sushma: It's… it was frozing in between.
+
+40
+00:07:25.840 --> 00:07:27.330
+Sachindra Kumar: Ma'am, is it audible, ma'am, now?
+
+41
+00:07:30.520 --> 00:07:32.690
+Sachindra Kumar: Yes, ma'am. So, operating… Yes.
+
+42
+00:07:33.290 --> 00:07:36.409
+Sachindra Kumar: Yes, ma'am, can I continue, ma'am? I'm audible.
+
+43
+00:07:37.320 --> 00:07:43.830
+Sachindra Kumar: Thank you, ma'am. Yes. So AI, which… AI… A4G, which comes under Omisha Foundation.
+
+44
+00:07:44.020 --> 00:07:45.420
+Sachindra Kumar: Which stands as.
+
+45
+00:07:45.480 --> 00:07:56.119
+Sachindra Kumar: AI for good. It has 3 focus areas, as it has been discussed, like AI governance, AI for mental well-being, and AI for social economic well-being. So.
+
+46
+00:07:56.150 --> 00:08:08.010
+Sachindra Kumar: AI for governance, which helps people in proving the things, and even AI for mental well-being, which helps the rehabilitating the professionals, especially who are replaced by the AI automation and all.
+
+47
+00:08:12.500 --> 00:08:16.829
+Harshita kerni: It makes the, like, AI makes it,
+
+48
+00:08:17.050 --> 00:08:30.980
+Harshita kerni: it makes it a little more human-centered, so that, using AI, we can solve humans' real-world challenges, while making sure that the benefits of AI reaches people and comi- community.
+
+49
+00:08:32.520 --> 00:08:50.040
+Isha patel: It is an initiative which also focuses on right use of AI, which is more abundant to the youth, nowadays, so that they can channelize the energies and the skills they have in a right manner by using AI, which could be potential in their growth.
+
+50
+00:08:50.710 --> 00:09:01.319
+Sachindra Kumar: Yes, and even AI helps in the people, especially the AIC generation, to make them known in which areas to use, and how to use it, and how to use it in an efficient way.
+
+51
+00:09:02.100 --> 00:09:13.820
+Priyanka Yadav: It also brings… it also brings different stakeholders, such as policy makers and civil industries, societies, academics, to create more.
+
+52
+00:09:13.820 --> 00:09:14.310
+vivek shelke: noticed.
+
+53
+00:09:14.310 --> 00:09:15.700
+Priyanka Yadav: responsible and practical.
+
+54
+00:09:16.500 --> 00:09:17.310
+Priyanka Yadav: AIUs.
+
+55
+00:09:18.100 --> 00:09:21.150
+vivek shelke: And also, it helps government organizations.
+
+56
+00:09:21.960 --> 00:09:30.230
+vivek shelke: It also helps the government and organizations to create ethical AI policies, so it should be fair, transparent, and safe.
+
+57
+00:09:31.380 --> 00:09:38.629
+Harshita kerni: And the overall goal is to make AI beneficial for people, and not just productive for businesses.
+
+58
+00:09:43.420 --> 00:09:52.340
+vivek shelke: And it also encouraged the people from different backgrounds to participate in AI polish, like, in AI, policy discussions and everything.
+
+59
+00:09:53.110 --> 00:10:00.640
+Priyanka Yadav: Mehmet's focus is also on actionable outcomes, rather than just being discussed-based Evens.
+
+60
+00:10:03.600 --> 00:10:09.740
+vivek shelke: And it also helps for individuals to discover their new strengths and career path, with the help of AI.
+
+61
+00:10:12.400 --> 00:10:27.260
+Isha patel: It helps in creating opportunities rather than just replacing the existing work, and it also helps in building up sustainable ecosystem wherein all sectors and sections of people can participate up to the full potential.
+
+62
+00:10:29.340 --> 00:10:33.869
+vivek shelke: It also builds the communities where people support each other's growth.
+
+63
+00:10:36.230 --> 00:10:48.529
+Harshita kerni: It supports people developing new skills and opportunities in an AI-driven world, and it also promotes inclusive AI, so different communities can participate in shaping AI for future.
+
+64
+00:10:51.100 --> 00:11:03.240
+Sachindra Kumar: It also helps Eng Generation especially, not just to improve their skills specifically, but also to use the AI in an structured way, in an efficient way, which helps them in their growth.
+
+65
+00:11:04.870 --> 00:11:11.790
+vivek shelke: It also encourages the specialized skills that create long-term values in the life of individuals.
+
+66
+00:11:12.470 --> 00:11:25.129
+Harshita kerni: It also focuses on creating practical solutions, not only discussions, and it addresses changes, like, which are caused by AI, automation, and changing job roles.
+
+67
+00:11:26.390 --> 00:11:31.019
+Priyanka Yadav: It brings people and initiative together for social innovation.
+
+68
+00:11:38.630 --> 00:11:39.779
+Sushma: I would like to add above.
+
+69
+00:11:39.780 --> 00:11:40.720
+Sachindra Kumar: Handiri.
+
+70
+00:11:40.820 --> 00:11:41.500
+Sachindra Kumar: Yes.
+
+71
+00:11:42.260 --> 00:11:43.280
+Sushma: Yeah, go on.
+
+72
+00:11:43.780 --> 00:11:55.099
+Sachindra Kumar: Yes, ma'am, it also helps in building up their initiatives which they have built, you know, which helps them to grow more robustly in their organizations.
+
+73
+00:11:56.060 --> 00:11:57.030
+Sachindra Kumar: Through AI.
+
+74
+00:12:00.670 --> 00:12:06.249
+Sushma: Your first, like, you know, your first addressing about, FOG is, like, you know,
+
+75
+00:12:06.640 --> 00:12:19.579
+Sushma: Okay, it is on it. Later on, your people started giving you points based on assumptions, what I… what I felt. Alright. So, apart of that, do you like to…
+
+76
+00:12:19.760 --> 00:12:25.960
+Sushma: add… about Wong, what do you know, like, you know, do you have any, you know.
+
+77
+00:12:26.550 --> 00:12:36.279
+Sushma: background understanding about the one Harshita Foundation, something. If you would like to share that also, go ahead, or otherwise we can quickly jump into the project management.
+
+78
+00:12:36.280 --> 00:12:55.730
+Sachindra Kumar: Yes. So, Amisha Foundation is one of the non-profit organizations, and we're, under Amisha Foundation, two initiatives work, that is, A4G, AI for Good, and one more is Wong, which stands for Voice of New Generation. So, I can say that, A4G is a non-profit organization
+
+79
+00:12:55.780 --> 00:13:14.930
+Sachindra Kumar: Where, it's helping, people, to bring, good initiatives, such as AI for Good and Wong, which… and especially to say about Wong, as we discussed about A4G. So, to discuss about Wong, especially it helps the Eng Generation to raise their voices, for the,
+
+80
+00:13:15.670 --> 00:13:22.370
+Sachindra Kumar: for the problems, for the issues that are happening in the world right now, easily and accessibly, I can say, according to the.
+
+81
+00:13:22.370 --> 00:13:40.630
+Isha patel: Ma'am Wong, it stands for Voice of New Generation. It focuses on empowering the youth to understand the global social and sustainability issues, and giving them platform to express themselves and contribute towards the positive outcome of and by using AI.
+
+82
+00:13:41.780 --> 00:13:44.750
+Sushma: Alright, so it's enough. So, you already, you know.
+
+83
+00:13:44.920 --> 00:13:49.529
+Sushma: cover the point. I don't want to prolong the discussion, because I got the point from you.
+
+84
+00:13:49.630 --> 00:13:51.300
+Sushma: Alright.
+
+85
+00:13:51.530 --> 00:14:00.350
+Sushma: Now, let's discuss about project management in general. What do you understand by seeing the roles and responsibilities and key results there? Like, you know?
+
+86
+00:14:00.500 --> 00:14:09.439
+Sushma: key responsibilities, everything. Don't assume out of the job description, just, you know, share what you understand from the job description.
+
+87
+00:14:11.760 --> 00:14:21.700
+vivek shelke: So from the job description, it was clear that we will work on real social impact projects where we are to take ownership instead of following the instructions.
+
+88
+00:14:24.350 --> 00:14:40.870
+Harshita kerni: And the main goal is to break the, like, the goals into a small milestone, and assign responsibilities, and manage the resources and timelines as well, by identifying risk before they become problems.
+
+89
+00:14:40.870 --> 00:14:47.359
+Harshita kerni: And resolving issues, during execution, and also maintaining the quality, side by side.
+
+90
+00:14:48.240 --> 00:14:58.429
+Isha patel: Ma'am, I've seen that project management, it is a process of, taking or getting a specific role and turning it into structure, well-mannered, and,
+
+91
+00:14:58.430 --> 00:15:23.180
+Isha patel: well-planned exei- well-planned, form to execute in a proper way, wherein we could, work with people and, cooperate each other in work, so that we could gain the, outcome of the task in a proper manner, where we are also taking the feedbacks and assessing the risks and, using AI to identify the risk beforehand, and then, implementing the
+
+92
+00:15:23.180 --> 00:15:30.670
+Isha patel: So that we could… Work to the full potential and gain positive outcome of the, process.
+
+93
+00:15:31.500 --> 00:15:32.010
+Priyanka Yadav: Ma'am?
+
+94
+00:15:32.010 --> 00:15:51.640
+Priyanka Yadav: from the GD, I can clearly see that project goal… first, we have to decide the project goal, then we have to break it into the task and milestone, then assign people and resources to the particular task, and identify risk that can be… that can occur in future, and execute the project.
+
+95
+00:15:51.640 --> 00:16:03.229
+Priyanka Yadav: After that, we have to monitor the quality and progress of the project, and if any issue occurs. So, we have to solve the issue. Issue is something that has already occurred, so we have to solve it.
+
+96
+00:16:04.050 --> 00:16:09.940
+Priyanka Yadav: And after that, we have to exhilarate when necessary and complete the project successfully.
+
+97
+00:16:13.130 --> 00:16:17.280
+Sachindra Kumar: occurring to me, I think, as a project management intern role, as the…
+
+98
+00:16:17.390 --> 00:16:30.059
+Sachindra Kumar: Word itself mentions intern. So, we actually start with the initiation, then with the planning phase, then with the execution phase, then with the monitoring, and lastly comes the closing phase. So.
+
+99
+00:16:30.060 --> 00:16:48.740
+Sachindra Kumar: working as a project management intern here, we communicate with the stakeholders, we communicate the tasks, we assign the tasks to the team, and we communicate like a bridge between the team lead and between the clients, and between the stakeholders, I can say that, and we can be a bridge between the project
+
+100
+00:16:48.870 --> 00:16:54.910
+Sachindra Kumar: To be executed within time, scope, in a… in a… in a… Efficiently.
+
+101
+00:16:57.650 --> 00:17:09.849
+Priyanka Yadav: And ma'am, GD also mentioned ownership. That requires we have to take accountability for whatever we are doing, and we have to be… we have to be… we have to give reasons for everything.
+
+102
+00:17:23.500 --> 00:17:42.969
+Harshita kerni: Like, the main goal is the execution, and first we need to understand the needs that needed to be achieved, and then plan the process, and then identify the people who can act accordingly, and also gather the resources that are required, and set responsibilities and timelines.
+
+103
+00:17:42.970 --> 00:17:51.479
+Harshita kerni: And, also continuously track, whether they… everything is done on time and, moving, according to the plan.
+
+104
+00:17:51.480 --> 00:18:08.459
+Harshita kerni: And if any risk comes up, then the project manager should act early, and if an issue happens, then the project manager should make sure that the issue gets resolved and gets closed on time, so that the project doesn't get hampered.
+
+105
+00:18:09.420 --> 00:18:29.010
+Isha patel: Ma'am, for me, as I am a current BDS graduate, I'm a BDS graduate, and I'm currently pursuing MBA in healthcare, so for me, this opportunity helps me to turn my theoretical knowledge into the practical world, which will help me build the blueprint to get a successful future and growth.
+
+106
+00:18:29.010 --> 00:18:31.600
+Isha patel: Towards my academics as well.
+
+107
+00:18:33.400 --> 00:18:52.720
+Priyanka Yadav: Mehmet also mentioned that the events are non-IT. So, here the events will be not on software or technological-based. It will include people and social innovation, so we have to monitor people, like human resource, and we have to assure the qualities and everything.
+
+108
+00:18:59.250 --> 00:19:00.889
+Sushma: Anyone would like to add anything?
+
+109
+00:19:03.290 --> 00:19:05.170
+Sushma: Unmute yourselves, Sachindra.
+
+110
+00:19:06.840 --> 00:19:25.560
+Sachindra Kumar: Sorry, ma'am. First of all, I think, ma'am, we have to understand the process, whole process, how the project here works, as it is a non-IT. So, from the first to last, whatever, especially as a project manager intern, we have to be aware of the roles that we have to work in, and we have to be
+
+111
+00:19:25.560 --> 00:19:41.909
+Sachindra Kumar: assigning the task in a correct way, and we have to be working ourselves. Our task, for example, giving the MOEMs to the team leads, and giving the POA shields, like, for example, and everything that has to be mentioned in a recorded way.
+
+112
+00:19:41.910 --> 00:19:47.729
+Sachindra Kumar: And, especially if any risk occurs, we have to manage it in an efficient way.
+
+113
+00:19:53.090 --> 00:20:14.829
+Harshita kerni: as A2G is under the Omisha Foundation, is a non-profitable organization, so we need to make sure that the resources are limited, and the project manager needs to plan carefully, and use people according to their strengths, and identify risk early, and make sure the projects
+
+114
+00:20:14.830 --> 00:20:21.330
+Harshita kerni: Get delivered on time with the, intended social impact within the available resources.
+
+115
+00:20:28.170 --> 00:20:29.020
+Sushma: All right.
+
+116
+00:20:46.890 --> 00:20:48.650
+Sushma: Okay, so…
+
+117
+00:20:50.090 --> 00:21:04.979
+Sushma: So, about the Wong and FOG, like, you know, I have seen a close understanding from two of you, alright? So let me, quickly brief about us and project management, so that people get in clarity about us.
+
+118
+00:21:05.580 --> 00:21:18.210
+Sushma: So, to start this internship, anyone who are going to be, you know, giving the interview, or whomever we are going to hire. So, our policies, first of all, they have to clearly understand about us.
+
+119
+00:21:18.460 --> 00:21:24.949
+Sushma: And about the roles, so that you, they will be quickly get into the work, and they…
+
+120
+00:21:25.070 --> 00:21:30.259
+Sushma: focus everything. That's the reason we just focused in these two areas.
+
+121
+00:21:30.370 --> 00:21:38.239
+Sushma: So, currently, so if, if I talk about the Omisha Foundation here, Sachindra said that, it is, like, you know, we are having
+
+122
+00:21:38.730 --> 00:21:56.800
+Sushma: two initiators, which is Wong and FOG. Wong, which stands for Voice of New Generation, and we are focusing for the WAM, 12 to 18 group of school-going students, providing them a platform to raise their voices towards sustainability challenges.
+
+123
+00:21:57.050 --> 00:22:01.260
+Sushma: So, what are the sustainability challenges? They can come up some,
+
+124
+00:22:01.700 --> 00:22:09.649
+Sushma: You know, innovative solutions, and we increase and motivate them to put those solutions from their end in their locality.
+
+125
+00:22:10.350 --> 00:22:21.209
+Sushma: So that the change comes from their, from their generation, and we call them, they are the future change makers. So they are the future generation. So that's the reason we focus that is kind of growth.
+
+126
+00:22:21.380 --> 00:22:26.999
+Sushma: And currently, we are not much active in the work, but we will be, so far, we organize
+
+127
+00:22:27.170 --> 00:22:29.979
+Sushma: 7 versions of Sustaines Park events.
+
+128
+00:22:30.200 --> 00:22:43.559
+Sushma: Which we provide them platform, and these target, 12 to 18 is group of schools, school-going students participated, and the, like, we do have a community as well. So, this is,
+
+129
+00:22:43.800 --> 00:22:50.949
+Sushma: about the work, and in future, we are planning to organize more, versions of Sustainer Spark events.
+
+130
+00:22:51.190 --> 00:22:57.059
+Sushma: And, like, not only one day event, we are also planning to have a week event as well.
+
+131
+00:22:57.220 --> 00:23:11.239
+Sushma: This is about the one. And currently, we are very active, towards the AI4G initiator, which is AI for Good, Impact Collaborative, the name itself suggesting that, Impact Collaborative, AI for Good. So, if I talk about the
+
+132
+00:23:11.520 --> 00:23:19.060
+Sushma: mission. So, which, you know, our mission is to support individuals and communities, which is
+
+133
+00:23:19.130 --> 00:23:28.340
+Sushma: impacted by AI-driven changes by bringing together. We would like to collaborate, policymakers, researchers.
+
+134
+00:23:28.380 --> 00:23:41.119
+Sushma: donors, institution, institutions, like, etc, global leaders, who are, like, you know, working towards the good impact for air, good impact for air for good.
+
+135
+00:23:41.290 --> 00:23:51.830
+Sushma: So, we, we are all, you know, would like to collaborate and co-create, solutions towards our three focus areas.
+
+136
+00:23:52.250 --> 00:23:54.720
+Sushma: And if I talk about our vision.
+
+137
+00:23:55.060 --> 00:24:11.679
+Sushma: So, we build, here we, here the vision is where AI becomes the natural extension of human, human goodness. So, we believe that AI should be, should become a natural extension for human goodness. It should not be harm for the
+
+138
+00:24:11.820 --> 00:24:25.930
+Sushma: human, so that, you know, we can enhance the compassion, equity, and well-being, so rather than replacing the human values. So, we don't want to replace the human values because of AI. So, we want to see that,
+
+139
+00:24:26.200 --> 00:24:30.149
+Sushma: Ai should become a natural extension for human goodness only.
+
+140
+00:24:30.470 --> 00:24:32.480
+Sushma: Maintaining the equity?
+
+141
+00:24:32.710 --> 00:24:36.560
+Sushma: We'll be, like, you know, and compassion as well.
+
+142
+00:24:36.970 --> 00:24:51.589
+Sushma: This is our vision and mission. If I talk about our three focus areas, so yeah, most of people, you covered that the focus areas, which is a governance of AI, A for mental well-being, and A for socioeconomic system.
+
+143
+00:24:52.080 --> 00:25:00.689
+Sushma: If we talk about Air governance. So, this is our main focus thing. Here, we… Here we work.
+
+144
+00:25:01.100 --> 00:25:08.000
+Sushma: to make sure AI developed and used in a fair way, ethical way, and responsible way.
+
+145
+00:25:08.050 --> 00:25:24.989
+Sushma: So, here, we are from, we would like to, we are, you know, working towards to promote the responsible and ethical use of AI. So, and we explored the AI Swaraj, where people and communities, you know, we can have a voice
+
+146
+00:25:25.190 --> 00:25:44.390
+Sushma: in how AI is governed. So, here, like, you know, we would like to collaborate, I, I already said that, so we would like to collaborate with policymakers and who are working, towards the policies making with the help of AI, so that we can, you know, all together, like, you know, bringing
+
+147
+00:25:44.390 --> 00:25:52.990
+Sushma: experts, government, organization, and individual citizens to create AI policies that can benefit everyone. So, what are the
+
+148
+00:25:53.030 --> 00:25:58.170
+Sushma: policies that policymakers are coming. So, you know, we would like to…
+
+149
+00:25:59.370 --> 00:26:08.150
+Sushma: collaborate with the government and request in the government to look into the ethical policymaking with the help of AI.
+
+150
+00:26:08.880 --> 00:26:13.940
+Sushma: So that we can have a, equity, and humanity as well.
+
+151
+00:26:14.080 --> 00:26:30.359
+Sushma: And coming to the air for mental well-being, yeah, here our mental well-being is, focusing the job displacements, the people who are suffering for this, because of AI. Again, Sachindra covered that thing. So we, we help people
+
+152
+00:26:30.360 --> 00:26:36.509
+Sushma: who are affected by AI changes, discover their strengths, and build a meaningful future.
+
+153
+00:26:36.960 --> 00:26:49.029
+Sushma: So if I talk about the people who are, like, you know, maybe, like, you know, losing their jobs because of AI, so that, you know, we also would like to provide them a platform
+
+154
+00:26:49.030 --> 00:26:58.959
+Sushma: So that they can come up with the niche skills, and with the solo entrepreneurship, they can, you know, have their own, individual venture with the help of AI.
+
+155
+00:26:58.960 --> 00:27:10.590
+Sushma: So that, they can have a, they can have a mentally in good position, because, we, we are assuming that most of, you know, people, maybe in future, most of N youth.
+
+156
+00:27:10.830 --> 00:27:24.050
+Sushma: if they don't find any opportunities, most of people, immediately, they thought about the societal things and etc. Because if they didn't… if they didn't find any, possibilities to survive in the world.
+
+157
+00:27:24.560 --> 00:27:38.279
+Sushma: those, things, those kind of thoughts will come, will raise in their mind. So instead of that, they can also, you know, have the… if they didn't find the opportunities, they can create their own opportunities with the help of AI.
+
+158
+00:27:38.390 --> 00:27:57.060
+Sushma: So, and we, we increase self-awareness, personal growth, and emotional well-being in this, area for mental well-being, and using of AI, to help people grow and reach their potential, or just, you know, to increase their productivity.
+
+159
+00:27:57.340 --> 00:27:59.180
+Sushma: And here,
+
+160
+00:27:59.790 --> 00:28:10.339
+Sushma: If I talk about the socioeconomic sustainability, here, we help, people build their sustainable careers and livelihoods with the support of AI.
+
+161
+00:28:10.470 --> 00:28:15.540
+Sushma: And if… if I talk about, these into, you know, we…
+
+162
+00:28:16.020 --> 00:28:22.069
+Sushma: enable the individuals to become independent professionals or entrepreneurs using AI.
+
+163
+00:28:22.480 --> 00:28:23.830
+Sushma: In ethical way.
+
+164
+00:28:24.170 --> 00:28:28.619
+Sushma: So, in that, you know, your,
+
+165
+00:28:28.800 --> 00:28:37.000
+Sushma: Looking to build trusted communities where people can earn recognitions for their skills and contributions as well.
+
+166
+00:28:38.180 --> 00:28:52.550
+Sushma: So here, we encourage the individual of people who, like, you know, to develop specialized skills, that creating a lasting value, instead of, you know, they're blindly, simply following the present market trends.
+
+167
+00:28:52.790 --> 00:29:03.700
+Sushma: this is, about, us, if, if I, if I, you know, simply talk about that. So, this A4G Impact Collaborative believes
+
+168
+00:29:04.180 --> 00:29:09.950
+Sushma: AI should improve People's lives, and not replace them.
+
+169
+00:29:10.790 --> 00:29:19.250
+Sushma: And we work to ensure AI is fair, supports mental well-being, creates sustainable career opportunities.
+
+170
+00:29:20.560 --> 00:29:25.380
+Sushma: Will let future, you know, sustainable future for everyone.
+
+171
+00:29:25.510 --> 00:29:27.350
+Sushma: So, this is our…
+
+172
+00:29:27.460 --> 00:29:35.700
+Sushma: like, you know, a book and vision about the A4G. If I talk about the role, project management intern role.
+
+173
+00:29:36.260 --> 00:29:43.230
+Sushma: So let me, you know, give a clarification that this is 6 months of internship program.
+
+174
+00:29:43.520 --> 00:29:51.350
+Sushma: And he'll… Most of projects are into non-AT-based projects, I can say.
+
+175
+00:29:51.660 --> 00:29:54.749
+Sushma: If I'm telling the non-AD-based projects.
+
+176
+00:29:55.450 --> 00:30:13.879
+Sushma: the projects itself, like, you know, event-relevant. So, here, I, I, if you understand about the FOG, so we would like to collaborate with the people, and we have to, you know, would like to build, like, trusted communities, think tank, communities, etc. For that, we have to, you know, organize a few events.
+
+177
+00:30:14.200 --> 00:30:24.139
+Sushma: Like, podcast series, or, you know, some other, like, you know, sharing the ideas, like, essay contest relevance, like that, like, symposium.
+
+178
+00:30:24.580 --> 00:30:31.069
+Sushma: such kind of events. So, as a… you shall have to take that event as a project.
+
+179
+00:30:31.900 --> 00:30:38.980
+Sushma: should have to focus 3 KIs. The first one is Risk management and issue management.
+
+180
+00:30:39.210 --> 00:30:47.800
+Sushma: If I talk about the issue management, what are the ongoing Issues already occur and ongoing.
+
+181
+00:30:48.180 --> 00:30:53.499
+Sushma: You have to identify Then, and come up with some resolution plan.
+
+182
+00:30:53.920 --> 00:30:58.330
+Sushma: And the risk management is about anticipating the future risk.
+
+183
+00:30:59.320 --> 00:31:02.759
+Sushma: So that you can come up some mitigation plan for the risk.
+
+184
+00:31:04.040 --> 00:31:14.599
+Sushma: These are very two important, these are the, risk management, risk and issue management, or VERIC2, are the very important key result area.
+
+185
+00:31:14.700 --> 00:31:26.669
+Sushma: In project management at Harsha, we believe. Because if these two, like, you know, ensure risk management escalated or identified, in the right time, the whole
+
+186
+00:31:27.060 --> 00:31:29.460
+Sushma: Project will be in the right place.
+
+187
+00:31:29.560 --> 00:31:39.000
+Sushma: And a part of that, quality assurance. What are the deliverables that you're getting from your respective teams? Making sure that quality is up to the mark. And you should have to
+
+188
+00:31:39.070 --> 00:31:52.459
+Sushma: Set up as standard, qualities, etc. Because we believe that as a common sense skill, you can review all any kind of, you know, their deliverables, like a document, collateral, etc, whatever maybe you're getting from the team members.
+
+189
+00:31:54.160 --> 00:32:09.330
+Sushma: The last one is, like, you know, resource mobilization. So, what are the resources required to complete the project? You have to identify and make sure that resources is, legally available to the respective
+
+190
+00:32:09.940 --> 00:32:10.810
+Sushma: Team.
+
+191
+00:32:11.650 --> 00:32:12.920
+Sushma: Or in Doodle.
+
+192
+00:32:13.130 --> 00:32:24.610
+Sushma: So, here, if I talk about you, including these, You must Focus into building the stretches.
+
+193
+00:32:25.590 --> 00:32:26.850
+Sushma: and processors.
+
+194
+00:32:27.100 --> 00:32:38.469
+Sushma: Based in this processing of risk management, tissue management, quality assurance, and resource mobilization, you must be able to build a good structures and processes
+
+195
+00:32:38.650 --> 00:32:39.970
+Sushma: A good flow.
+
+196
+00:32:40.560 --> 00:32:43.339
+Sushma: Throughout the… Project.
+
+197
+00:32:44.300 --> 00:32:49.010
+Sushma: So this is what we're expecting from project manager, project management interns.
+
+198
+00:32:50.090 --> 00:32:57.410
+Sushma: it's like, you know, 30 hours of… 30 hours per week, which is Monday to Saturday. You already know everything is mentioned there.
+
+199
+00:32:57.650 --> 00:33:02.860
+Sushma: So now, if you would like to ask any doubts, you can go ahead, or otherwise we can move forward.
+
+200
+00:33:05.920 --> 00:33:10.330
+Harshita kerni: So will we use any tools regarding, project management?
+
+201
+00:33:10.330 --> 00:33:15.520
+Sushma: See, currently, the project managers are collaborating, with the tech team.
+
+202
+00:33:16.090 --> 00:33:21.950
+Sushma: for the developing of OPM tool, which is, like, you know, a good AI tool.
+
+203
+00:33:22.290 --> 00:33:36.060
+Sushma: which we are customizing, we are, you know, building with the help of tech team. So, it is in progress. If that is, successfully deployed, it will be deployed mostly, like, you know, in this month, mostly.
+
+204
+00:33:36.200 --> 00:33:47.089
+Sushma: then you will get access for that tool. So that in that tool, you can do the access of risk, issue, or everything you can manage, whole end-to-end budget management in that tool.
+
+205
+00:33:48.440 --> 00:33:59.519
+Isha patel: Ma'am, I have a question, like, what are the qualities that you notice or see, when a project is completed by an intern, from your perspective?
+
+206
+00:34:02.200 --> 00:34:03.800
+Sushma: I didn't get to a question.
+
+207
+00:34:04.180 --> 00:34:14.829
+Isha patel: Okay, so what are the qualities that you see, that the organization sees in the intern who has completed a particular project which is beneficial for, both the parties, like…
+
+208
+00:34:15.860 --> 00:34:22.390
+Sushma: Yeah, Azi, instead of… Telling about the quality, so I can say that these three KRAs…
+
+209
+00:34:22.760 --> 00:34:34.370
+Sushma: If the… if the individual project manager intern follows these three KRIs in their respective project, we can see a success, individual success.
+
+210
+00:34:34.870 --> 00:34:37.740
+Sushma: Game success, project successes.
+
+211
+00:34:40.139 --> 00:34:56.659
+Harshita kerni: And what will be the working structure, like, do we have to, like, is… this is an event-based, like, internship, like, we have to work according to the events. So, like, how is, like, we are going to work?
+
+212
+00:34:57.490 --> 00:35:15.900
+Sushma: We do have the… see, if one event is completed, so you have to plan, another event is also in, you know, in a thought. So you have to work on the scope, first of all, creating the goals, all kind of things you have to work on. So one is completed, another one will come. It's like, you know, you should not wait for…
+
+213
+00:35:15.940 --> 00:35:19.850
+Sushma: another event to be, you know, rolled out, like that. So it is ongoing.
+
+214
+00:35:19.850 --> 00:35:21.219
+Harshita kerni: Okay, so we would…
+
+215
+00:35:21.220 --> 00:35:23.980
+Sushma: We will be having another event in place.
+
+216
+00:35:25.030 --> 00:35:27.869
+Harshita kerni: So, we will have events on a daily basis?
+
+217
+00:35:28.540 --> 00:35:36.840
+Sushma: No, no, it's not a daily basis. See, here, if I tell about the event, for instance, now we are planning to have a podcast series.
+
+218
+00:35:37.610 --> 00:35:41.969
+Sushma: So that will be mostly we are planning, in this, you know.
+
+219
+00:35:43.310 --> 00:35:49.460
+Sushma: In this third week of the month, mostly we will start, we will give a start third week or second week of the month.
+
+220
+00:35:49.940 --> 00:35:54.039
+Sushma: So, maybe that podcast series should be planned 6 episodes.
+
+221
+00:35:54.590 --> 00:35:58.229
+Sushma: Every episode is planned, like, you know, for…
+
+222
+00:35:58.810 --> 00:36:14.280
+Sushma: every week, we do… if we plan one episode, so for those, period, you have to work for that podcast series, and you have to, even mostly marketing and growth team, so every project manager will be given two teams… three, three teams to work on that.
+
+223
+00:36:14.620 --> 00:36:23.310
+Sushma: So, in their respective teams, they need to… they need to, you know, track the progress of each individual… of the respective team members.
+
+224
+00:36:24.170 --> 00:36:36.560
+Sushma: Of the respective event goals. And that's a… every event is having a duration, which is one month of event, or like, you know, upcoming of event, or ongoing event, like that.
+
+225
+00:36:36.610 --> 00:36:49.370
+Sushma: So, mostly it will be, like, you know, one month or two months, like that. It's not, like, you know, weekly-wise or daily-wise events. It's not a… it is very difficult to scale, like, you know, to organize the event daily.
+
+226
+00:36:49.370 --> 00:36:49.910
+Isha patel: Yes.
+
+227
+00:36:50.830 --> 00:36:56.229
+Sushma: So, we usually have a particular timeline for the event.
+
+228
+00:36:56.400 --> 00:37:05.669
+Sushma: If we fix the timeline, maybe the timeline fix for the next month, and you have to make and choose starting at least from this month onwards, like that.
+
+229
+00:37:06.610 --> 00:37:07.380
+Sushma: Clear?
+
+230
+00:37:08.790 --> 00:37:09.810
+Harshita kerni: Okay, ma'am.
+
+231
+00:37:10.100 --> 00:37:12.730
+Harshita kerni: So, the projects will be the events.
+
+232
+00:37:14.390 --> 00:37:14.970
+Sushma: Yeah.
+
+233
+00:37:15.440 --> 00:37:15.900
+Harshita kerni: Okay.
+
+234
+00:37:22.090 --> 00:37:30.189
+Sushma: And you also will be getting, chance to work towards this, you know, OPM2 with the collaboration of tech team.
+
+235
+00:37:30.570 --> 00:37:36.330
+Harshita kerni: And we will, like, contact and interact with all the teams through the OPM tool.
+
+236
+00:37:37.350 --> 00:37:38.610
+Sushma: Yeah, exactly.
+
+237
+00:37:38.840 --> 00:37:39.610
+Harshita kerni: Okay.
+
+238
+00:37:45.850 --> 00:37:50.810
+Sushma: Anything? Oh, alright. So, quickly, please, you know, share your,
+
+239
+00:37:51.450 --> 00:37:55.789
+Sushma: I just want to hear from each and every one. What's your career goal?
+
+240
+00:37:56.200 --> 00:37:59.620
+Sushma: Why… why project management, and why FOG?
+
+241
+00:38:02.180 --> 00:38:04.679
+Sushma: What motivates you to do this internship?
+
+242
+00:38:05.720 --> 00:38:09.270
+Sushma: The four questions. The first one, what's your career goal?
+
+243
+00:38:09.520 --> 00:38:14.880
+Sushma: Why F4G and why project management? What motivates you to do this internship?
+
+244
+00:38:15.020 --> 00:38:18.500
+Sushma: Please, one by one, cover these, four questions.
+
+245
+00:38:20.610 --> 00:38:33.329
+Harshita kerni: So, I have chosen project management because I enjoy planning, organizing people, and doing the task, and solving problems, and taking responsibility for getting things done.
+
+246
+00:38:33.530 --> 00:38:51.639
+Harshita kerni: And I am also interested in working for A4G, because it combines project management with social impact and responsible AI, which is, like, the future of, like, our generation and the generation coming up, and which is the need of the all.
+
+247
+00:38:51.640 --> 00:39:00.360
+Harshita kerni: And the idea of working on projects where I… the final outcome can actually create value for people and society.
+
+248
+00:39:02.080 --> 00:39:13.600
+Harshita kerni: Also, I want to develop my skills in planning and risk and management and execution. That's why I am looking to work forward with A4G as a project manager.
+
+249
+00:39:15.260 --> 00:39:16.070
+Priyanka Yadav: Ma'am?
+
+250
+00:39:16.120 --> 00:39:25.270
+Priyanka Yadav: Ma'am, my future goal is to become a project manager. I enjoy seeing ideas convert into the, convert into the action.
+
+251
+00:39:25.290 --> 00:39:39.279
+Priyanka Yadav: And, I am interested in A4G because it combines two areas. That is, for… that is, project execution and social impact. I have done a research on…
+
+252
+00:39:40.170 --> 00:39:48.779
+Priyanka Yadav: policies that can… policies for Vixed Bharag, that is, aligned government, corporations, and,
+
+253
+00:39:49.020 --> 00:40:04.789
+Priyanka Yadav: individual, so that we can achieve a better objective. From there, I developed an interest in such things where I can, I can think analytically by combining all the sectors to make a more bigger objective, and to achieve it.
+
+254
+00:40:10.010 --> 00:40:29.240
+Isha patel: Ma'am, my long-term goal is to build career in healthcare management, where I can combine my both pasture of dental surgery background with the management skills that I am gaining through my MBA. So my experience in the academics and my publications has helped me develop interest in research, structure thinking, communicating.
+
+255
+00:40:30.540 --> 00:40:38.360
+Isha patel: Where I, where I could express and, take part in the, take part in,
+
+256
+00:40:39.180 --> 00:40:43.359
+Isha patel: Take part in, growing up, by environment.
+
+257
+00:40:43.360 --> 00:41:05.250
+Isha patel: And I see this project as an important skill because it involves planning, coordination, problem solving, and execution. And I chose A4G because it focuses on responsible AI and creating social impact, which is meaningful to me, as my background is in managing people and creating awareness about health.
+
+258
+00:41:05.380 --> 00:41:19.160
+Isha patel: So, and this internship would help me, gain practical experience in managing, real projects with developing my skills that I could later apply, for gaining, good growth and having a fruitful future.
+
+259
+00:41:20.650 --> 00:41:25.889
+Sushma: Being a BDS student, why did you choose your master's and MBA?
+
+260
+00:41:26.330 --> 00:41:43.640
+Isha patel: So ma'am, I… after completing my BDS, before getting into management, I was working as a lecturer in Dharm City Desi University. So, where my job roles include mentoring, tutoring, students, doing patient work, and along with that.
+
+261
+00:41:43.640 --> 00:42:06.170
+Isha patel: I had various documentation works, which, and execution of various plans where the hospital was included in, which was aligned to the policies that the government is making, for betterment of the, government and, PHCs and CHCs. So, from there, I gained more interest, and inclination towards managing
+
+262
+00:42:06.190 --> 00:42:20.699
+Isha patel: And developing the healthcare so that I could bridge the gap which I have seen between what the patient wants and what patient gets. So from there, I developed interest, and I took admission, in MBA healthcare management.
+
+263
+00:42:24.720 --> 00:42:25.410
+Sushma: Next.
+
+264
+00:42:28.320 --> 00:42:44.540
+vivek shelke: So, as my background is in a management degree itself, I am doing learning distance program for Manipal University, and as per my previous experience, I have organized national hackathons in India with a partnership of Physics Zwala.
+
+265
+00:42:44.730 --> 00:42:46.340
+vivek shelke: Then, my…
+
+266
+00:42:46.340 --> 00:42:51.510
+Sushma: Just please, you know, cover those four questions. Later, we will ask your experience, but.
+
+267
+00:42:51.510 --> 00:43:05.739
+vivek shelke: So, if I'll talk about, why I am attracted towards this internship, is, like, this role gives me greater ownership of, like, an impactful project, working on real-world problems.
+
+268
+00:43:05.830 --> 00:43:14.009
+vivek shelke: So, this will develop my learning and creativity, which will help me in the future, so that's why I'm interested in this internship.
+
+269
+00:43:15.690 --> 00:43:17.310
+Sushma: Try project management.
+
+270
+00:43:18.100 --> 00:43:19.110
+vivek shelke: So, as I mean…
+
+271
+00:43:19.110 --> 00:43:21.720
+Sushma: Project Management, and by A4G.
+
+272
+00:43:22.880 --> 00:43:39.790
+vivek shelke: So, basically, AFOG, because AFOG, makes some impact in society, with the AI and all, so it's helping the people, or, reforming the society, which aligns with some of my previous, experiences.
+
+273
+00:43:39.890 --> 00:43:57.970
+vivek shelke: where I want to grow most, and why project, product, project management is because, as I said, from starting only, I am interested in events, or organizing, or taking the leadership ownership, so the product, project management is role, where I can do these all things.
+
+274
+00:44:01.600 --> 00:44:03.140
+Sushma: What's your career goal?
+
+275
+00:44:04.940 --> 00:44:15.189
+vivek shelke: So, basically, my career goal in management is only to grow into the management area, such as in product or project management.
+
+276
+00:44:19.370 --> 00:44:22.380
+Sushma: And what motivates you to do this internship?
+
+277
+00:44:23.880 --> 00:44:37.280
+vivek shelke: So, the motivation is, like, how if, your organization is, is interacting, or, it's doing work with the AI, like, AI, making AI policies.
+
+278
+00:44:37.280 --> 00:44:46.659
+vivek shelke: or, teaching to the youth about AI, reforming the AI. So, which, as I also come from a technical background, so this, all things…
+
+279
+00:44:46.690 --> 00:44:51.059
+vivek shelke: Have been, like, attracted me more.
+
+280
+00:44:55.870 --> 00:44:56.980
+Sushma: Okay, next.
+
+281
+00:45:05.120 --> 00:45:07.269
+Sushma: Yeah, next, I think,
+
+282
+00:45:07.880 --> 00:45:08.490
+Sachindra Kumar: Hello?
+
+283
+00:45:08.960 --> 00:45:10.009
+Sushma: Yes, Sachindra Mode.
+
+284
+00:45:10.210 --> 00:45:12.709
+Sachindra Kumar: Yes, ma'am, it's audible, ma'am, clearly.
+
+285
+00:45:12.710 --> 00:45:13.560
+Sushma: Yeah, yeah, please.
+
+286
+00:45:13.560 --> 00:45:21.059
+Sachindra Kumar: Yes, ma'am, thank you. So, actually, my career goals lies in, project management, and where I want to experience more,
+
+287
+00:45:21.240 --> 00:45:32.049
+Sachindra Kumar: I want to gain more experience in project management domain, and as well as, where I have to, if I want to tell openly, I want to switch, from the tech to the…
+
+288
+00:45:32.060 --> 00:45:50.930
+Sachindra Kumar: project management itself, as my career lies… as I want to, have more experience in project management, and then to switch to program management. And, why especially, A4G is, I can say that, A4G lies with the new technologies, with the new innovations, and especially it helps the Internation
+
+289
+00:45:50.930 --> 00:46:11.470
+Sachindra Kumar: And, raising their voices, for the right things, and where also it, it, initializes with the government, initiatives, which is much better, I can say. And one more thing is, helping, like, the Eng Generation is my main goal, so I've chosen FOG to work with it.
+
+290
+00:46:15.050 --> 00:46:16.719
+Sushma: Why project management?
+
+291
+00:46:17.640 --> 00:46:35.530
+Sachindra Kumar: Yes, ma'am. So, actually, my main strength and main goals lies in the skills of project management, and I love people, bringing people on the same page, working, bringing them to work on the same page, and I love, planning and communicating with the people, and with, doing the tasks.
+
+292
+00:46:35.620 --> 00:46:46.489
+Sachindra Kumar: And executing the project on time. So, this made me to… my main strength lies, which lies in project management skills, made me to choose the path of project management field.
+
+293
+00:46:48.330 --> 00:46:49.110
+Sushma: Okay.
+
+294
+00:46:51.270 --> 00:46:55.790
+Sushma: And what motivates you to do this internship? Did you cover this?
+
+295
+00:46:56.490 --> 00:47:11.829
+Sachindra Kumar: Yes, ma'am. So, actually, as I've said, ma'am, it also helps us to gain more experience in one of these wonderful organizations, like Omisha, and which also helps us to bring value to the organization by bringing our skills to the organization itself.
+
+296
+00:47:13.090 --> 00:47:16.329
+Sushma: Okay. See, currently you're not pursuing, right?
+
+297
+00:47:17.630 --> 00:47:22.239
+Sachindra Kumar: No, I'm working as a PM intern at another organization.
+
+298
+00:47:22.610 --> 00:47:26.880
+Sushma: Yeah, so what's… What's the end date there?
+
+299
+00:47:27.750 --> 00:47:30.980
+Sachindra Kumar: Ma'am, I think within a week.
+
+300
+00:47:33.980 --> 00:47:36.390
