@@ -1,0 +1,103 @@
+﻿Line 5 [Sushma]: Good afternoon, everyone. Welcome to Tech Interviews.
+Line 9 [Sushma]: I'm Sushma, HR at Tomisha Foundation, Vogan FOJ, meet our team, HR, Sanisha, Swetcha, and Suhani will be joining. So, in the first, I just want to give a heads up about the interview process. So, in this… in today's interview, most of your three rounds will be covering.
+Line 13 [Sushma]: So, it will take a time, so I… if your patience enough, you can be in these interviews. If you have any urgent works, you can give the meet, because if you're not covering all the rounds at a time.
+Line 17 [Sushma]: And the first one is the group discussion will be there. So, in the group discussion, we will be asking you
+Line 45 [Sushma]: Once you join, as a tech intern, so the roles and responsibilities, whatever we described in the job description, after going through the job description, what do you understand about us, and what do you understand about the role? These are two major discussions we are going to have in the group discussion.
+Line 53 [Sushma]: With the shortlisted ones, we will be having a further discussions. After that, the HR discussion… with the shortlisted ones, the HR discussion will be take place.
+Line 57 [Sushma]: And natural fitment round and the organizational fitment round will take place with the next shortlisted. So this is the flow of today's interview.
+Line 121 [Sushma]: Okay, see, let me tell you very simple way. So, the first one is the group discussion. So, in this group discussion, we are expecting from you, we would like to hear from you what… what you know about A4G, about us, like, A4G vision and mission, and the three pillars focus area.
+Line 129 [Sushma]: So, these two are the major topics we'll be going to discuss in the group discussion. If you're not… if your understanding is not up to the mark, we won't consider you for the further rounds.
+Line 133 [Sushma]: And we don't want to, to take the point from AI or internet just to read from your screen also. We just want to know your level of understanding, because these are the very basic understanding. If you don't have the basic understanding, you cannot be able to go ahead with the next round. Clear?
+Line 173 [Sushma]: We will be going to start our group, round 1 group discussion.
+Line 257 [Sushma]: Now, guys, guys, sorry for interrupting. We don't want to hear about your basic details. The basic details will be covered in the HR round. Now, just please focus the straight topic. What do you understand about FH? No need of giving you redirections at all.
+Line 885 [Sushma]: Okay, there. So, HRs, let's go to the breakout room. Guys, please hold on for 2 minutes.
+Line 889 [Sushma]: Please join Room 1, guys.
+Line 1169 [Sanisha]: Now we have shifted to this room.
+Line 1197 [Sanisha]: No, not right now. You were supposed to do that in the previous round.
+Line 1385 [Sanisha]: All right. So right now I'll brief you about the organization and then I'll also brief you about the role. Just give me a minute.
+Line 1393 [Sanisha]: Go on, Suman, you could start with the briefing about the organization.
+Line 1429 [Suhani_HR]: Also, we help them to identify the challenges around them, voice their ideas, and turn those ideas into action.
+Line 1433 [Suhani_HR]: We engage and motivate those bouncers through different activities, through different gamification activities, and other initiatives. We also had 7 episodes of, like, 7 Sustainer Spark events in the back. I'm so sorry. And we are planning to organize many more in the future, if, like.
+Line 1437 [Suhani_HR]: maybe sometime, but right now, we are not planning, because our main focus is A4G. So, coming to Omisha Foundation, Omisha Foundation is a non-profit organization working towards the long-term global impact.
+Line 1493 [Suhani_HR]: So, this is the three main pillars of A4G, where we are working around. And, in simple words, A4G Impact Collaborative believes AI should improve people's lives and not replace them.
+Line 1513 [Sanisha]: Email marketing automation or AI tools around mental well-being, sustainability, and governance as well. So about 60% of your time goes into building that product from start to finish.
+Line 1529 [Sanisha]: managing databases, debugging, and helping other teams with something, if there's some breakouts or any… some bugs or issues. So, mostly, the role will revolve around this.
+Line 1577 [Sanisha]: Mother organization.
+Line 1625 [Sanisha]: Yeah, we could get to that eventually. Right now, we just have to focus on, you know, this description. And we will have first, the other HR and I will have internal discussion and we'll get back because we are also short on time. So we have to proceed with the other rounds as well.
+Line 1629 [Sanisha]: Suhani, could you come to the breakout room?
+Line 1633 [Sanisha]: Room 1.
+Line 1645 [Sanisha]: Vedant.
+Line 1657 [Sanisha]: Chandraveer, you guys could stay back. Rest of you, please leave the meeting. I'm sorry, but we are not proceeding with you.
+Line 1661 [Sanisha]: For the further rounds.
+Line 2013 [Sanisha]: We will go in another breakout room and be right back.
+Line 2017 [Sanisha]: Alright, so… Dubed and Divyansh, please leave the meeting. Unfortunately, we are not going ahead with you. Rest of you can stay back.
+Line 2025 [Suhani_HR]: And, we would proceed with the one-to-one rounds now, so you guys have to wait in the breakout room. Please be patient, and don't, like, because it can take some time, because it would be a one-to-one round. We will take some natural traits and HR round with the person. So you just have to wait in the breakout room, you can switch off your video and stay there. We will call one by one here, and we will have the conversation.
+Line 2029 [Suhani_HR]: Yeah, so you will get a notification right now to join the room one, or Sanisha can assign, and you guys can join there.
+Line 2093 [Sanisha]: We can start with Vedant.
+Line 2105 [Suhani_HR]: So first of all, hi Vedant, how are you?
+Line 2113 [Suhani_HR]: And yeah, okay, let's move with the HR round. So my first question to you is what is your family background?
+Line 2309 [Sanisha]: And also one more thing. So even in tech and tech teams, what we do is we are not making, we are not getting in contact with the clients. Whatever products we are making is for the organization itself. So if there are any people who would be using it would be the employees of the organization.
+Line 2341 [Suhani_HR]: Understood, understood. Okay. Okay, Vedant, that's all I wanted to ask you. If you will be selected, you will get a notification from our site, through maybe mail or WhatsApp, and if you will not be, like, if you're not getting any notification, then you can take it that you're not selected.
+Line 2477 [Suhani_HR]: Okay, hello, first of all, and I would like to know from you, what is your family background?
+Line 2797 [Suhani_HR]: How many candidates are left in the breakout room?
+Line 2849 [Sanisha]: Hi Chandraveer.
+Line 2929 [Suhani_HR]: Okay, any interviews planned that you're going to give?
+Line 3005 [Suhani_HR]: completing 30 hours per week. After two months, there would be an appraisal cycle for you. There would be two appraisals round for you, like, two appraisal cycles will be there, so your performance and your values, everything would be evaluated. And after two months, if you get a rating of 4 or 4 above, then you would, get.
+Line 3073 [Suhani_HR]: So that is there. Can you tell me about your family background?
+Line 3225 [Suhani_HR]: And there are different things which are going on, and coming to the technology aspect, I think the person concerned with it can brief you better on this. Once you proceed to the next round, if, so we will have the oil round, and in that also, you can ask these questions.
+Line 3281 [Suhani_HR]: But yes, because we are an AI-based organization, at the end, you have to talk as much as, like, with AI. He would give you the direction, obviously. Yeah, like, in which way you are supposed to go, how you can do this, you can discuss ideas with him. Conceptual clarity would be given by him.
+Line 3301 [Suhani_HR]: Like, you have to use your ideas. This is a place where you can put your ideas very openly. You can implement your ideas. You can work around your ideas and basically.
+Line 3317 [Suhani_HR]: With the organization's vision and mission.
+Line 3377 [Suhani_HR]: Arpit, you have joined really late, I think.
+Line 3393 [Suhani_HR]: Assign him the breakout.
+Line 3401 [Suhani_HR]: You can stay in the breakout room, guys.
+Line 3413 [Suhani_HR]: And Sanisha you can continue with the natural fit round which yeah just to.
+Line 3437 [Sanisha]: I'm first starting with your skill fit round. So whichever questions that I would ask you, you just give me a brief answer to it. All right.
+Line 3489 [Sushma]: And also, did Sanjay and Sir Arpit join here?
+Line 3493 [Sanisha]: They have joined here, I have sent them to breakout room.
+Line 3621 [Sanisha]: Skill fitment, now I'll take your organizational fitment.
+Line 3817 [Sushma]: Sanisha, there are two people from that Zoom one, so I will take the… I didn't take the HR round there, actually.
+Line 3821 [Sushma]: So I will be taking the H R round one after one.
+Line 3825 [Sanisha]: Also one more thing. So the previous candidates before him, the first guy, Vedant.
+Line 3833 [Sushma]: Forgot to say, did you check, about after the, this role, discussion, like, you know, motivation to the joint goals, something after that?
+Line 3837 [Sushma]: Did you also check, just to brief their projects, something? Because there's a… there's a tech, na? For tech, interviews, we usually ask.
+Line 3853 [Sanisha]: I found Vedant. Then we did not take natural fitment and organizational fitment because Suhani was like this stability issue. And I was like, but everyone would say that they would look for long term.
+Line 3865 [Sanisha]: I asked this guy if you would be available for the 6 months, he said yes. So, it's like, as a fresher, he knows that he's not going to get things anywhere, and if he would be motivated, I think he would do good in our organization.
+Line 3869 [Sushma]: Then we will see on that. So they were like, so do one thing. These are about the two candidates. I will be taking the HR round. You please have your own insights. And after that, take the org fit and HR fit.
+Line 3873 [Sushma]: Just, let's discuss what do you feel. If anyone from these two Ghoshu go. Actually, I'm not much sure about the Arpit, because, he's somewhere IN Swachha also feeling, but we just want to check in the HR round also, we're just feeling that. But the projects, whatever he mentioned, that is good, actually. That's the reason we just considered.
+Line 3877 [Sushma]: And this guy, Sanjay, I feel good to go so far because he's 30 years student and the projects are like very, you know, good inside projects and using both generative AI and agentic frameworks and having a decent understanding so far about us, about the role. That's it.
+Line 3889 [Sanisha]: He's also involved in some startup that he's doing by himself in flexible time and he also is doing contract work with some other organization. So on the basis of that, Suwani asked me not to take organization and natural fitment, but he said, I really want to work in this because it seems very much aligned.
+Line 3897 [Sanisha]: Yeah, because both Vedant and this guy were very much suited for solopreneurship as well, and the tech role as well. The other guy that I just talked right now was not that… he was just suited for the tech role. So, if we are screening these many people, we'll have to also look into that.
+Line 3905 [Sanisha]: Then I'll again have to take his natural and organizational fitment because I did not take it.
+Line 3917 [Sushma]: So let me first of all talk with Sanjay.
+Line 3921 [Sanisha]: It's Amit over here. Arpit here.
+Line 3929 [Sushma]: Arpit just joined Room 3.
+Line 3933 [Sanisha]: Are you moving him in the main room?
+Line 3937 [Sushma]: Yeah, I just want to move Sanjay.
+Line 3941 [Sanisha]: There is no Sanjay.
+Line 3945 [Sushma]: In room 2, I check.
+Line 3961 [Sanisha]: Hi Sanjay.
+Line 3965 [Sushma]: So, Sanjay, so let me take your HR round first. If it is good to go, then we will be taking the natural treatment at all.
+Line 3973 [Sushma]: Oh, how your career aspiration will be aligned to this organization or to this, role?
+Line 4069 [Sanisha]: Sanjay, we have lost you.
+Line 4313 [Sushma]: Okay, so what's your last round stipend?
+Line 4361 [Sushma]: Okay, so you didn't get any last round stipend that you're saying that, Guzuranpe.
+Line 4445 [Sushma]: Checking your natural fitness.
+Line 4461 [Sanisha]: I will be taking your natural fitment.
+Line 4561 [Sushma]: So, Sanjay, if you didn't hear from us, even from phone or from mail, so you can consider that we just moved with someone else, okay?
+Line 4581 [Sanisha]: Sushma have you called in Arpit inside?
+Line 4669 [Sushma]: How your career aspiration will be aligned to this organization or to this role?
+Line 4845 [Sushma]: Do you have any interviews or offers in Pipeline?
+Line 5005 [Sanisha]: Yeah. See, I found the two people who were good. One has stability issues, but Vedant, I think, could join in, considering he has just completed his…
+Line 5013 [Sanisha]: Two people, three people, actually. The other guy who was, he could be a good backup. The one I was taking, that's an organizational fitment. If we could find, we can just take him in. So that is a good backup. And apart from that, Vedant, I think…
+Line 5017 [Sushma]: Vedant.
+Line 5021 [Sanisha]: Vedant is my first priority because.
+Line 5025 [Sushma]: Did you take all the rounds?
+Line 5029 [Sanisha]: No, Aswani said he has stability issues, so we should not take organization and natural fitment. But then I was like, anyone is going to say they are going to…
+Line 5057 [Sanisha]: Vedant and the guy who is available.
+Line 5093 [Sanisha]: No. That guy has no commitments. Vedant has no commitments. He just said that eventually, he said Madhav Swani asked him if you get a full time opportunity.
+Line 5121 [Sanisha]: Anytime soon. That is what I'm saying, because he could fit in what we are doing in.
+Line 5129 [Sanisha]: He said that considering he has completed his bachelor's and he also did try to apply to full-time places, but they obviously would not take him in. And so he genuinely wants to start and he also aligns with this organization.
+Line 5145 [Sanisha]: Deshpande Vedant.
+Line 5153 [Sanisha]: And the other guy, him, he's too good to be true for our organization, because he is already doing so many things.
+Line 5165 [Sushma]: Vedantya.

@@ -1,0 +1,105 @@
+﻿Suhani_HR: Okay. So, we would just continue now with, like, I would like to hear from all of you, one by one, why A4G? Like, why, not any company and an NGO? The second thing is, what is your motivation to join this internship?
+Suhani_HR: Third is, what is your career goal? And fourth is, what are your expectations from this internship?
+Suhani_HR: So I'm repeating, what is your motivation to join this internship? What are your expectations? What is your career goal, and why A4G?
+Suhani_HR: So these four questions, you can go one by one and spell it out.
+Divyansh Verma: Oh, ma'am, can I?
+Suhani_HR: Yes, anybody can start.
+Divyansh Verma: Okay, ma'am, one second, please.
+Divyansh Verma: As a BTEC student, and to be very honest, like, I am from AIML specialization, so, from the very first year of my college journey, I am
+Divyansh Verma: More focused towards the AI and ML domains. And I am fascinated towards how this particular framework is working.
+Divyansh Verma: And currently, I am doing my own project like Agentic Knowledge Research System, in which I have implemented the AI agents and the whole workflow.
+Divyansh Verma: For the, if a particular company actually, taking an assumption, if a particular company actually have a particular database, and if an employee or an employer want to search a particular file or a doc, any kind, like how can he or she can operate in a particular field, like in a company?
+Divyansh Verma: although there is a very, maintained database, but in my situation, like, if I have to find a particular file, or I can give a prompt to the AI, like, find a particular file, or can have a text, so that he can search the particular keywords, and detects the whole
+Divyansh Verma: Of, file or a folder and generates the output according to this. So I have, I am working on a particular project then that is majorly.
+Divyansh Verma: Of, deploy on my particular local environment and detects all the files that, I
+Divyansh Verma: from my permission given to the particular AI prompt to detect all this.
+Sanisha: I'm sorry to cut you, Divansh, but then we would want to know how you want to work for this particular role, and why A4G? So you could just specifically talk about what is the motivation factor for you, and all those things.
+Divyansh Verma: Sorry for the interruption, but to be very short, I am firstly fascinated from the role that you have mentioned. Like you are not just using the AI for the productivity as I already mentioned earlier, but for the human well-being. Like if in the further my journey in this particular role, I am
+Divyansh Verma: I'm targeting the AI agentic AI or AI engineer role in current era.
+Divyansh Verma: But like if
+Divyansh Verma: In future, I want to build my own startup, which I have, I have thought about it.
+Divyansh Verma: So, your foundation is generally working with the same mindset. Like, if a particular person have not get opportunity to, build his, his own startup, he or she may help others to build such a particular startup or, to, build, the business, which
+Divyansh Verma: AI can help in this. So I am generally eager to contribute this from my side. Like I am proficient in building AI agents and orchestrating the workflows. So this particular point I mentioned here.
+Divyansh Verma: Towards what you are asking, like, how you are fascinated towards the foundation. And why A4G? Because it is, totally, collaborating and, doing for the human and social well-being.
+Divyansh Verma: So, this is my answer to your question, ma'am.
+Vedant Deshpande: Can I continue with the next?
+Sanisha: Yes.
+Vedant Deshpande: I.
+Vedant Deshpande: Just want to say the reason, personal reason for me to joining this organization would be as you are, helping the community, the people, and, to the people to understand how
+Vedant Deshpande: AI can be a risk to, your life, or like, let's say, your day-to-day life, and how you can use it sustainably. That is also amazing, that is what I find, interesting in the first place. And the things that I will learn from it, because,
+Vedant Deshpande: Once I read the JD, I was really excited about it because I will be able to contribute in multiple verticals.
+Vedant Deshpande: Let's say from actually designing the, front end, back end to also working on the workflows in terms of, product workflows or Agentic frameworks and.
+Vedant Deshpande: Also… Garlic.
+Vedant Deshpande: Having complete control over a whole product, what you guys will be quoting me. And that is was my main motivation of learning because as someone.
+Vedant Deshpande: coming as a entry-level fresher and a recent graduate, I would really like to have this opportunity to, use my knowledge and actually learn from the people that already are in this industry and get an experience on how
+Vedant Deshpande: Things are built in the production side of things, and also keeping it sustainable at the same time.
+Vedant Deshpande: Thank you.
+NUBAID UDDIN: Ma'am, can I continue?
+Sanisha: Yes, yes.
+NUBAID UDDIN: So, ma'am, basically, from your questions, the first one was about the career goal.
+NUBAID UDDIN: So, basically, I want to become and aspiring to become an AI-focused software engineer, or go towards an backend or AI role at the starting.
+NUBAID UDDIN: And that's why also that's why I am applying and reaching out towards these opportunities.
+NUBAID UDDIN: And I found A4G in that.
+NUBAID UDDIN: Also, like, I am also, like, I was also thinking to build a product and have a product-building mindset.
+NUBAID UDDIN: So, like, in my previous experience of with Atlas School of Technology, also, I have tried to build a project, which.
+NUBAID UDDIN: was at a product level. After that, I also tried to learn deployment. Also, as you asked about that, what motivates me to join A4G?
+NUBAID UDDIN: So, basically, A4G is an organization that is working for social good, also. And I find it interesting that it focuses just not…
+NUBAID UDDIN: focus on making faster or more efficient the AI, but also making sure that the person are benefited
+NUBAID UDDIN: And being a.
+NUBAID UDDIN: benefited from the product that we are building. Also, one more thing, which, in the previous, step of your hiring, you have,
+NUBAID UDDIN: Asked the question of building an AI recruitment… AI-powered recruitment system. I have also gone through it, and I think that that aligns with my skills and my experience and my project, which I have built till now.
+NUBAID UDDIN: So, and in that also, you have not just to focus on automating the process. We can consider, from my perspective, we can consider on fairness and transparency.
+NUBAID UDDIN: To generate an AI generated decision.
+NUBAID UDDIN: Also like 1 more point and which I like the most about it and that.
+NUBAID UDDIN: Like, motivated me to join A 4 G was the was to own a end to end development product AI development product.
+NUBAID UDDIN: I would get an opportunity to own a real product, take ownership, and also collaborate with a good team to understand how, like, engineering decision is done, UIS, UI, UX,
+NUBAID UDDIN: Collaboration in done and I with my.
+NUBAID UDDIN: With my skills like Python, and I have also a Flash skills, and I have worked deeply in RAG systems, and moving towards Agentic AI, so I can also contribute and develop my skill more forward towards full-stack AI development.
+NUBAID UDDIN: And I can feel that… I see that this opportunity can contribute more than an internship for me in longer term of my journey, as currently I'm in third year of BTEC.
+NUBAID UDDIN: And I can achieve.
+NUBAID UDDIN: Can help in a step towards my.
+NUBAID UDDIN: Career goals thank you.
+NUBAID UDDIN: Thank you.
+Yimkumer Pongen: Hello, am I audible?
+Sanisha: Yes, you were.
+Yimkumer Pongen: Okay, so…
+Yimkumer Pongen: I'm currently working as an AI software developer for a company in the United States. Right now, I was working for a year full time. They've changed it to contract.
+Yimkumer Pongen: based now, so basically project-based. But, yeah, the main reason why I found this position interesting is because even when applying on different platforms, I would see people posting jobs, like, they want developers to fasten their productivity, gain more margins, they want more…
+Yimkumer Pongen: Products to be delivered out fast, but this organization A4G, they want to actually educate people.
+Yimkumer Pongen: on how to use AI and also ensure that
+Yimkumer Pongen: Ensure that it's not, how to say…
+Yimkumer Pongen: being used irresponsibly. So this one, I resonate with this role on a personal level because my own mother, she finds it hard to even navigate through YouTube. So the thought of AI, AI fake images and videos, it's something scary for her.
+Yimkumer Pongen: Finding an organization that actually wants to empower.
+Yimkumer Pongen: communities to not only learn how to use AI, but also to use it for their own positive and well-being, mental growth as well. That's something that I truly found fascinating, and I really want to be part of it. So that's my reason, yeah.
+Chandraveer Singh Solanki: Okay. Hi. So…
+Chandraveer Singh Solanki: I'll first of all answer why I choose A4G or any other organization, is because A4G is really working on a problem that I'm currently living inside, that I am a fresher, and after the introduction to the Agentic AI.
+Chandraveer Singh Solanki: Most of the entry-level doors are narrowing down, and… Because of that,
+Chandraveer Singh Solanki: the things that Apogee is building around is kind of interesting to me. They are also primarily focused on the privacy side of the AI. They build the new mark.
+Chandraveer Singh Solanki: And that handles both the health and the privacy, and I care about the privacy now. One of my projects that I've built on text that is a filter between your private versus, the non-private data that is being delivered to the, normal cloud LLMs.
+Chandraveer Singh Solanki: So my work around AI is almost similar to how AGI's vision and how they work around it is.
+Chandraveer Singh Solanki: So my expectation with, this role would be, just that, whatever I do, I need a clear mentorship of what I do, because most of the things, most of the roles that other organizations offer are
+Chandraveer Singh Solanki: similar, but they do not have the people who are into that space and currently working on it. And the people in Omnisia, I believe, are the ones who are currently working on the AI space actively. And because of that, I want to be the part of it.
+Chandraveer Singh Solanki: As for my career goal, I want to make a particular.
+Chandraveer Singh Solanki: Products from idea to production and to be completely.
+Chandraveer Singh Solanki: To be, completely on the tech side of it, and handle the products on my own, with the help of AI, not…
+Chandraveer Singh Solanki: My goal is not particularly to build a AI product, but a product that helps the people in their own life.
+Chandraveer Singh Solanki: And can use in everyday.
+Sanisha: Alright.
+Sanisha: We will go in another breakout room and be right back.
+Sanisha: Alright, so… Dubed and Divyansh, please leave the meeting. Unfortunately, we are not going ahead with you. Rest of you can stay back.
+Suhani_HR: All the best to you.
+Suhani_HR: And, we would proceed with the one-to-one rounds now, so you guys have to wait in the breakout room. Please be patient, and don't, like, because it can take some time, because it would be a one-to-one round. We will take some natural traits and HR round with the person. So you just have to wait in the breakout room, you can switch off your video and stay there. We will call one by one here, and we will have the conversation.
+Suhani_HR: Yeah, so you will get a notification right now to join the room one, or Sanisha can assign, and you guys can join there.
+Sanisha: Alright.
+Divyansh Verma: Ma'am, do I have to pay this?
+Sanisha: Yes, also then you do, you do also have to leave.
+Divyansh Verma: Okay.
+NUBAID UDDIN: Ma'am, did you take my name?
+Sanisha: Yes.
+NUBAID UDDIN: Cool.
+NUBAID UDDIN: And can I go like know what was wrong?
+NUBAID UDDIN: Like, what was my mistake, basically?
+Sanisha: It's, I cannot tell… there was no mistake as such, but, however, you don't align much with what we are looking for, and that is the reason why we would not proceed with you.
+NUBAID UDDIN: Thank you, ma'am. Any future opportunity, I would be loving to do it. Please contact me. Thank you.
+Sanisha: Thank you for being there today.
+Divyansh Verma: Thank you, ma'am.

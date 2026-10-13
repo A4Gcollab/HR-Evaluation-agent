@@ -1,0 +1,416 @@
+﻿WEBVTT
+Sushma: Good afternoon, everyone. Welcome to Tech Interviews.
+Sushma: I'm Sushma, HR at Tomisha Foundation, Vogan FOJ, meet our team, HR, Sanisha, Swetcha, and Suhani will be joining. So, in the first, I just want to give a heads up about the interview process. So, in this… in today's interview, most of your three rounds will be covering.
+Sushma: So, it will take a time, so I… if your patience enough, you can be in these interviews. If you have any urgent works, you can give the meet, because if you're not covering all the rounds at a time.
+Sushma: And the first one is the group discussion will be there. So, in the group discussion, we will be asking you
+Sushma: Three major.
+Sushma: Points, 3 major topics we can consider that the first one is.
+Sushma: What do you know about us? Like, what do you know about F O G? Wong?
+Sushma: So mostly about MH.
+Sushma: And we're doing about the three pillars in FOG, vision and mission, etc. Okay?
+Sushma: And the second one is, what do you know about the tech role?
+Sushma: Once you join, as a tech intern, so the roles and responsibilities, whatever we described in the job description, after going through the job description, what do you understand about us, and what do you understand about the role? These are two major discussions we are going to have in the group discussion.
+Sushma: Okay.
+Sushma: With the shortlisted ones, we will be having a further discussions. After that, the HR discussion… with the shortlisted ones, the HR discussion will be take place.
+Sushma: And natural fitment round and the organizational fitment round will take place with the next shortlisted. So this is the flow of today's interview.
+Sushma: I hope you got about the flow.
+Sushma: So, just take 3 to 4 minutes of time, if you would like to.
+Sushma: note down any points about us, about the role, please do that quickly, but before that, please drop your updated resumes in this Zoom chat box. After dropping your updated resumes in this Zoom chat box, you can have… note down the points, what you're going to discuss about us and about the role.
+Sushma: I hope I'm pretty clear to everyone.
+Sushma: Any doubts, any concerns, just raise your… unmute yourself and ask right away.
+Mustafa Khurram: good afternoon.
+Sushma: Yeah, please go ahead.
+Mustafa Khurram: Mustafa, so I really wanted to know if you can repeat what you said.
+Sushma: Do you want me to repeat the entire thing, or the exact, the few points, what you didn't get that?
+Mustafa Khurram: Yes, exactly the few points.
+Mustafa Khurram: The few points that you said in the end.
+Sushma: To repeat the entire thing what I say, or you would like to repeat the particular… in which, thing that you…
+Mustafa Khurram: Oh.
+Sushma: getting.
+Mustafa Khurram: Regarding… regarding the interview flow.
+Sushma: Okay, see, let me tell you very simple way. So, the first one is the group discussion. So, in this group discussion, we are expecting from you, we would like to hear from you what… what you know about A4G, about us, like, A4G vision and mission, and the three pillars focus area.
+Sushma: And after that, we will be, we would like to hear what do you know about role, about the tech intern role at Omisha Foundation.
+Sushma: So, these two are the major topics we'll be going to discuss in the group discussion. If you're not… if your understanding is not up to the mark, we won't consider you for the further rounds.
+Sushma: And we don't want to, to take the point from AI or internet just to read from your screen also. We just want to know your level of understanding, because these are the very basic understanding. If you don't have the basic understanding, you cannot be able to go ahead with the next round. Clear?
+Mustafa Khurram: Yes, thank you very much.
+Sushma: Sushma now.
+Sushma: Okay.
+Sanisha: Also, others, please turn on your cameras or else I'll have to remove your voice.
+Sushma: So are you downloading the resume Sweta Sanisha.
+Sanisha: Yes, it is downloading.
+Sushma: Okay, great.
+Swetcha: you.
+Sushma: Alright. See, guys, just take 2 to 3 minutes.
+Sushma: We will be going to start our group, round 1 group discussion.
+Sushma: Shall we start?
+Sushma: So still, if you're not turning your video, sorry, we can't consider you, we just given the enough time, almost 15 minutes.
+Arpit Kumar: to sell.
+Sushma: Settle down. But still, if you didn't settle down, sorry, we cannot move forward. You can leave the meet by your own, or our team will be going to remove.
+Sushma: If you're not turning your video.
+Sushma: to.
+Arpit Kumar: To have almost.
+Sushma: Guys, here, please don't do debit, first of all. You please, if someone not talking, let them talk. After that, you please unmute and share your…
+Sushma: understanding, okay? So, firstly, let's discuss, let's focus about A4G. What do you understand about A4G?
+Sushma: you would like to go ahead, please unmute yourself and start the discussion. It's… it is not about the debate, just sharing your understanding, that's it. Just please share about A4C, the vision and vision of the three pillars, etc.
+agalya M: Hello, ma'am?
+Shaik Afrid: Yeah.
+agalya M: Hello, ma'am.
+Sushma: Kindly please check your bandwidth, you're stuffed.
+agalya M: Hello, ma'am, am I audible?
+Sanisha: Yes, you are.
+Sushma: Just, Swetcha, could you… Sorry, but Swetcha, could you please give me co-host access?
+Swetcha: Yes, Miss.
+Sushma: Yeah, please go ahead.
+agalya M: Hi ma'am. Like I'm Aalia, I'm from pre-final year, of like AML department. I'm studying in Kali, the Institute of Technology.
+Sushma: Now, guys, guys, sorry for interrupting. We don't want to hear about your basic details. The basic details will be covered in the HR round. Now, just please focus the straight topic. What do you understand about FH? No need of giving you redirections at all.
+agalya M: Yeah, okay, ma'am. Like, FOG is, like, some kind of impact movement. Like, there are 17 SDG goals that are formed by UN nations across the globe to ensure, like, that 17 SDG goals are followed properly across the nations to ensure peace and equality and the rights for everyone. So, like, Omisha Foundation is formed in Delhi.
+agalya M: To like make that movement possible and they formed the A4G movement and I think they are working on like making that A4G impacts like that you know what that SDG goes into real life by making sure to like develop products and software products
+agalya M: To make that SDG goals really very, like, in reality and, ensure, like, equality, I think.
+Sushma: Okay, so I just want to give a comment right away. So, agalia, maybe you misunderstood about us. A4G is not focusing the 17 STG goals, the home focus that. Please make a note. Others, please go ahead.
+Kashinath Biradar: Okay Sushma my name is Kashinath.
+Kashinath Biradar: Misha Foundation is a non-profit organization that works at the interaction of AI and social impact.
+Kashinath Biradar: First of all, there is, two main, movements. First one is, A4G, and the second one is, Wong, means, Vice of New Generation. Here, A4G focus on four or, three or four, main pillars.
+Kashinath Biradar: First one is the governance of AI, means ethical and transparent AI frameworks.
+Kashinath Biradar: And second one is the AI for mental well-being. It's helping the people are displayed by the AI automations. And third one is the AI for, now, Sushika means,
+Kashinath Biradar: socio-economic and, sustainability, means helping the peoples become the, with AI supports. And, second one is the, ONG, means, voice of the generation. That is the empowering young, young peoples and understand the global issues.
+Kashinath Biradar: Like sustainability and aligned with the.
+Kashinath Biradar: U… UN SDGs. It gives the new generations platform and advise their ideas, like that. And the second thing is the… our, tech intern role. Here is the part of the tech system, means, we own a…
+Sushma: Don't want to listen, taking done, let's please complete about AirPods, later we step into tech.
+Arpit Kumar: Okay, sure.
+Kashinath Biradar: Okay, thank you.
+Sushma: Nothing.
+NUBAID UDDIN: No, I would like to tell that from my personal interview and from my personal experience also and by reading about the A4G, I understand that basically its main goal is to ensure that AI is used for the benefit of society.
+NUBAID UDDIN: And, to encourage, technological, progress, also, in society. And by their three areas which they are working on, the AI government… AI governance, and, the AI for mental and AI for social economic sustainability.
+NUBAID UDDIN: They are making it they are they are making it.
+NUBAID UDDIN: They are making it beneficial for the society and also I like the idea of that AI shouldn't only be used for
+NUBAID UDDIN: think about that they are replacing human effort or making things faster. It should also help and adapt, grow and create new opportunity. And A4G is focusing on that.
+Divyansh Verma: Hello?
+Shreyash Motgi: Hello, ma'am.
+Shreyash Motgi: I'm not able.
+Divyansh Verma: Hello?
+Divyansh Verma: Please go ahead.
+Sushma: No need to ask permissions if someone stop talking.
+Sushma: Right away you can give a start.
+Divyansh Verma: Am I audible now?
+Sushma: Yes, yes, please.
+Divyansh Verma: Ma'am, in my point of view, what I have read about, A4G, basically is a subset organization under the Omaysha Foundation.
+Divyansh Verma: And it the one thing that
+Divyansh Verma: Fascinates me about this particular organization is that you are not.
+Divyansh Verma: using the AI only for the productivity and the better generation. Basically, the goal of A4G Foundation is, like, AI should be used for the
+Divyansh Verma: socio-economic… to enhancing the socio-economic impact that the AI is doing in current era. Like, you are working on the three pillars. Basically, first of all, the governance of AI. Like, if we are using AI,
+Divyansh Verma: And in particular society how it impact the individual life.
+Divyansh Verma: Can we deploy, the AI and the other, things related to the AI safely?
+Divyansh Verma: and with securities. The second pillar is, like, to maintain the mental well-being of the citizens and the employers that are working regarding this AI generation.
+Divyansh Verma: Like if the person had impacted by the AI the increasing.
+Divyansh Verma: role of the AI in the individual life, how we, how your foundation will going to be tackled in this, so that the person's mental well-being should be stabilized. And the third one is the solopreneurship.
+Divyansh Verma: Like, how if a particular person have an idea and he want to develop and go ahead with a particular reason and idea he or she have.
+Divyansh Verma: How AI can help to build this particular idea and can we revolutionize the particular decision of an individual if he or she wants to grow so I think.
+Divyansh Verma: From my opinion, what I have read about you, this is the three points that fascinates me about A4G Foundation.
+Harsh Mandge: next.
+Shaik Afrid: Ma'am, I completely accept with Divyansh Verma point because your company is focusing on using AI for good benefits like AI using for good means focusing on the healthcare, on education, on mental well-being.
+Shaik Afrid: For everything and, so, so making the best use of the AI.
+Shaik Afrid: To work with the air to understand.
+Shaik Afrid: I think, your, your company, your organization is focusing a lot, and however, I think, I think you, your organization will help a lot, to, to the people, like, for AI employment also, because instead of fearing that AI would replace the human.
+Shaik Afrid: So you you we can understand that it can also.
+Shaik Afrid: Provide opportunities for, more, maybe for future, and… and I think, maybe, I understood that your company
+Shaik Afrid: Will help that to support with that.
+Shaik Afrid: With that organization and understand.
+Shaik Afrid: That this is completely
+Shaik Afrid: Purely for working with AI for good cause.
+Santosh: I don't know.
+Santosh: Hello, ma'am. The A4G stands for AA for ROOT Co-Impact Collaboration.
+Santosh: It's it's mostly on using AI responsible to help people to create a positive social impact.
+Santosh: The remainerly stands for the making sure AI use for safety fairly and transparently and responsibly. And also it's a transform from exploring the way supports of people's well-being to hold infinity by AI with technologies.
+Santosh: They also actually
+Santosh: Also helping the people with the livelihoods like their work through the developer service creating income opportunities.
+Santosh: There was a 4G stands one thank you.
+Vedant Deshpande: Ma'am, I want to emphasize more on the…
+Vedant Deshpande: side of AI governance. AI governance, you are doing a very great job in it. As AI is increasing day by day, the power of it is increasing. We have to control and, make sure how, it is…
+Vedant Deshpande: Like… It doesn't go out of hand, there are multiple countries that now are.
+Vedant Deshpande: getting laws on it. Like recently, EU had a law on AI, which emphasize how to sustainably and securely use AI. I guess in that front, you're doing amazing. And also in terms of, using AI as a social economic sustainability is, helping solopreneurships for people who are just wanted to start a business in AI and helping them how to.
+Vedant Deshpande: use AI in a more sustainable and secure way, rather than just giving it information. A lot of the time when, businesses that are new just give, their personal information to AI, which can be very,
+Vedant Deshpande: Which can be very fatal and in the.
+Vedant Deshpande: Later.
+Vedant Deshpande: when fatal in the later half of their business. So it's important to teach them the risks that they get from actually using AI and, tell them about the problems they can face in the future.
+Harsh Mandge: Oh, hi.
+SHARAD PUROHIT: So, basically, what I understand from the…
+SHARAD PUROHIT: So basically, myself, Sharan, what I understand from the Omisha Foundation, first of all, I want to, you know, basically get straight to the question first. So what Omisha Foundation is, you know, focusing on is creating a social impact through technology.
+SHARAD PUROHIT: So basically it uses youth empowerment responsible AIs.
+SHARAD PUROHIT: And basically, what you ask about is the four pillars of A4G, which is basically the sustainability, and I guess the mental well-being by using AI, and the governance of AI. These are the, I guess, three pillars used by the, you know, A4G.
+SHARAD PUROHIT: To… to, you know, work in a… work in such a good environment.
+rukhsarkhan: From my understanding A4G.
+ishrattaj Dharwad: From my perspective, A4G wants a world where AI helps people to be kind, fair, and happy. Some people lose their jobs because of the AI in this generation. A4G tries to help them. The three pillars of the A4G are, firstly, the governance of AI.
+ishrattaj Dharwad: Making some rules, the A4G wants to make some rules for the AI to be safe and fair to all the.
+ishrattaj Dharwad: decisions it is taking. And next, the mental well-being. It is helping the people who lost their jobs because of the AI. In this generation, it is the more… it is more affecting thing, I can, in my perspective.
+ishrattaj Dharwad: So A4G is trying to help them to be steady in this type of, in this generation and next is.
+ishrattaj Dharwad: AI for socioeconomics and sustainability, helping people so that they can earn their own, their own money using the AI, using the support of AI and become what they want.
+Santosh: Not at all.
+ishrattaj Dharwad: Use their skills.
+Santosh: That's the least.
+Sushma: I think.
+Santosh: Stopped, I think.
+Sanisha: I am still.
+Sushma: Santosh
+Sushma: Guys, please also try to focus the vision and mission, try to understand and focus about the vision and mission of A4G.
+Maniraj Singh Yadav: Instead of having your own assumptions.
+Sushma: And just focus about three pillars.
+NUBAID UDDIN: Ma'am, I would like to also, like, add few things which I have gone through the website and the JD also.
+NUBAID UDDIN: Which I think A4G is doing good, and also, I found… I have listened to all the responses, and I have found some few keywords and concepts which are being used in A4G.
+Maniraj Singh Yadav: Like, in the AI governance part also, they are using AI SORAJ.
+NUBAID UDDIN: And exploring ways and also there is a 1 keyword which I found that was depth over demand.
+Maniraj Singh Yadav: So basically it means according to me it means like helping people.
+NUBAID UDDIN: Build a meaningful specialized capability.
+Maniraj Singh Yadav: That, basically that…
+NUBAID UDDIN: Can like create long-term value or and.
+Maniraj Singh Yadav: you also…
+NUBAID UDDIN: can help in the market around. And also, they have focused on human-centric AI also, which can also gather a vision of A4G.
+Maniraj Singh Yadav: Which is like building system which are like useful and efficient while considering.
+NUBAID UDDIN: Like, privacy and fairness towards all, equality towards all, which also directly,
+Maniraj Singh Yadav: Initiate towards AI for governments.
+Maniraj Singh Yadav: And also, they are also focusing on productivity, like, human value is one thing also, but to be run A4G as a good organization.
+NUBAID UDDIN: well-being and,
+Maniraj Singh Yadav: Towards the purpose they are focusing also towards the productivity.
+NUBAID UDDIN: Also, and the work culture.
+rukhsarkhan: And I understand.
+Maniraj Singh Yadav: Good afternoon.
+SHARAD PUROHIT: Good afternoon, everyone.
+SHARAD PUROHIT: And I was going through the LinkedIn page of yours. What I found is the vision of the, you know, companies
+SHARAD PUROHIT: Basically, with the use of AI,
+SHARAD PUROHIT: basically, you know, a world where AI is a natural extension of human goodness. So, basically, that's what the vision I found of yours, and the mission is to empower the people, you know, who are displaced or, you know, affected by the AI automation.
+SHARAD PUROHIT: And you know use the human-centered AI governance so and mental well-being also.
+SHARAD PUROHIT: And yeah, so the A-G brings together, you know, all this with the experts, institution and policy makers and, you know, donors also to develop solution to these challenges.
+Moupriyo Jana: Hello, everyone.
+Shaik Afrid: And I believe it is a Covid.
+Sushma: others.
+Shaik Afrid: Advanced technology.
+Sushma: Please give the chance to the new ones. If you already shared your points, please give the chance to the new ones.
+Shaik Afrid: Yeah.
+rukhsarkhan: Hello everyone, my name is Rukhsar and from my understanding A4G stands for AI for Good and its purpose is to use artificial intelligence to create meaningful social impact.
+rukhsarkhan: And what I find interesting is that the organization looks beyond the technology itself and considers how AI can benefit people and society.
+rukhsarkhan: And there are basically three pillars of A4G. First pillar is the AI governance. This focuses on making AI ethical, transparent.
+rukhsarkhan: inclusive, accountable and participatory. For example, an AI system should be evaluated for bias and reliability before being used to make decisions that basically affect the people. And second pillar is the AI for mental well-being.
+rukhsarkhan: This focuses on human potential and helping people navigate changes caused by AI-driven automation. For, we can take a discussion point such as
+rukhsarkhan: an AI reflection tool that could help a person identify transferable skills and explore, basically, new career directions with appropriate privacy safeguards. And the third pillar is the AI for socioeconomic
+rukhsarkhan: Sustainability. This basically focuses on using AI to help individuals and communities build sustainable economic opportunities.
+rukhsarkhan: For example, an AI-enabled platform could help a small entrepreneur identify the skills gap and connect with suitable customers or collaborators.
+rukhsarkhan: I also understand that Wong focuses on youth participation, sustainability, and positive social changes.
+rukhsarkhan: I find this mission meaningful because I too want to build technology that solves real problems and create.
+Arpit Kumar: Value for people.
+rukhsarkhan: Excellent.
+Shaik Afrid: Based on everyone sharing their point.
+Sushma: Hold on, hold on, hold on.
+Sushma: Are you finally a student?
+Shaik Afrid: Yeah.
+Sushma: Asking the previous candidate.
+rukhsarkhan: No, no, I'm not a final year student.
+Sushma: So did you complete your U G or P G? So.
+rukhsarkhan: Using.
+Sushma: In which year are you pursuing?
+rukhsarkhan: I have completed in 2021, and I have 3.7 years of work experience at Amazon, and also I have completed product intern of, at,
+rukhsarkhan: Freeco Education Private Limited for 6 months, and at, product internship at, The Organic Journey for 6 months.
+Sushma: Alright, alright.
+Maniraj Singh Yadav: See.
+Sushma: My straightforward question to you,
+Sushma: Being three years of work experience in I T I T I N T I T I N T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T
+Sushma: Start with the internship.
+rukhsarkhan: Actually, my role was totally different, when I was working at Amazon. So, I wanted to pursue my career in product and tech. So, I, am looking for opportunities at, whether it could be internships or
+rukhsarkhan: It could be… it was related to product at…
+Sushma: Right.
+Sushma: All right, all right. So, did Suhani join?
+Sushma: Sanisha?
+Suhani_HR: Yes, I'm there, I'm there.
+Sushma: Okay, there. So, HRs, let's go to the breakout room. Guys, please hold on for 2 minutes.
+Sushma: Please join Room 1, guys.
+Sanisha: Alright guys…
+Sanisha: So, after first evaluation, there are a few people that we have rejected, and you guys would have to leave. That is Agalya! Then Shaik Afrin! Santosh!
+Sanisha: Sharad PUROHIT ishita Raj and
+Sanisha: Rooks are Khan as well. I'm sorry, guys, we'll let you know if there are any other opportunities. Thank you for joining in today.
+Sanisha: Alright, just give me 2 minutes.
+Sanisha: All right, so you guys could look into the role of the tech role and check on it. I'll give you five minutes or five to ten minutes.
+Sanisha: And then we could have a discussion on that.
+Sanisha: All right, you guys could start with discussing about what your understanding of this role.
+Moupriyo Jana: Good afternoon, ma'am. Myself, Mokyo Jana.
+Moupriyo Jana: So, my understanding of this role is that it combines AI product development with product management and full-stack development, and I would be responsible for developing an assigned product from understanding the requirements to building, testing, and deploying the final system.
+Moupriyo Jana: And the role also involves using LLM and AI agent frameworks to build smart features that solve real-world problems. And along with development, I would work with
+Moupriyo Jana: the team on UI use design, database management, and improving products based on user feedback. And so I see this is a great opportunity to apply my AIML knowledge.
+Sushma: Sorry for interrupting, guys. So, Sanisha Sumani is joining back, you please handle that.
+Sushma: So, I'm just joining in Zoom 1.
+Sanisha: Alright.
+Sanisha: Yeah, go on.
+Moupriyo Jana: Yes ma'am.
+Moupriyo Jana: So basically, it's the role is about that. It's how it's combines AI product development with product management and full stack development.
+Moupriyo Jana: And I would be responsible for developing an assigned product from understanding the requirement to building, testing, deploying the final system. It's like a start to finish throughout the work.
+Moupriyo Jana: So I see this is a great opportunity to apply my AI ML knowledge skill and improve my development skill and learn how to how to build useful AI powered products from start to finish.
+Moupriyo Jana: And this is my understanding.
+NUBAID UDDIN: Ma'am, I would like to continue, like, after going through the GD and LinkedIn,
+NUBAID UDDIN: the role, I have, understand that, basically, the role is demanding, a person who can build an end-to-end product, AI product, basically, AI-powered product, and, turn it into something people can help.
+NUBAID UDDIN: People can use it, and organization can use it. And also, as the previous person has told that, it involves the use of 60% AI product development and 40%.
+NUBAID UDDIN: full-stack development. So, basically, according to the GD and also to the, workstack, I have understand the flow that, basically, it will require a person who can understand the problem, then, it can,
+NUBAID UDDIN: Design the product and plan feature, like, basic planning of the feature and the workflow.
+NUBAID UDDIN: And, for the technical part, plan the data module. And, UIUF guy in my team can, think about the user interface, which can, which is… which can be an ease-to-use user interface. Also, then after that, we can, like.
+NUBAID UDDIN: build and integrate it, like, using the APIs, and then we can test it in a few batch of people, then we can release it as a feature.
+NUBAID UDDIN: also I have gone through the skills asking for it python aiml and also I have a like
+NUBAID UDDIN: part of AIML and AIML development in my resume also, in my journey also. So I can contribute in that 60% AI product development.
+NUBAID UDDIN: Also, I have one more two, three more points, two, three points more. Like, going through the GD also, I have, like, seen that there is, three keywords which, are there. Like, it's,
+NUBAID UDDIN: as CRM, LSM, and HRMS. So, after reading about that, I have understood that, basically, it is a customer relationship management.
+NUBAID UDDIN: So, and learning management system, and human resource management system. And after, like, reading basic about it, I understand that it,
+NUBAID UDDIN: Gets, it gets an integration of all the points.
+NUBAID UDDIN: like the CRM, LSM, and HRSM, integrate,
+NUBAID UDDIN: with each other, so that a product can be developed, and a product can be shipped to the people, and like, solve the purpose of the organization which A4G is looking for.
+NUBAID UDDIN: Thank you.
+Vedant Deshpande: I just want to summarize the whole job description, and would like to add that it initially… we will be assigned an internal or an external product of the organization, which we have to foresee the end-to-end development of, from actually making the product workflows or the UI UX
+Vedant Deshpande: prototypes, or also working on the Agentic
+Vedant Deshpande: AI frameworks about it. And, once we have made that, we will…
+Vedant Deshpande: take some test users to actually know what's the issue with our system, and make improvements based upon it. And, we'll also be responsible for contributing to the front-end and the back-end enhancement of the whole system. So, basically, we
+Vedant Deshpande: Once we are given a problem, we have to solve it end to end from actually designing the front end to the back end and the complete workflow.
+Vedant Deshpande: And in our hands. That's all.
+Divyansh Verma: Ma'am, what I understand about the, the intern role, it is basically the, AI product management and the development, role. So, it's not only about to, to perform the, to code, to make the product.
+Divyansh Verma: It is basically to completely orchestrate the pipelines, the workflows, which is used by the integrating the AI agents and the LLM applications.
+Divyansh Verma: in the product. Also, adding the new features in the previously released products, like the LMS in the JD, it is mentioned in that particular role.
+Divyansh Verma: So, on the other hand, you have, mentioned the ratio of the 60 to 40. Basically, 60% is the development, sorry, the backend development, Agentic AI and all the frameworks, and the 40% is for the…
+Divyansh Verma: front-end, like, basically a UI, UX, and the design. So, if, I'm joining as an intern, I'm more feasible to, like, to only orchestrate, both orchestrate the 60% and the 40% of, also the UI, UX, and the back-end workflows.
+Divyansh Verma: Agentic AI. So, if a person is going to, have this particular role, it will be more feasible to orchestrate, all the things, 60% plus 40% of the discussed in the JD, in this particular role.
+Chandraveer Singh Solanki: So, hello everyone. From my understanding of the post, my work would be owning one of the products, end-to-end, that will be given from the HR or the PM of the organization, and I'd be both the product manager and the developer of it. That means starting with the
+Chandraveer Singh Solanki: People who asked for it for the requirement of the product, and understanding the product, and tuning it till
+Chandraveer Singh Solanki: The product is almost finalized, and more than an MVP. I'll be designing the prototypes, the front end and the back end, owning the whole full stack.
+Chandraveer Singh Solanki: And adding the AI and the Agentic features to deploy. That is the 60% of the work that has been described, and the second part would be supporting the wider team, like the event side and the dashboards, and the database work, around, with the other teams.
+Chandraveer Singh Solanki: So… That is my understanding about the room.
+Rookhmani Kandu: Hello, everyone.
+Kuraparthi Ajay: From my understanding, this role combines AI product development and full stack development.
+Kuraparthi Ajay: And you mentioned that 60% of work involves, developing, AI-powered product form, start-finish, like, including understanding requirements and designing workflows.
+Kuraparthi Ajay: And integrating LLMs and AI agents.
+Kuraparthi Ajay: And testing and deployment.
+Kuraparthi Ajay: And the remaining 40% involves, like, supporting other projects through, like, front-end and back-end development.
+Kuraparthi Ajay: And what I find interesting is, that I have the opportunity to take up ownership of product and work collaboratively with small team.
+Kuraparthi Ajay: Since I already have experience with the React Node.js and my stack.
+Kuraparthi Ajay: and, machine learning algorithms, so that I believe I can contribute my existing skills, learn new AI technologies, actively collaborate with team members and supporting team.
+Kuraparthi Ajay: Yeah.
+Rookhmani Kandu: Hello, everyone. My name is Rukhmani Kandu.
+Rookhmani Kandu: A4G focus on using AI to help people and make the world a better place.
+Rookhmani Kandu: Yeah, it's…
+Sanisha: Can you please talk about the role?
+Sanisha: Than A4G because.
+Sanisha: Now we have shifted to this room.
+Rookhmani Kandu: What was the…
+Rookhmani Kandu: Okay, okay. The role involves building AI-powered product from the initial idea to the final working application. It includes the design website, integrating AI APIs, testing features, and deploying product. For example, I could build a website using React
+Rookhmani Kandu: and connect any AI API to help users get answers to their questions. And I have knowledge of React, JS, and JavaScript, and I enjoy building
+Rookhmani Kandu: Website and application through this in.
+Rookhmani Kandu: I want to improve my technical skill and learn how AI can be used in real projects. And I would like to contribute to useful products that solve real problems and make people's lives easier.
+Rookhmani Kandu: Ma'am, can I explain about air folding?
+Sanisha: No, not right now. You were supposed to do that in the previous round.
+Sanisha: Anyone else who would like to talk more about the role could go ahead.
+Yimkumer Pongen: Hi, am I audible?
+Sanisha: Yes, you are.
+Yimkumer Pongen: Okay, so basically the role that was posted in the job description, the person who would be selected would be tasked on
+Yimkumer Pongen: developing, designing, as well as maintaining the project end-to-end, whether it be the internal or external products. So I also saw that there's a wide range of products, ranging from CRM, LMS, HRMS, and also AI-assisted tool for mental well-being.
+Yimkumer Pongen: So I'm more particularly interested in that.
+Yimkumer Pongen: Last one. And also, the person will be tasked with,
+Yimkumer Pongen: using AI Agentic frameworks in order to create these products and also deploy them, while also ensuring that they are responsive, and also that we cater to the user's feedback. For example, if the user finds something hard to understand, or if it doesn't work properly, or they don't know what to do, we are responsible for making that flow more
+Yimkumer Pongen: Easier to approach for them.
+Yimkumer Pongen: And also, there's the 40%, which is the full-stack development and the technical design support section. So, we have to ensure that the product that we create is visually appealing, as well as it's engaging at the same time.
+Yimkumer Pongen: For me, through my experience, I find that making.
+Yimkumer Pongen: Air product.
+Yimkumer Pongen: fit both…
+Yimkumer Pongen: the PC screens as well as the mobile screens, basically to make it responsive, being very important. Most of the times, we overlook this part when creating our own projects or websites, so that is also something that I…
+Yimkumer Pongen: Really cater to during my own development of projects.
+Yimkumer Pongen: And also to maintain the code quality, as well as the scalability, so that if there's any further updation or addition to the website, it would be easier to approach. Yes, that's all, thank you.
+NITIN.T: From my understanding, this intervention combines AI product development, full stack web development automation.
+NITIN.T: Product management.
+NITIN.T: My responsibility would include developing web application, integrating AI and LLM API, building automation system.
+NITIN.T: Managing database, testing features, and fixing bugs.
+NITIN.T: I would also collaborate with a small team and take ownership of assigned projects from understanding requirements to development.
+NITIN.T: I see this as an opportunity to apply my technical skills.
+NITIN.T: To solve real world problems and will practical I have already.
+NITIN.T: big projects.
+NITIN.T: Using AI, and… I.
+NITIN.T: I would be.
+Sanisha: We can't hear you. Your bandwidth is low.
+NITIN.T: Is it clear right now, ma'am?
+Sanisha: Yeah, I can hear you, but it is still low.
+Sanisha: Either Nitin go ahead or someone else could continue.
+Aman: Yeah, are you module?
+Sanisha: Yes, yes, you are.
+Aman: Yeah, the primary responsibility is to take ownership of one assigned product and work on it from understanding the requirement to designing the workflow, developing the feature, testing, deployment, and improving it based on user feedback.
+Aman: The role also involves building AI features using LLMs and Agentic frameworks, designing user-friendly interface, and working on websites.
+Aman: event microsites. The second responsibility is to support the wider technical team with front-end and back-end development, database management, debugging, integrations, and maintaining the existing platform.
+Aman: I can relate this, to my previous, experience at Purigal AI Research AI,
+Aman: search visibility and work on designing AI product features by considering user needs, workflow, user experience, and business value.
+Aman: In my Jana Nirayani project, I built conversational workflow with intent-based routing, knowledge-based fallback mechanism, and automated MS confirmation.
+Aman: I also worked on a multi-agent social media project involving performance for loops and human approval for cumulus. These experience have given me a starting point in AI workflow and product.
+Aman: Thinking I would like to build on that experience and learn that the frameworks used by the team and contribute to product.
+Aman: That's all very real organization and the social impact forums things.
+Sanisha: Alright, is there anyone else?
+NUBAID UDDIN: Ma'am, ma'am, I would like to add just, a few points other than technical, technical things about the role, which everybody has said. A few things which you have mentioned in the JD.
+NUBAID UDDIN: Like, a few keywords also, like, product thinking also, and, like, we understand the product, and, also understand the ease of use of product towards the user, which is using it. And, also, we have to take care about the safety also.
+NUBAID UDDIN: Like, the input safety and the output safety and the data safety, basically. So, we have to be good in data also, and we should also have a mindset of ownership and problem solving. It is basically mentioned in JD specifically.
+NUBAID UDDIN: So, I have understood that also in the…
+Sanisha: All right. So right now I'll brief you about the organization and then I'll also brief you about the role. Just give me a minute.
+Sanisha: Alright, so Suhani will brief you about what A4G is about, and then I will brief you about the role.
+Sanisha: Go on, Suman, you could start with the briefing about the organization.
+Suhani_HR: Yeah, sure.
+Suhani_HR: Okay, so first of all, hi everyone.
+Suhani_HR: Okay, so I would be briefing you about the role. If you guys have any issues, like, any doubts, you can go ahead after it and ask me.
+Suhani_HR: So, let's start with Wong, a very, like, basic, short, description about Wong. Because…
+Suhani_HR: Because we are not very active on Wong right now. Our main focus is A4G. But still, I would brief you.
+Suhani_HR: about it. So, Wong stands for Voice of the New Generation. It is a youth-focused movement. So, in brief, if we talk about it is a movement primarily working with school-going students aged between 12 to 18.
+Suhani_HR: So we call the young people who join a community, they are called as Womsters.
+Suhani_HR: And our goal is to help them understand sustainability and the 17 UN Sustainable Development Goals.
+Suhani_HR: Also, we help them to identify the challenges around them, voice their ideas, and turn those ideas into action.
+Suhani_HR: We engage and motivate those bouncers through different activities, through different gamification activities, and other initiatives. We also had 7 episodes of, like, 7 Sustainer Spark events in the back. I'm so sorry. And we are planning to organize many more in the future, if, like.
+Suhani_HR: maybe sometime, but right now, we are not planning, because our main focus is A4G. So, coming to Omisha Foundation, Omisha Foundation is a non-profit organization working towards the long-term global impact.
+Suhani_HR: So, we have two major initiatives. One is WOM, and the other is A4G. WOM, I have already briefed you.
+Suhani_HR: Coming to A4G, A4G is AI for good and it focuses on the rapidly growing power of AI and it asks everyone, all of us here and outside it also a very deeper question that how do we ensure AI remains aligned with human values and contributes to human well-being.
+Suhani_HR: So A4G currently works across three areas, AI governance, AI for sustainability, and AI for mental well-being.
+Suhani_HR: So there is a, like, connection between all of these three, like, pillars. I will explain you in very easiest, like, easiest way as I can. So the first is governance of AI. That is preparing the society for AI.
+Suhani_HR: So the government institutions and the policy makers need to understand and govern AI responsibly.
+Suhani_HR: So for that we are preparing the society for AI. The second is mental well-being.
+Suhani_HR: Once they understand about AI, they would also understand that how the automation is happening, and they can be affected by the automation, and they would need the psychological support. They would need some safe spaces and a renewed sense of purpose.
+Suhani_HR: So for that, we have the mental well-being, that we will be helping the people to navigate the AI disruption, which is caused by, like, the… like, once they are affected by the automation.
+Suhani_HR: Third is solopreneurship. So, solopreneurship is basically, you must know the, like, meaning of solopreneurship, but here, solopreneurship, in the spelling, it is S-O-U-L-O.
+Suhani_HR: So, once people stabilize, they can rediscover their strengths and use AI to build meaningful, sustainable livelihoods. So, basically, we are helping the people build meaningful futures. So, first is making, like, making the policymakers, institutions, governments understand
+Suhani_HR: And govern AI responsibly, responsibly. Once they are, like, maybe they can get affected by the AI, the automation can affect them, psychological… in a psychological way also.
+Suhani_HR: So for that, we have the mental well-being, and third is the solopreneurship. Once they rediscover their strengths again, after the mental well-being, like, they are rediscovering it again, then they can use AI to build meaningful futures.
+Suhani_HR: Meaningful sustainable livelihoods also.
+Suhani_HR: So, this is the three main pillars of A4G, where we are working around. And, in simple words, A4G Impact Collaborative believes AI should improve people's lives and not replace them.
+Suhani_HR: We work to ensure AI is fair, AI supports mental well-being, and it creates sustainable career opportunities and helps build a better future for everyone.
+Suhani_HR: So this was about A4G Wong and entire Omisha Foundation. Sanisha, you can continue with the role, and then you guys, if you have any doubt, we can take up your questions.
+Sanisha: Yes, thank you, Suvani. All right. So for the tech intern role.
+Sanisha: What you will be involved in if you are selected, that is, you will be in a small team of three to four people, and each of you will own one product. That product is decided by our OPMs or the HR team. It could be something like CRM, LMS, HRMs, or recruitment automation tools.
+Sanisha: Email marketing automation or AI tools around mental well-being, sustainability, and governance as well. So about 60% of your time goes into building that product from start to finish.
+Sanisha: You will understand the requirements, design, and the workflow and UI.
+Sanisha: building AI features as well, using LLMS and Agentic frameworks. Deploy it and keeping… and keep improving it based on the feedbacks given by your team or the HRs. So, you'll also help with the event websites or microsites and dashboards.
+Sanisha: The other 40% is full stack support, and that means for front end and back end fixes, building websites or campaigns or events.
+Sanisha: managing databases, debugging, and helping other teams with something, if there's some breakouts or any… some bugs or issues. So, mostly, the role will revolve around this.
+Sanisha: And yes, if you guys have any doubts related to either A4G or the role, you guys could ask it now.
+Divyansh Verma: Ma'am, can I ask one question?
+Divyansh Verma: Like, I have heard about the… ma'am is saying about, the A4G, mentioned, like, the third pillar, solopreneurship.
+Divyansh Verma: I am more fascinated by this particular product because, as a BTEC student, I have an idea, like, if I have an idea, I will, generally, think about to use it and to grow, to revolutionize a particular, tech industry. So, can I directly,
+Divyansh Verma: Can I directly connect to your organization? Like, if I am just another person known as an intern.
+Divyansh Verma: Like
+Divyansh Verma: if a person has an idea, from not being… go through the other pillars, like, from the first one, then second one, then to third one, can… one directly, can jump to the third one pillar? Like, if he has an idea, he or she can contact or, like, contribute to the particular foundation. Is there any option in this?
+Sanisha: So are you saying that you would individually want to contribute to solopreneurship directly? Is that what you're saying?
+Divyansh Verma: Yeah, it.
+Sanisha: Every.
+Divyansh Verma: I…
+Sanisha: Mother organization.
+Divyansh Verma: Yeah, ma'am. You can say, kind of both.
+Sanisha: What do you understand about the solopreneurship? First, tell me about it.
+Divyansh Verma: Ma'am, what I understand, like, in your particular organization, if a person has an idea, and he has a stable mental state, like, he can pursue the startup, his own startup, or contribute to any, startup industry, so,
+Divyansh Verma: Your organization can support him.
+Divyansh Verma: In that particular domain, about the idea, what I got this.
+Divyansh Verma: I said, this is…
+Sanisha: Okay. We are not looking for any support as such, or contacting. If there is anything, we will let you know.
+Sanisha: And before that, yes, you could go.
+Divyansh Verma: Ma'am, it is just an, like a assumption. I have… want to ask a question. It's not my personal question about this. But…
+Divyansh Verma: What I have to ask, like, there are many, I think, there should be challenges you guys are facing in this particular achieving these goals.
+Divyansh Verma: Like, all the pillars. So, what are these particular challenges, currently you are facing? So that we as an intern can…
+Sanisha: Yeah, we could get to that eventually. Right now, we just have to focus on, you know, this description. And we will have first, the other HR and I will have internal discussion and we'll get back because we are also short on time. So we have to proceed with the other rounds as well.
+Sanisha: Suhani, could you come to the breakout room?
+Sanisha: Room 1.
+Sanisha: All right, so.
+Sanisha: I don't know how to say your name, I'm sorry. Yukumar.
+Sanisha: Vedant.
+Sanisha: Nubed and Divansh.
+Sanisha: And also
+Sanisha: Chandraveer, you guys could stay back. Rest of you, please leave the meeting. I'm sorry, but we are not proceeding with you.
+Sanisha: For the further rounds.
