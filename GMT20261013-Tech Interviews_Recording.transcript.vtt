@@ -1,0 +1,5238 @@
+WEBVTT
+
+1
+00:00:03.270 --> 00:00:06.479
+Sushma: Good afternoon, everyone. Welcome to Tech Interviews.
+
+2
+00:00:07.000 --> 00:00:26.049
+Sushma: I'm Sushma, HR at Tomisha Foundation, Vogan FOJ, meet our team, HR, Sanisha, Swetcha, and Suhani will be joining. So, in the first, I just want to give a heads up about the interview process. So, in this… in today's interview, most of your three rounds will be covering.
+
+3
+00:00:26.540 --> 00:00:36.989
+Sushma: So, it will take a time, so I… if your patience enough, you can be in these interviews. If you have any urgent works, you can give the meet, because if you're not covering all the rounds at a time.
+
+4
+00:00:37.450 --> 00:00:43.820
+Sushma: And the first one is the group discussion will be there. So, in the group discussion, we will be asking you
+
+5
+00:00:44.760 --> 00:00:45.840
+Sushma: Three major.
+
+6
+00:00:46.590 --> 00:00:52.090
+Sushma: Points, 3 major topics we can consider that the first one is.
+
+7
+00:00:52.560 --> 00:00:58.160
+Sushma: What do you know about us? Like, what do you know about F O G? Wong?
+
+8
+00:00:58.610 --> 00:01:00.510
+Sushma: So mostly about MH.
+
+9
+00:01:00.970 --> 00:01:05.929
+Sushma: And we're doing about the three pillars in FOG, vision and mission, etc. Okay?
+
+10
+00:01:06.830 --> 00:01:12.109
+Sushma: And the second one is, what do you know about the tech role?
+
+11
+00:01:12.240 --> 00:01:31.170
+Sushma: Once you join, as a tech intern, so the roles and responsibilities, whatever we described in the job description, after going through the job description, what do you understand about us, and what do you understand about the role? These are two major discussions we are going to have in the group discussion.
+
+12
+00:01:31.430 --> 00:01:32.440
+Sushma: Okay.
+
+13
+00:01:33.150 --> 00:01:43.339
+Sushma: With the shortlisted ones, we will be having a further discussions. After that, the HR discussion… with the shortlisted ones, the HR discussion will be take place.
+
+14
+00:01:43.620 --> 00:01:53.600
+Sushma: And natural fitment round and the organizational fitment round will take place with the next shortlisted. So this is the flow of today's interview.
+
+15
+00:01:54.010 --> 00:01:57.069
+Sushma: I hope you got about the flow.
+
+16
+00:01:57.770 --> 00:02:02.579
+Sushma: So, just take 3 to 4 minutes of time, if you would like to.
+
+17
+00:02:02.750 --> 00:02:19.949
+Sushma: note down any points about us, about the role, please do that quickly, but before that, please drop your updated resumes in this Zoom chat box. After dropping your updated resumes in this Zoom chat box, you can have… note down the points, what you're going to discuss about us and about the role.
+
+18
+00:02:20.560 --> 00:02:23.110
+Sushma: I hope I'm pretty clear to everyone.
+
+19
+00:02:25.270 --> 00:02:31.169
+Sushma: Any doubts, any concerns, just raise your… unmute yourself and ask right away.
+
+20
+00:02:35.620 --> 00:02:37.550
+Mustafa Khurram: good afternoon.
+
+21
+00:02:37.710 --> 00:02:38.769
+Sushma: Yeah, please go ahead.
+
+22
+00:02:38.770 --> 00:02:43.420
+Mustafa Khurram: Mustafa, so I really wanted to know if you can repeat what you said.
+
+23
+00:02:45.490 --> 00:02:50.779
+Sushma: Do you want me to repeat the entire thing, or the exact, the few points, what you didn't get that?
+
+24
+00:02:51.290 --> 00:02:53.330
+Mustafa Khurram: Yes, exactly the few points.
+
+25
+00:02:55.970 --> 00:02:58.499
+Mustafa Khurram: The few points that you said in the end.
+
+26
+00:02:58.500 --> 00:03:05.020
+Sushma: To repeat the entire thing what I say, or you would like to repeat the particular… in which, thing that you…
+
+27
+00:03:05.620 --> 00:03:06.390
+Mustafa Khurram: Oh.
+
+28
+00:03:06.390 --> 00:03:07.040
+Sushma: getting.
+
+29
+00:03:07.040 --> 00:03:09.390
+Mustafa Khurram: Regarding… regarding the interview flow.
+
+30
+00:03:10.380 --> 00:03:29.360
+Sushma: Okay, see, let me tell you very simple way. So, the first one is the group discussion. So, in this group discussion, we are expecting from you, we would like to hear from you what… what you know about A4G, about us, like, A4G vision and mission, and the three pillars focus area.
+
+31
+00:03:29.740 --> 00:03:39.680
+Sushma: And after that, we will be, we would like to hear what do you know about role, about the tech intern role at Omisha Foundation.
+
+32
+00:03:39.850 --> 00:03:50.429
+Sushma: So, these two are the major topics we'll be going to discuss in the group discussion. If you're not… if your understanding is not up to the mark, we won't consider you for the further rounds.
+
+33
+00:03:50.640 --> 00:04:08.269
+Sushma: And we don't want to, to take the point from AI or internet just to read from your screen also. We just want to know your level of understanding, because these are the very basic understanding. If you don't have the basic understanding, you cannot be able to go ahead with the next round. Clear?
+
+34
+00:04:09.870 --> 00:04:10.700
+Mustafa Khurram: Yes, thank you very much.
+
+35
+00:04:10.700 --> 00:04:11.440
+Sushma: Sushma now.
+
+36
+00:04:11.760 --> 00:04:12.620
+Sushma: Okay.
+
+37
+00:04:14.610 --> 00:04:18.659
+Sanisha: Also, others, please turn on your cameras or else I'll have to remove your voice.
+
+38
+00:04:21.700 --> 00:04:25.680
+Sushma: So are you downloading the resume Sweta Sanisha.
+
+39
+00:04:26.930 --> 00:04:29.150
+Sanisha: Yes, it is downloading.
+
+40
+00:04:29.520 --> 00:04:30.079
+Sushma: Okay, great.
+
+41
+00:04:30.080 --> 00:04:30.630
+Swetcha: you.
+
+42
+00:04:34.070 --> 00:04:37.840
+Sushma: Alright. See, guys, just take 2 to 3 minutes.
+
+43
+00:04:38.130 --> 00:04:43.769
+Sushma: We will be going to start our group, round 1 group discussion.
+
+44
+00:07:21.640 --> 00:07:23.369
+Sushma: Shall we start?
+
+45
+00:07:27.430 --> 00:07:36.049
+Sushma: So still, if you're not turning your video, sorry, we can't consider you, we just given the enough time, almost 15 minutes.
+
+46
+00:07:36.050 --> 00:07:37.520
+Arpit Kumar: to sell.
+
+47
+00:07:37.520 --> 00:07:46.339
+Sushma: Settle down. But still, if you didn't settle down, sorry, we cannot move forward. You can leave the meet by your own, or our team will be going to remove.
+
+48
+00:07:46.670 --> 00:07:48.580
+Sushma: If you're not turning your video.
+
+49
+00:07:50.040 --> 00:07:50.980
+Sushma: to.
+
+50
+00:07:53.850 --> 00:07:56.620
+Arpit Kumar: To have almost.
+
+51
+00:08:03.810 --> 00:08:15.569
+Sushma: Guys, here, please don't do debit, first of all. You please, if someone not talking, let them talk. After that, you please unmute and share your…
+
+52
+00:08:15.860 --> 00:08:24.589
+Sushma: understanding, okay? So, firstly, let's discuss, let's focus about A4G. What do you understand about A4G?
+
+53
+00:08:25.450 --> 00:08:37.670
+Sushma: you would like to go ahead, please unmute yourself and start the discussion. It's… it is not about the debate, just sharing your understanding, that's it. Just please share about A4C, the vision and vision of the three pillars, etc.
+
+54
+00:08:38.320 --> 00:08:39.760
+agalya M: Hello, ma'am?
+
+55
+00:08:40.490 --> 00:08:41.159
+Shaik Afrid: Yeah.
+
+56
+00:08:41.750 --> 00:08:42.570
+agalya M: Hello, ma'am.
+
+57
+00:08:44.730 --> 00:08:47.660
+Sushma: Kindly please check your bandwidth, you're stuffed.
+
+58
+00:08:48.510 --> 00:08:50.460
+agalya M: Hello, ma'am, am I audible?
+
+59
+00:08:50.880 --> 00:08:51.890
+Sanisha: Yes, you are.
+
+60
+00:08:52.580 --> 00:08:57.969
+Sushma: Just, Swetcha, could you… Sorry, but Swetcha, could you please give me co-host access?
+
+61
+00:08:58.940 --> 00:08:59.780
+Swetcha: Yes, Miss.
+
+62
+00:09:06.920 --> 00:09:08.369
+Sushma: Yeah, please go ahead.
+
+63
+00:09:09.040 --> 00:09:17.749
+agalya M: Hi ma'am. Like I'm Aalia, I'm from pre-final year, of like AML department. I'm studying in Kali, the Institute of Technology.
+
+64
+00:09:17.750 --> 00:09:33.280
+Sushma: Now, guys, guys, sorry for interrupting. We don't want to hear about your basic details. The basic details will be covered in the HR round. Now, just please focus the straight topic. What do you understand about FH? No need of giving you redirections at all.
+
+65
+00:09:33.830 --> 00:09:58.719
+agalya M: Yeah, okay, ma'am. Like, FOG is, like, some kind of impact movement. Like, there are 17 SDG goals that are formed by UN nations across the globe to ensure, like, that 17 SDG goals are followed properly across the nations to ensure peace and equality and the rights for everyone. So, like, Omisha Foundation is formed in Delhi.
+
+66
+00:09:58.720 --> 00:10:22.239
+agalya M: To like make that movement possible and they formed the A4G movement and I think they are working on like making that A4G impacts like that you know what that SDG goes into real life by making sure to like develop products and software products
+
+67
+00:10:22.270 --> 00:10:30.070
+agalya M: To make that SDG goals really very, like, in reality and, ensure, like, equality, I think.
+
+68
+00:10:30.850 --> 00:10:43.939
+Sushma: Okay, so I just want to give a comment right away. So, agalia, maybe you misunderstood about us. A4G is not focusing the 17 STG goals, the home focus that. Please make a note. Others, please go ahead.
+
+69
+00:10:43.940 --> 00:10:47.949
+Kashinath Biradar: Okay Sushma my name is Kashinath.
+
+70
+00:10:48.190 --> 00:10:57.999
+Kashinath Biradar: Misha Foundation is a non-profit organization that works at the interaction of AI and social impact.
+
+71
+00:10:58.000 --> 00:11:13.200
+Kashinath Biradar: First of all, there is, two main, movements. First one is, A4G, and the second one is, Wong, means, Vice of New Generation. Here, A4G focus on four or, three or four, main pillars.
+
+72
+00:11:13.200 --> 00:11:19.659
+Kashinath Biradar: First one is the governance of AI, means ethical and transparent AI frameworks.
+
+73
+00:11:19.660 --> 00:11:31.869
+Kashinath Biradar: And second one is the AI for mental well-being. It's helping the people are displayed by the AI automations. And third one is the AI for, now, Sushika means,
+
+74
+00:11:31.870 --> 00:11:49.519
+Kashinath Biradar: socio-economic and, sustainability, means helping the peoples become the, with AI supports. And, second one is the, ONG, means, voice of the generation. That is the empowering young, young peoples and understand the global issues.
+
+75
+00:11:49.520 --> 00:11:52.669
+Kashinath Biradar: Like sustainability and aligned with the.
+
+76
+00:11:53.030 --> 00:12:07.000
+Kashinath Biradar: U… UN SDGs. It gives the new generations platform and advise their ideas, like that. And the second thing is the… our, tech intern role. Here is the part of the tech system, means, we own a…
+
+77
+00:12:07.530 --> 00:12:12.710
+Sushma: Don't want to listen, taking done, let's please complete about AirPods, later we step into tech.
+
+78
+00:12:13.930 --> 00:12:14.660
+Arpit Kumar: Okay, sure.
+
+79
+00:12:14.780 --> 00:12:15.720
+Kashinath Biradar: Okay, thank you.
+
+80
+00:12:16.060 --> 00:12:16.940
+Sushma: Nothing.
+
+81
+00:12:16.940 --> 00:12:34.489
+NUBAID UDDIN: No, I would like to tell that from my personal interview and from my personal experience also and by reading about the A4G, I understand that basically its main goal is to ensure that AI is used for the benefit of society.
+
+82
+00:12:34.570 --> 00:12:52.600
+NUBAID UDDIN: And, to encourage, technological, progress, also, in society. And by their three areas which they are working on, the AI government… AI governance, and, the AI for mental and AI for social economic sustainability.
+
+83
+00:12:52.690 --> 00:12:56.699
+NUBAID UDDIN: They are making it they are they are making it.
+
+84
+00:12:57.020 --> 00:13:06.860
+NUBAID UDDIN: They are making it beneficial for the society and also I like the idea of that AI shouldn't only be used for
+
+85
+00:13:06.860 --> 00:13:18.149
+NUBAID UDDIN: think about that they are replacing human effort or making things faster. It should also help and adapt, grow and create new opportunity. And A4G is focusing on that.
+
+86
+00:13:20.820 --> 00:13:21.460
+Divyansh Verma: Hello?
+
+87
+00:13:22.960 --> 00:13:23.639
+Shreyash Motgi: Hello, ma'am.
+
+88
+00:13:24.540 --> 00:13:25.170
+Shreyash Motgi: I'm not able.
+
+89
+00:13:25.170 --> 00:13:25.800
+Divyansh Verma: Hello?
+
+90
+00:13:27.070 --> 00:13:28.500
+Divyansh Verma: Please go ahead.
+
+91
+00:13:28.500 --> 00:13:32.429
+Sushma: No need to ask permissions if someone stop talking.
+
+92
+00:13:32.530 --> 00:13:34.500
+Sushma: Right away you can give a start.
+
+93
+00:13:37.220 --> 00:13:38.749
+Divyansh Verma: Am I audible now?
+
+94
+00:13:40.310 --> 00:13:41.509
+Sushma: Yes, yes, please.
+
+95
+00:13:42.690 --> 00:13:51.739
+Divyansh Verma: Ma'am, in my point of view, what I have read about, A4G, basically is a subset organization under the Omaysha Foundation.
+
+96
+00:13:51.870 --> 00:13:55.099
+Divyansh Verma: And it the one thing that
+
+97
+00:13:55.240 --> 00:14:00.920
+Divyansh Verma: Fascinates me about this particular organization is that you are not.
+
+98
+00:14:00.930 --> 00:14:13.479
+Divyansh Verma: using the AI only for the productivity and the better generation. Basically, the goal of A4G Foundation is, like, AI should be used for the
+
+99
+00:14:13.480 --> 00:14:28.739
+Divyansh Verma: socio-economic… to enhancing the socio-economic impact that the AI is doing in current era. Like, you are working on the three pillars. Basically, first of all, the governance of AI. Like, if we are using AI,
+
+100
+00:14:29.740 --> 00:14:35.569
+Divyansh Verma: And in particular society how it impact the individual life.
+
+101
+00:14:35.700 --> 00:14:42.379
+Divyansh Verma: Can we deploy, the AI and the other, things related to the AI safely?
+
+102
+00:14:42.470 --> 00:14:57.220
+Divyansh Verma: and with securities. The second pillar is, like, to maintain the mental well-being of the citizens and the employers that are working regarding this AI generation.
+
+103
+00:14:57.220 --> 00:15:03.039
+Divyansh Verma: Like if the person had impacted by the AI the increasing.
+
+104
+00:15:03.370 --> 00:15:18.520
+Divyansh Verma: role of the AI in the individual life, how we, how your foundation will going to be tackled in this, so that the person's mental well-being should be stabilized. And the third one is the solopreneurship.
+
+105
+00:15:19.550 --> 00:15:31.340
+Divyansh Verma: Like, how if a particular person have an idea and he want to develop and go ahead with a particular reason and idea he or she have.
+
+106
+00:15:31.460 --> 00:15:43.980
+Divyansh Verma: How AI can help to build this particular idea and can we revolutionize the particular decision of an individual if he or she wants to grow so I think.
+
+107
+00:15:44.030 --> 00:15:52.689
+Divyansh Verma: From my opinion, what I have read about you, this is the three points that fascinates me about A4G Foundation.
+
+108
+00:15:53.900 --> 00:15:54.710
+Harsh Mandge: next.
+
+109
+00:15:54.710 --> 00:16:11.230
+Shaik Afrid: Ma'am, I completely accept with Divyansh Verma point because your company is focusing on using AI for good benefits like AI using for good means focusing on the healthcare, on education, on mental well-being.
+
+110
+00:16:11.230 --> 00:16:17.570
+Shaik Afrid: For everything and, so, so making the best use of the AI.
+
+111
+00:16:17.620 --> 00:16:19.920
+Shaik Afrid: To work with the air to understand.
+
+112
+00:16:20.010 --> 00:16:38.640
+Shaik Afrid: I think, your, your company, your organization is focusing a lot, and however, I think, I think you, your organization will help a lot, to, to the people, like, for AI employment also, because instead of fearing that AI would replace the human.
+
+113
+00:16:38.640 --> 00:16:42.390
+Shaik Afrid: So you you we can understand that it can also.
+
+114
+00:16:42.390 --> 00:16:51.649
+Shaik Afrid: Provide opportunities for, more, maybe for future, and… and I think, maybe, I understood that your company
+
+115
+00:16:51.700 --> 00:16:55.320
+Shaik Afrid: Will help that to support with that.
+
+116
+00:16:55.670 --> 00:16:58.160
+Shaik Afrid: With that organization and understand.
+
+117
+00:16:58.480 --> 00:17:01.510
+Shaik Afrid: That this is completely
+
+118
+00:17:01.630 --> 00:17:04.969
+Shaik Afrid: Purely for working with AI for good cause.
+
+119
+00:17:07.579 --> 00:17:08.139
+Santosh: I don't know.
+
+120
+00:17:09.160 --> 00:17:14.220
+Santosh: Hello, ma'am. The A4G stands for AA for ROOT Co-Impact Collaboration.
+
+121
+00:17:14.339 --> 00:17:20.599
+Santosh: It's it's mostly on using AI responsible to help people to create a positive social impact.
+
+122
+00:17:20.750 --> 00:17:36.549
+Santosh: The remainerly stands for the making sure AI use for safety fairly and transparently and responsibly. And also it's a transform from exploring the way supports of people's well-being to hold infinity by AI with technologies.
+
+123
+00:17:36.870 --> 00:17:38.689
+Santosh: They also actually
+
+124
+00:17:39.450 --> 00:17:47.750
+Santosh: Also helping the people with the livelihoods like their work through the developer service creating income opportunities.
+
+125
+00:17:47.920 --> 00:17:50.620
+Santosh: There was a 4G stands one thank you.
+
+126
+00:17:51.160 --> 00:17:53.920
+Vedant Deshpande: Ma'am, I want to emphasize more on the…
+
+127
+00:17:54.040 --> 00:18:07.329
+Vedant Deshpande: side of AI governance. AI governance, you are doing a very great job in it. As AI is increasing day by day, the power of it is increasing. We have to control and, make sure how, it is…
+
+128
+00:18:07.750 --> 00:18:13.740
+Vedant Deshpande: Like… It doesn't go out of hand, there are multiple countries that now are.
+
+129
+00:18:13.740 --> 00:18:36.410
+Vedant Deshpande: getting laws on it. Like recently, EU had a law on AI, which emphasize how to sustainably and securely use AI. I guess in that front, you're doing amazing. And also in terms of, using AI as a social economic sustainability is, helping solopreneurships for people who are just wanted to start a business in AI and helping them how to.
+
+130
+00:18:36.410 --> 00:18:49.169
+Vedant Deshpande: use AI in a more sustainable and secure way, rather than just giving it information. A lot of the time when, businesses that are new just give, their personal information to AI, which can be very,
+
+131
+00:18:49.720 --> 00:18:52.000
+Vedant Deshpande: Which can be very fatal and in the.
+
+132
+00:18:52.220 --> 00:18:53.290
+Vedant Deshpande: Later.
+
+133
+00:18:53.420 --> 00:19:06.229
+Vedant Deshpande: when fatal in the later half of their business. So it's important to teach them the risks that they get from actually using AI and, tell them about the problems they can face in the future.
+
+134
+00:19:07.220 --> 00:19:08.010
+Harsh Mandge: Oh, hi.
+
+135
+00:19:08.010 --> 00:19:10.839
+SHARAD PUROHIT: So, basically, what I understand from the…
+
+136
+00:19:12.020 --> 00:19:26.370
+SHARAD PUROHIT: So basically, myself, Sharan, what I understand from the Omisha Foundation, first of all, I want to, you know, basically get straight to the question first. So what Omisha Foundation is, you know, focusing on is creating a social impact through technology.
+
+137
+00:19:26.530 --> 00:19:30.769
+SHARAD PUROHIT: So basically it uses youth empowerment responsible AIs.
+
+138
+00:19:30.990 --> 00:19:48.339
+SHARAD PUROHIT: And basically, what you ask about is the four pillars of A4G, which is basically the sustainability, and I guess the mental well-being by using AI, and the governance of AI. These are the, I guess, three pillars used by the, you know, A4G.
+
+139
+00:19:48.540 --> 00:19:52.140
+SHARAD PUROHIT: To… to, you know, work in a… work in such a good environment.
+
+140
+00:19:53.740 --> 00:19:55.960
+rukhsarkhan: From my understanding A4G.
+
+141
+00:19:55.960 --> 00:20:14.449
+ishrattaj Dharwad: From my perspective, A4G wants a world where AI helps people to be kind, fair, and happy. Some people lose their jobs because of the AI in this generation. A4G tries to help them. The three pillars of the A4G are, firstly, the governance of AI.
+
+142
+00:20:14.620 --> 00:20:22.279
+ishrattaj Dharwad: Making some rules, the A4G wants to make some rules for the AI to be safe and fair to all the.
+
+143
+00:20:23.130 --> 00:20:37.860
+ishrattaj Dharwad: decisions it is taking. And next, the mental well-being. It is helping the people who lost their jobs because of the AI. In this generation, it is the more… it is more affecting thing, I can, in my perspective.
+
+144
+00:20:37.860 --> 00:20:46.080
+ishrattaj Dharwad: So A4G is trying to help them to be steady in this type of, in this generation and next is.
+
+145
+00:20:46.310 --> 00:20:59.189
+ishrattaj Dharwad: AI for socioeconomics and sustainability, helping people so that they can earn their own, their own money using the AI, using the support of AI and become what they want.
+
+146
+00:20:59.190 --> 00:20:59.980
+Santosh: Not at all.
+
+147
+00:20:59.980 --> 00:21:01.260
+ishrattaj Dharwad: Use their skills.
+
+148
+00:21:01.480 --> 00:21:02.509
+Santosh: That's the least.
+
+149
+00:21:02.510 --> 00:21:03.400
+Sushma: I think.
+
+150
+00:21:03.400 --> 00:21:06.059
+Santosh: Stopped, I think.
+
+151
+00:21:06.060 --> 00:21:07.649
+Sanisha: I am still.
+
+152
+00:21:07.650 --> 00:21:08.860
+Sushma: Santosh
+
+153
+00:21:09.760 --> 00:21:18.260
+Sushma: Guys, please also try to focus the vision and mission, try to understand and focus about the vision and mission of A4G.
+
+154
+00:21:19.250 --> 00:21:22.120
+Maniraj Singh Yadav: Instead of having your own assumptions.
+
+155
+00:21:22.150 --> 00:21:24.360
+Sushma: And just focus about three pillars.
+
+156
+00:21:24.360 --> 00:21:32.629
+NUBAID UDDIN: Ma'am, I would like to also, like, add few things which I have gone through the website and the JD also.
+
+157
+00:21:32.890 --> 00:21:44.669
+NUBAID UDDIN: Which I think A4G is doing good, and also, I found… I have listened to all the responses, and I have found some few keywords and concepts which are being used in A4G.
+
+158
+00:21:44.830 --> 00:21:49.710
+Maniraj Singh Yadav: Like, in the AI governance part also, they are using AI SORAJ.
+
+159
+00:21:49.910 --> 00:21:56.209
+NUBAID UDDIN: And exploring ways and also there is a 1 keyword which I found that was depth over demand.
+
+160
+00:21:56.550 --> 00:22:02.089
+Maniraj Singh Yadav: So basically it means according to me it means like helping people.
+
+161
+00:22:02.090 --> 00:22:05.160
+NUBAID UDDIN: Build a meaningful specialized capability.
+
+162
+00:22:05.160 --> 00:22:07.010
+Maniraj Singh Yadav: That, basically that…
+
+163
+00:22:07.790 --> 00:22:11.499
+NUBAID UDDIN: Can like create long-term value or and.
+
+164
+00:22:11.510 --> 00:22:13.229
+Maniraj Singh Yadav: you also…
+
+165
+00:22:13.300 --> 00:22:23.340
+NUBAID UDDIN: can help in the market around. And also, they have focused on human-centric AI also, which can also gather a vision of A4G.
+
+166
+00:22:23.350 --> 00:22:31.190
+Maniraj Singh Yadav: Which is like building system which are like useful and efficient while considering.
+
+167
+00:22:31.250 --> 00:22:38.000
+NUBAID UDDIN: Like, privacy and fairness towards all, equality towards all, which also directly,
+
+168
+00:22:38.520 --> 00:22:41.070
+Maniraj Singh Yadav: Initiate towards AI for governments.
+
+169
+00:22:41.180 --> 00:22:53.969
+Maniraj Singh Yadav: And also, they are also focusing on productivity, like, human value is one thing also, but to be run A4G as a good organization.
+
+170
+00:22:53.970 --> 00:22:55.290
+NUBAID UDDIN: well-being and,
+
+171
+00:22:55.360 --> 00:23:00.160
+Maniraj Singh Yadav: Towards the purpose they are focusing also towards the productivity.
+
+172
+00:23:00.350 --> 00:23:02.089
+NUBAID UDDIN: Also, and the work culture.
+
+173
+00:23:02.960 --> 00:23:04.440
+rukhsarkhan: And I understand.
+
+174
+00:23:04.440 --> 00:23:05.670
+Maniraj Singh Yadav: Good afternoon.
+
+175
+00:23:05.670 --> 00:23:07.100
+SHARAD PUROHIT: Good afternoon, everyone.
+
+176
+00:23:07.690 --> 00:23:13.939
+SHARAD PUROHIT: And I was going through the LinkedIn page of yours. What I found is the vision of the, you know, companies
+
+177
+00:23:14.070 --> 00:23:17.750
+SHARAD PUROHIT: Basically, with the use of AI,
+
+178
+00:23:17.830 --> 00:23:35.129
+SHARAD PUROHIT: basically, you know, a world where AI is a natural extension of human goodness. So, basically, that's what the vision I found of yours, and the mission is to empower the people, you know, who are displaced or, you know, affected by the AI automation.
+
+179
+00:23:35.170 --> 00:23:40.830
+SHARAD PUROHIT: And you know use the human-centered AI governance so and mental well-being also.
+
+180
+00:23:41.000 --> 00:23:53.239
+SHARAD PUROHIT: And yeah, so the A-G brings together, you know, all this with the experts, institution and policy makers and, you know, donors also to develop solution to these challenges.
+
+181
+00:23:54.320 --> 00:23:54.900
+Moupriyo Jana: Hello, everyone.
+
+182
+00:23:54.900 --> 00:23:57.200
+Shaik Afrid: And I believe it is a Covid.
+
+183
+00:23:59.400 --> 00:23:59.970
+Sushma: others.
+
+184
+00:23:59.970 --> 00:24:01.270
+Shaik Afrid: Advanced technology.
+
+185
+00:24:01.270 --> 00:24:07.069
+Sushma: Please give the chance to the new ones. If you already shared your points, please give the chance to the new ones.
+
+186
+00:24:07.750 --> 00:24:08.660
+Shaik Afrid: Yeah.
+
+187
+00:24:08.660 --> 00:24:22.490
+rukhsarkhan: Hello everyone, my name is Rukhsar and from my understanding A4G stands for AI for Good and its purpose is to use artificial intelligence to create meaningful social impact.
+
+188
+00:24:22.510 --> 00:24:33.639
+rukhsarkhan: And what I find interesting is that the organization looks beyond the technology itself and considers how AI can benefit people and society.
+
+189
+00:24:33.870 --> 00:24:43.670
+rukhsarkhan: And there are basically three pillars of A4G. First pillar is the AI governance. This focuses on making AI ethical, transparent.
+
+190
+00:24:43.670 --> 00:25:00.809
+rukhsarkhan: inclusive, accountable and participatory. For example, an AI system should be evaluated for bias and reliability before being used to make decisions that basically affect the people. And second pillar is the AI for mental well-being.
+
+191
+00:25:01.220 --> 00:25:13.330
+rukhsarkhan: This focuses on human potential and helping people navigate changes caused by AI-driven automation. For, we can take a discussion point such as
+
+192
+00:25:13.390 --> 00:25:30.359
+rukhsarkhan: an AI reflection tool that could help a person identify transferable skills and explore, basically, new career directions with appropriate privacy safeguards. And the third pillar is the AI for socioeconomic
+
+193
+00:25:30.360 --> 00:25:40.279
+rukhsarkhan: Sustainability. This basically focuses on using AI to help individuals and communities build sustainable economic opportunities.
+
+194
+00:25:40.640 --> 00:25:52.650
+rukhsarkhan: For example, an AI-enabled platform could help a small entrepreneur identify the skills gap and connect with suitable customers or collaborators.
+
+195
+00:25:52.960 --> 00:26:01.839
+rukhsarkhan: I also understand that Wong focuses on youth participation, sustainability, and positive social changes.
+
+196
+00:26:02.140 --> 00:26:10.290
+rukhsarkhan: I find this mission meaningful because I too want to build technology that solves real problems and create.
+
+197
+00:26:10.290 --> 00:26:11.319
+Arpit Kumar: Value for people.
+
+198
+00:26:11.390 --> 00:26:12.090
+rukhsarkhan: Excellent.
+
+199
+00:26:12.090 --> 00:26:15.369
+Shaik Afrid: Based on everyone sharing their point.
+
+200
+00:26:15.370 --> 00:26:18.969
+Sushma: Hold on, hold on, hold on.
+
+201
+00:26:19.190 --> 00:26:20.680
+Sushma: Are you finally a student?
+
+202
+00:26:21.230 --> 00:26:21.720
+Shaik Afrid: Yeah.
+
+203
+00:26:23.100 --> 00:26:24.820
+Sushma: Asking the previous candidate.
+
+204
+00:26:24.820 --> 00:26:26.830
+rukhsarkhan: No, no, I'm not a final year student.
+
+205
+00:26:28.390 --> 00:26:30.610
+Sushma: So did you complete your U G or P G? So.
+
+206
+00:26:30.610 --> 00:26:32.770
+rukhsarkhan: Using.
+
+207
+00:26:33.460 --> 00:26:35.270
+Sushma: In which year are you pursuing?
+
+208
+00:26:35.700 --> 00:26:47.670
+rukhsarkhan: I have completed in 2021, and I have 3.7 years of work experience at Amazon, and also I have completed product intern of, at,
+
+209
+00:26:47.670 --> 00:26:56.289
+rukhsarkhan: Freeco Education Private Limited for 6 months, and at, product internship at, The Organic Journey for 6 months.
+
+210
+00:26:56.310 --> 00:26:57.530
+Sushma: Alright, alright.
+
+211
+00:26:57.530 --> 00:26:58.410
+Maniraj Singh Yadav: See.
+
+212
+00:26:58.520 --> 00:27:01.529
+Sushma: My straightforward question to you,
+
+213
+00:27:02.290 --> 00:27:06.689
+Sushma: Being three years of work experience in I T I T I N T I T I N T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T I T
+
+214
+00:27:07.600 --> 00:27:09.470
+Sushma: Start with the internship.
+
+215
+00:27:10.380 --> 00:27:26.370
+rukhsarkhan: Actually, my role was totally different, when I was working at Amazon. So, I wanted to pursue my career in product and tech. So, I, am looking for opportunities at, whether it could be internships or
+
+216
+00:27:26.470 --> 00:27:30.200
+rukhsarkhan: It could be… it was related to product at…
+
+217
+00:27:30.200 --> 00:27:30.840
+Sushma: Right.
+
+218
+00:27:31.790 --> 00:27:35.810
+Sushma: All right, all right. So, did Suhani join?
+
+219
+00:27:38.990 --> 00:27:39.930
+Sushma: Sanisha?
+
+220
+00:27:39.930 --> 00:27:41.320
+Suhani_HR: Yes, I'm there, I'm there.
+
+221
+00:27:41.320 --> 00:27:46.219
+Sushma: Okay, there. So, HRs, let's go to the breakout room. Guys, please hold on for 2 minutes.
+
+222
+00:27:59.100 --> 00:28:01.150
+Sushma: Please join Room 1, guys.
+
+223
+00:36:41.040 --> 00:36:42.810
+Sanisha: Alright guys…
+
+224
+00:36:43.920 --> 00:36:54.280
+Sanisha: So, after first evaluation, there are a few people that we have rejected, and you guys would have to leave. That is Agalya! Then Shaik Afrin! Santosh!
+
+225
+00:36:54.630 --> 00:36:58.900
+Sanisha: Sharad PUROHIT ishita Raj and
+
+226
+00:36:59.630 --> 00:37:06.629
+Sanisha: Rooks are Khan as well. I'm sorry, guys, we'll let you know if there are any other opportunities. Thank you for joining in today.
+
+227
+00:37:40.480 --> 00:37:42.450
+Sanisha: Alright, just give me 2 minutes.
+
+228
+00:39:14.820 --> 00:39:24.599
+Sanisha: All right, so you guys could look into the role of the tech role and check on it. I'll give you five minutes or five to ten minutes.
+
+229
+00:39:25.070 --> 00:39:26.999
+Sanisha: And then we could have a discussion on that.
+
+230
+00:41:47.600 --> 00:41:52.840
+Sanisha: All right, you guys could start with discussing about what your understanding of this role.
+
+231
+00:41:54.190 --> 00:41:57.129
+Moupriyo Jana: Good afternoon, ma'am. Myself, Mokyo Jana.
+
+232
+00:41:57.160 --> 00:42:15.369
+Moupriyo Jana: So, my understanding of this role is that it combines AI product development with product management and full-stack development, and I would be responsible for developing an assigned product from understanding the requirements to building, testing, and deploying the final system.
+
+233
+00:42:15.390 --> 00:42:26.480
+Moupriyo Jana: And the role also involves using LLM and AI agent frameworks to build smart features that solve real-world problems. And along with development, I would work with
+
+234
+00:42:26.480 --> 00:42:38.419
+Moupriyo Jana: the team on UI use design, database management, and improving products based on user feedback. And so I see this is a great opportunity to apply my AIML knowledge.
+
+235
+00:42:38.420 --> 00:42:44.329
+Sushma: Sorry for interrupting, guys. So, Sanisha Sumani is joining back, you please handle that.
+
+236
+00:42:44.530 --> 00:42:47.020
+Sushma: So, I'm just joining in Zoom 1.
+
+237
+00:42:49.700 --> 00:42:50.560
+Sanisha: Alright.
+
+238
+00:42:53.230 --> 00:42:54.530
+Sanisha: Yeah, go on.
+
+239
+00:42:55.020 --> 00:42:55.660
+Moupriyo Jana: Yes ma'am.
+
+240
+00:42:55.940 --> 00:43:04.660
+Moupriyo Jana: So basically, it's the role is about that. It's how it's combines AI product development with product management and full stack development.
+
+241
+00:43:04.730 --> 00:43:16.880
+Moupriyo Jana: And I would be responsible for developing an assigned product from understanding the requirement to building, testing, deploying the final system. It's like a start to finish throughout the work.
+
+242
+00:43:16.880 --> 00:43:28.639
+Moupriyo Jana: So I see this is a great opportunity to apply my AI ML knowledge skill and improve my development skill and learn how to how to build useful AI powered products from start to finish.
+
+243
+00:43:28.760 --> 00:43:30.539
+Moupriyo Jana: And this is my understanding.
+
+244
+00:43:34.570 --> 00:43:43.279
+NUBAID UDDIN: Ma'am, I would like to continue, like, after going through the GD and LinkedIn,
+
+245
+00:43:43.440 --> 00:43:58.529
+NUBAID UDDIN: the role, I have, understand that, basically, the role is demanding, a person who can build an end-to-end product, AI product, basically, AI-powered product, and, turn it into something people can help.
+
+246
+00:43:58.530 --> 00:44:12.519
+NUBAID UDDIN: People can use it, and organization can use it. And also, as the previous person has told that, it involves the use of 60% AI product development and 40%.
+
+247
+00:44:12.590 --> 00:44:28.570
+NUBAID UDDIN: full-stack development. So, basically, according to the GD and also to the, workstack, I have understand the flow that, basically, it will require a person who can understand the problem, then, it can,
+
+248
+00:44:28.570 --> 00:44:34.110
+NUBAID UDDIN: Design the product and plan feature, like, basic planning of the feature and the workflow.
+
+249
+00:44:34.320 --> 00:44:50.729
+NUBAID UDDIN: And, for the technical part, plan the data module. And, UIUF guy in my team can, think about the user interface, which can, which is… which can be an ease-to-use user interface. Also, then after that, we can, like.
+
+250
+00:44:51.000 --> 00:45:02.279
+NUBAID UDDIN: build and integrate it, like, using the APIs, and then we can test it in a few batch of people, then we can release it as a feature.
+
+251
+00:45:02.400 --> 00:45:10.679
+NUBAID UDDIN: also I have gone through the skills asking for it python aiml and also I have a like
+
+252
+00:45:11.040 --> 00:45:21.720
+NUBAID UDDIN: part of AIML and AIML development in my resume also, in my journey also. So I can contribute in that 60% AI product development.
+
+253
+00:45:22.260 --> 00:45:37.719
+NUBAID UDDIN: Also, I have one more two, three more points, two, three points more. Like, going through the GD also, I have, like, seen that there is, three keywords which, are there. Like, it's,
+
+254
+00:45:38.040 --> 00:45:48.630
+NUBAID UDDIN: as CRM, LSM, and HRMS. So, after reading about that, I have understood that, basically, it is a customer relationship management.
+
+255
+00:45:48.770 --> 00:45:58.000
+NUBAID UDDIN: So, and learning management system, and human resource management system. And after, like, reading basic about it, I understand that it,
+
+256
+00:45:58.260 --> 00:46:02.919
+NUBAID UDDIN: Gets, it gets an integration of all the points.
+
+257
+00:46:03.080 --> 00:46:08.119
+NUBAID UDDIN: like the CRM, LSM, and HRSM, integrate,
+
+258
+00:46:08.460 --> 00:46:21.129
+NUBAID UDDIN: with each other, so that a product can be developed, and a product can be shipped to the people, and like, solve the purpose of the organization which A4G is looking for.
+
+259
+00:46:22.290 --> 00:46:22.970
+NUBAID UDDIN: Thank you.
+
+260
+00:46:23.260 --> 00:46:41.139
+Vedant Deshpande: I just want to summarize the whole job description, and would like to add that it initially… we will be assigned an internal or an external product of the organization, which we have to foresee the end-to-end development of, from actually making the product workflows or the UI UX
+
+261
+00:46:41.480 --> 00:46:44.160
+Vedant Deshpande: prototypes, or also working on the Agentic
+
+262
+00:46:44.210 --> 00:46:49.439
+Vedant Deshpande: AI frameworks about it. And, once we have made that, we will…
+
+263
+00:46:49.440 --> 00:47:05.269
+Vedant Deshpande: take some test users to actually know what's the issue with our system, and make improvements based upon it. And, we'll also be responsible for contributing to the front-end and the back-end enhancement of the whole system. So, basically, we
+
+264
+00:47:05.270 --> 00:47:14.870
+Vedant Deshpande: Once we are given a problem, we have to solve it end to end from actually designing the front end to the back end and the complete workflow.
+
+265
+00:47:15.150 --> 00:47:17.219
+Vedant Deshpande: And in our hands. That's all.
+
+266
+00:47:17.870 --> 00:47:36.000
+Divyansh Verma: Ma'am, what I understand about the, the intern role, it is basically the, AI product management and the development, role. So, it's not only about to, to perform the, to code, to make the product.
+
+267
+00:47:36.000 --> 00:47:49.020
+Divyansh Verma: It is basically to completely orchestrate the pipelines, the workflows, which is used by the integrating the AI agents and the LLM applications.
+
+268
+00:47:49.020 --> 00:48:00.619
+Divyansh Verma: in the product. Also, adding the new features in the previously released products, like the LMS in the JD, it is mentioned in that particular role.
+
+269
+00:48:00.660 --> 00:48:16.760
+Divyansh Verma: So, on the other hand, you have, mentioned the ratio of the 60 to 40. Basically, 60% is the development, sorry, the backend development, Agentic AI and all the frameworks, and the 40% is for the…
+
+270
+00:48:16.760 --> 00:48:34.070
+Divyansh Verma: front-end, like, basically a UI, UX, and the design. So, if, I'm joining as an intern, I'm more feasible to, like, to only orchestrate, both orchestrate the 60% and the 40% of, also the UI, UX, and the back-end workflows.
+
+271
+00:48:34.070 --> 00:48:48.409
+Divyansh Verma: Agentic AI. So, if a person is going to, have this particular role, it will be more feasible to orchestrate, all the things, 60% plus 40% of the discussed in the JD, in this particular role.
+
+272
+00:48:50.880 --> 00:49:07.869
+Chandraveer Singh Solanki: So, hello everyone. From my understanding of the post, my work would be owning one of the products, end-to-end, that will be given from the HR or the PM of the organization, and I'd be both the product manager and the developer of it. That means starting with the
+
+273
+00:49:07.870 --> 00:49:13.950
+Chandraveer Singh Solanki: People who asked for it for the requirement of the product, and understanding the product, and tuning it till
+
+274
+00:49:13.990 --> 00:49:23.860
+Chandraveer Singh Solanki: The product is almost finalized, and more than an MVP. I'll be designing the prototypes, the front end and the back end, owning the whole full stack.
+
+275
+00:49:23.900 --> 00:49:40.990
+Chandraveer Singh Solanki: And adding the AI and the Agentic features to deploy. That is the 60% of the work that has been described, and the second part would be supporting the wider team, like the event side and the dashboards, and the database work, around, with the other teams.
+
+276
+00:49:41.180 --> 00:49:44.610
+Chandraveer Singh Solanki: So… That is my understanding about the room.
+
+277
+00:49:46.870 --> 00:49:47.740
+Rookhmani Kandu: Hello, everyone.
+
+278
+00:49:47.740 --> 00:49:52.520
+Kuraparthi Ajay: From my understanding, this role combines AI product development and full stack development.
+
+279
+00:49:52.740 --> 00:50:04.130
+Kuraparthi Ajay: And you mentioned that 60% of work involves, developing, AI-powered product form, start-finish, like, including understanding requirements and designing workflows.
+
+280
+00:50:04.240 --> 00:50:07.209
+Kuraparthi Ajay: And integrating LLMs and AI agents.
+
+281
+00:50:07.420 --> 00:50:09.910
+Kuraparthi Ajay: And testing and deployment.
+
+282
+00:50:10.150 --> 00:50:17.990
+Kuraparthi Ajay: And the remaining 40% involves, like, supporting other projects through, like, front-end and back-end development.
+
+283
+00:50:18.220 --> 00:50:26.800
+Kuraparthi Ajay: And what I find interesting is, that I have the opportunity to take up ownership of product and work collaboratively with small team.
+
+284
+00:50:27.040 --> 00:50:32.000
+Kuraparthi Ajay: Since I already have experience with the React Node.js and my stack.
+
+285
+00:50:32.370 --> 00:50:43.219
+Kuraparthi Ajay: and, machine learning algorithms, so that I believe I can contribute my existing skills, learn new AI technologies, actively collaborate with team members and supporting team.
+
+286
+00:50:44.180 --> 00:50:44.880
+Kuraparthi Ajay: Yeah.
+
+287
+00:50:48.480 --> 00:50:53.099
+Rookhmani Kandu: Hello, everyone. My name is Rukhmani Kandu.
+
+288
+00:50:54.170 --> 00:51:02.099
+Rookhmani Kandu: A4G focus on using AI to help people and make the world a better place.
+
+289
+00:51:02.410 --> 00:51:03.300
+Rookhmani Kandu: Yeah, it's…
+
+290
+00:51:03.550 --> 00:51:05.209
+Sanisha: Can you please talk about the role?
+
+291
+00:51:05.640 --> 00:51:07.820
+Sanisha: Than A4G because.
+
+292
+00:51:08.100 --> 00:51:09.800
+Sanisha: Now we have shifted to this room.
+
+293
+00:51:11.100 --> 00:51:12.989
+Rookhmani Kandu: What was the…
+
+294
+00:51:13.510 --> 00:51:37.250
+Rookhmani Kandu: Okay, okay. The role involves building AI-powered product from the initial idea to the final working application. It includes the design website, integrating AI APIs, testing features, and deploying product. For example, I could build a website using React
+
+295
+00:51:37.250 --> 00:51:50.670
+Rookhmani Kandu: and connect any AI API to help users get answers to their questions. And I have knowledge of React, JS, and JavaScript, and I enjoy building
+
+296
+00:51:50.670 --> 00:51:54.050
+Rookhmani Kandu: Website and application through this in.
+
+297
+00:51:54.330 --> 00:52:13.219
+Rookhmani Kandu: I want to improve my technical skill and learn how AI can be used in real projects. And I would like to contribute to useful products that solve real problems and make people's lives easier.
+
+298
+00:52:17.890 --> 00:52:20.729
+Rookhmani Kandu: Ma'am, can I explain about air folding?
+
+299
+00:52:21.780 --> 00:52:26.019
+Sanisha: No, not right now. You were supposed to do that in the previous round.
+
+300
+00:52:26.290 --> 00:52:30.499
+Sanisha: Anyone else who would like to talk more about the role could go ahead.
+
+301
+00:52:34.550 --> 00:52:36.830
+Yimkumer Pongen: Hi, am I audible?
+
+302
+00:52:37.390 --> 00:52:38.390
+Sanisha: Yes, you are.
+
+303
+00:52:39.070 --> 00:52:47.929
+Yimkumer Pongen: Okay, so basically the role that was posted in the job description, the person who would be selected would be tasked on
+
+304
+00:52:47.930 --> 00:53:06.960
+Yimkumer Pongen: developing, designing, as well as maintaining the project end-to-end, whether it be the internal or external products. So I also saw that there's a wide range of products, ranging from CRM, LMS, HRMS, and also AI-assisted tool for mental well-being.
+
+305
+00:53:06.960 --> 00:53:10.259
+Yimkumer Pongen: So I'm more particularly interested in that.
+
+306
+00:53:10.280 --> 00:53:15.409
+Yimkumer Pongen: Last one. And also, the person will be tasked with,
+
+307
+00:53:15.610 --> 00:53:34.659
+Yimkumer Pongen: using AI Agentic frameworks in order to create these products and also deploy them, while also ensuring that they are responsive, and also that we cater to the user's feedback. For example, if the user finds something hard to understand, or if it doesn't work properly, or they don't know what to do, we are responsible for making that flow more
+
+308
+00:53:34.790 --> 00:53:37.000
+Yimkumer Pongen: Easier to approach for them.
+
+309
+00:53:37.380 --> 00:53:54.550
+Yimkumer Pongen: And also, there's the 40%, which is the full-stack development and the technical design support section. So, we have to ensure that the product that we create is visually appealing, as well as it's engaging at the same time.
+
+310
+00:53:55.010 --> 00:53:58.309
+Yimkumer Pongen: For me, through my experience, I find that making.
+
+311
+00:53:58.450 --> 00:53:59.900
+Yimkumer Pongen: Air product.
+
+312
+00:54:00.010 --> 00:54:02.300
+Yimkumer Pongen: fit both…
+
+313
+00:54:02.480 --> 00:54:17.040
+Yimkumer Pongen: the PC screens as well as the mobile screens, basically to make it responsive, being very important. Most of the times, we overlook this part when creating our own projects or websites, so that is also something that I…
+
+314
+00:54:17.330 --> 00:54:21.270
+Yimkumer Pongen: Really cater to during my own development of projects.
+
+315
+00:54:21.410 --> 00:54:32.130
+Yimkumer Pongen: And also to maintain the code quality, as well as the scalability, so that if there's any further updation or addition to the website, it would be easier to approach. Yes, that's all, thank you.
+
+316
+00:54:33.640 --> 00:54:40.219
+NITIN.T: From my understanding, this intervention combines AI product development, full stack web development automation.
+
+317
+00:54:40.460 --> 00:54:41.679
+NITIN.T: Product management.
+
+318
+00:54:42.060 --> 00:54:49.260
+NITIN.T: My responsibility would include developing web application, integrating AI and LLM API, building automation system.
+
+319
+00:54:49.720 --> 00:54:53.060
+NITIN.T: Managing database, testing features, and fixing bugs.
+
+320
+00:54:53.790 --> 00:55:00.589
+NITIN.T: I would also collaborate with a small team and take ownership of assigned projects from understanding requirements to development.
+
+321
+00:55:00.770 --> 00:55:04.339
+NITIN.T: I see this as an opportunity to apply my technical skills.
+
+322
+00:55:05.420 --> 00:55:09.609
+NITIN.T: To solve real world problems and will practical I have already.
+
+323
+00:55:10.070 --> 00:55:11.570
+NITIN.T: big projects.
+
+324
+00:55:13.200 --> 00:55:17.660
+NITIN.T: Using AI, and… I.
+
+325
+00:55:17.880 --> 00:55:18.910
+NITIN.T: I would be.
+
+326
+00:55:18.910 --> 00:55:21.700
+Sanisha: We can't hear you. Your bandwidth is low.
+
+327
+00:55:25.500 --> 00:55:26.929
+NITIN.T: Is it clear right now, ma'am?
+
+328
+00:55:27.960 --> 00:55:30.849
+Sanisha: Yeah, I can hear you, but it is still low.
+
+329
+00:55:45.000 --> 00:55:48.279
+Sanisha: Either Nitin go ahead or someone else could continue.
+
+330
+00:55:49.350 --> 00:55:50.589
+Aman: Yeah, are you module?
+
+331
+00:55:51.640 --> 00:55:52.910
+Sanisha: Yes, yes, you are.
+
+332
+00:55:53.930 --> 00:56:10.029
+Aman: Yeah, the primary responsibility is to take ownership of one assigned product and work on it from understanding the requirement to designing the workflow, developing the feature, testing, deployment, and improving it based on user feedback.
+
+333
+00:56:10.470 --> 00:56:20.580
+Aman: The role also involves building AI features using LLMs and Agentic frameworks, designing user-friendly interface, and working on websites.
+
+334
+00:56:21.660 --> 00:56:36.659
+Aman: event microsites. The second responsibility is to support the wider technical team with front-end and back-end development, database management, debugging, integrations, and maintaining the existing platform.
+
+335
+00:56:37.340 --> 00:56:43.580
+Aman: I can relate this, to my previous, experience at Purigal AI Research AI,
+
+336
+00:56:43.900 --> 00:56:52.820
+Aman: search visibility and work on designing AI product features by considering user needs, workflow, user experience, and business value.
+
+337
+00:56:52.830 --> 00:57:03.330
+Aman: In my Jana Nirayani project, I built conversational workflow with intent-based routing, knowledge-based fallback mechanism, and automated MS confirmation.
+
+338
+00:57:03.330 --> 00:57:14.359
+Aman: I also worked on a multi-agent social media project involving performance for loops and human approval for cumulus. These experience have given me a starting point in AI workflow and product.
+
+339
+00:57:14.550 --> 00:57:23.260
+Aman: Thinking I would like to build on that experience and learn that the frameworks used by the team and contribute to product.
+
+340
+00:57:23.390 --> 00:57:27.039
+Aman: That's all very real organization and the social impact forums things.
+
+341
+00:57:31.760 --> 00:57:33.449
+Sanisha: Alright, is there anyone else?
+
+342
+00:57:39.110 --> 00:57:52.439
+NUBAID UDDIN: Ma'am, ma'am, I would like to add just, a few points other than technical, technical things about the role, which everybody has said. A few things which you have mentioned in the JD.
+
+343
+00:57:52.590 --> 00:58:11.200
+NUBAID UDDIN: Like, a few keywords also, like, product thinking also, and, like, we understand the product, and, also understand the ease of use of product towards the user, which is using it. And, also, we have to take care about the safety also.
+
+344
+00:58:11.330 --> 00:58:30.469
+NUBAID UDDIN: Like, the input safety and the output safety and the data safety, basically. So, we have to be good in data also, and we should also have a mindset of ownership and problem solving. It is basically mentioned in JD specifically.
+
+345
+00:58:31.080 --> 00:58:34.690
+NUBAID UDDIN: So, I have understood that also in the…
+
+346
+00:58:40.570 --> 00:58:48.199
+Sanisha: All right. So right now I'll brief you about the organization and then I'll also brief you about the role. Just give me a minute.
+
+347
+01:00:35.930 --> 01:00:42.799
+Sanisha: Alright, so Suhani will brief you about what A4G is about, and then I will brief you about the role.
+
+348
+01:00:48.690 --> 01:00:53.550
+Sanisha: Go on, Suman, you could start with the briefing about the organization.
+
+349
+01:00:55.150 --> 01:00:56.110
+Suhani_HR: Yeah, sure.
+
+350
+01:00:58.300 --> 01:01:02.220
+Suhani_HR: Okay, so first of all, hi everyone.
+
+351
+01:01:03.980 --> 01:01:12.639
+Suhani_HR: Okay, so I would be briefing you about the role. If you guys have any issues, like, any doubts, you can go ahead after it and ask me.
+
+352
+01:01:13.730 --> 01:01:22.030
+Suhani_HR: So, let's start with Wong, a very, like, basic, short, description about Wong. Because…
+
+353
+01:01:22.530 --> 01:01:28.520
+Suhani_HR: Because we are not very active on Wong right now. Our main focus is A4G. But still, I would brief you.
+
+354
+01:01:29.960 --> 01:01:43.430
+Suhani_HR: about it. So, Wong stands for Voice of the New Generation. It is a youth-focused movement. So, in brief, if we talk about it is a movement primarily working with school-going students aged between 12 to 18.
+
+355
+01:01:43.710 --> 01:01:48.200
+Suhani_HR: So we call the young people who join a community, they are called as Womsters.
+
+356
+01:01:48.280 --> 01:01:54.799
+Suhani_HR: And our goal is to help them understand sustainability and the 17 UN Sustainable Development Goals.
+
+357
+01:01:54.870 --> 01:02:03.280
+Suhani_HR: Also, we help them to identify the challenges around them, voice their ideas, and turn those ideas into action.
+
+358
+01:02:03.280 --> 01:02:22.010
+Suhani_HR: We engage and motivate those bouncers through different activities, through different gamification activities, and other initiatives. We also had 7 episodes of, like, 7 Sustainer Spark events in the back. I'm so sorry. And we are planning to organize many more in the future, if, like.
+
+359
+01:02:22.070 --> 01:02:35.180
+Suhani_HR: maybe sometime, but right now, we are not planning, because our main focus is A4G. So, coming to Omisha Foundation, Omisha Foundation is a non-profit organization working towards the long-term global impact.
+
+360
+01:02:35.180 --> 01:02:40.810
+Suhani_HR: So, we have two major initiatives. One is WOM, and the other is A4G. WOM, I have already briefed you.
+
+361
+01:02:40.810 --> 01:02:58.499
+Suhani_HR: Coming to A4G, A4G is AI for good and it focuses on the rapidly growing power of AI and it asks everyone, all of us here and outside it also a very deeper question that how do we ensure AI remains aligned with human values and contributes to human well-being.
+
+362
+01:02:59.240 --> 01:03:06.260
+Suhani_HR: So A4G currently works across three areas, AI governance, AI for sustainability, and AI for mental well-being.
+
+363
+01:03:06.750 --> 01:03:21.369
+Suhani_HR: So there is a, like, connection between all of these three, like, pillars. I will explain you in very easiest, like, easiest way as I can. So the first is governance of AI. That is preparing the society for AI.
+
+364
+01:03:21.470 --> 01:03:28.280
+Suhani_HR: So the government institutions and the policy makers need to understand and govern AI responsibly.
+
+365
+01:03:28.400 --> 01:03:34.430
+Suhani_HR: So for that we are preparing the society for AI. The second is mental well-being.
+
+366
+01:03:34.610 --> 01:03:48.849
+Suhani_HR: Once they understand about AI, they would also understand that how the automation is happening, and they can be affected by the automation, and they would need the psychological support. They would need some safe spaces and a renewed sense of purpose.
+
+367
+01:03:48.850 --> 01:03:59.859
+Suhani_HR: So for that, we have the mental well-being, that we will be helping the people to navigate the AI disruption, which is caused by, like, the… like, once they are affected by the automation.
+
+368
+01:04:00.090 --> 01:04:12.220
+Suhani_HR: Third is solopreneurship. So, solopreneurship is basically, you must know the, like, meaning of solopreneurship, but here, solopreneurship, in the spelling, it is S-O-U-L-O.
+
+369
+01:04:12.570 --> 01:04:31.220
+Suhani_HR: So, once people stabilize, they can rediscover their strengths and use AI to build meaningful, sustainable livelihoods. So, basically, we are helping the people build meaningful futures. So, first is making, like, making the policymakers, institutions, governments understand
+
+370
+01:04:31.310 --> 01:04:44.219
+Suhani_HR: And govern AI responsibly, responsibly. Once they are, like, maybe they can get affected by the AI, the automation can affect them, psychological… in a psychological way also.
+
+371
+01:04:44.220 --> 01:04:57.909
+Suhani_HR: So for that, we have the mental well-being, and third is the solopreneurship. Once they rediscover their strengths again, after the mental well-being, like, they are rediscovering it again, then they can use AI to build meaningful futures.
+
+372
+01:04:57.910 --> 01:05:00.740
+Suhani_HR: Meaningful sustainable livelihoods also.
+
+373
+01:05:00.910 --> 01:05:15.690
+Suhani_HR: So, this is the three main pillars of A4G, where we are working around. And, in simple words, A4G Impact Collaborative believes AI should improve people's lives and not replace them.
+
+374
+01:05:15.690 --> 01:05:26.199
+Suhani_HR: We work to ensure AI is fair, AI supports mental well-being, and it creates sustainable career opportunities and helps build a better future for everyone.
+
+375
+01:05:26.240 --> 01:05:36.219
+Suhani_HR: So this was about A4G Wong and entire Omisha Foundation. Sanisha, you can continue with the role, and then you guys, if you have any doubt, we can take up your questions.
+
+376
+01:05:36.520 --> 01:05:41.949
+Sanisha: Yes, thank you, Suvani. All right. So for the tech intern role.
+
+377
+01:05:42.200 --> 01:06:00.020
+Sanisha: What you will be involved in if you are selected, that is, you will be in a small team of three to four people, and each of you will own one product. That product is decided by our OPMs or the HR team. It could be something like CRM, LMS, HRMs, or recruitment automation tools.
+
+378
+01:06:00.020 --> 01:06:11.729
+Sanisha: Email marketing automation or AI tools around mental well-being, sustainability, and governance as well. So about 60% of your time goes into building that product from start to finish.
+
+379
+01:06:11.730 --> 01:06:15.990
+Sanisha: You will understand the requirements, design, and the workflow and UI.
+
+380
+01:06:15.990 --> 01:06:32.310
+Sanisha: building AI features as well, using LLMS and Agentic frameworks. Deploy it and keeping… and keep improving it based on the feedbacks given by your team or the HRs. So, you'll also help with the event websites or microsites and dashboards.
+
+381
+01:06:32.310 --> 01:06:42.140
+Sanisha: The other 40% is full stack support, and that means for front end and back end fixes, building websites or campaigns or events.
+
+382
+01:06:42.140 --> 01:06:54.310
+Sanisha: managing databases, debugging, and helping other teams with something, if there's some breakouts or any… some bugs or issues. So, mostly, the role will revolve around this.
+
+383
+01:06:54.520 --> 01:07:03.029
+Sanisha: And yes, if you guys have any doubts related to either A4G or the role, you guys could ask it now.
+
+384
+01:07:03.330 --> 01:07:06.160
+Divyansh Verma: Ma'am, can I ask one question?
+
+385
+01:07:06.490 --> 01:07:16.470
+Divyansh Verma: Like, I have heard about the… ma'am is saying about, the A4G, mentioned, like, the third pillar, solopreneurship.
+
+386
+01:07:16.710 --> 01:07:35.339
+Divyansh Verma: I am more fascinated by this particular product because, as a BTEC student, I have an idea, like, if I have an idea, I will, generally, think about to use it and to grow, to revolutionize a particular, tech industry. So, can I directly,
+
+387
+01:07:35.620 --> 01:07:41.690
+Divyansh Verma: Can I directly connect to your organization? Like, if I am just another person known as an intern.
+
+388
+01:07:41.940 --> 01:07:43.169
+Divyansh Verma: Like
+
+389
+01:07:43.760 --> 01:08:04.530
+Divyansh Verma: if a person has an idea, from not being… go through the other pillars, like, from the first one, then second one, then to third one, can… one directly, can jump to the third one pillar? Like, if he has an idea, he or she can contact or, like, contribute to the particular foundation. Is there any option in this?
+
+390
+01:08:05.180 --> 01:08:11.540
+Sanisha: So are you saying that you would individually want to contribute to solopreneurship directly? Is that what you're saying?
+
+391
+01:08:11.540 --> 01:08:12.240
+Divyansh Verma: Yeah, it.
+
+392
+01:08:12.250 --> 01:08:12.940
+Sanisha: Every.
+
+393
+01:08:12.940 --> 01:08:13.470
+Divyansh Verma: I…
+
+394
+01:08:13.470 --> 01:08:14.840
+Sanisha: Mother organization.
+
+395
+01:08:15.500 --> 01:08:19.649
+Divyansh Verma: Yeah, ma'am. You can say, kind of both.
+
+396
+01:08:20.609 --> 01:08:24.299
+Sanisha: What do you understand about the solopreneurship? First, tell me about it.
+
+397
+01:08:24.760 --> 01:08:43.619
+Divyansh Verma: Ma'am, what I understand, like, in your particular organization, if a person has an idea, and he has a stable mental state, like, he can pursue the startup, his own startup, or contribute to any, startup industry, so,
+
+398
+01:08:43.620 --> 01:08:46.170
+Divyansh Verma: Your organization can support him.
+
+399
+01:08:46.170 --> 01:08:50.809
+Divyansh Verma: In that particular domain, about the idea, what I got this.
+
+400
+01:08:51.080 --> 01:08:52.289
+Divyansh Verma: I said, this is…
+
+401
+01:08:52.290 --> 01:08:59.050
+Sanisha: Okay. We are not looking for any support as such, or contacting. If there is anything, we will let you know.
+
+402
+01:08:59.160 --> 01:09:02.029
+Sanisha: And before that, yes, you could go.
+
+403
+01:09:02.489 --> 01:09:12.709
+Divyansh Verma: Ma'am, it is just an, like a assumption. I have… want to ask a question. It's not my personal question about this. But…
+
+404
+01:09:12.709 --> 01:09:23.439
+Divyansh Verma: What I have to ask, like, there are many, I think, there should be challenges you guys are facing in this particular achieving these goals.
+
+405
+01:09:23.479 --> 01:09:33.929
+Divyansh Verma: Like, all the pillars. So, what are these particular challenges, currently you are facing? So that we as an intern can…
+
+406
+01:09:33.930 --> 01:09:50.109
+Sanisha: Yeah, we could get to that eventually. Right now, we just have to focus on, you know, this description. And we will have first, the other HR and I will have internal discussion and we'll get back because we are also short on time. So we have to proceed with the other rounds as well.
+
+407
+01:09:51.029 --> 01:09:53.510
+Sanisha: Suhani, could you come to the breakout room?
+
+408
+01:09:57.260 --> 01:09:58.390
+Sanisha: Room 1.
+
+409
+01:12:21.490 --> 01:12:23.850
+Sanisha: All right, so.
+
+410
+01:12:28.450 --> 01:12:32.230
+Sanisha: I don't know how to say your name, I'm sorry. Yukumar.
+
+411
+01:12:32.350 --> 01:12:33.640
+Sanisha: Vedant.
+
+412
+01:12:33.860 --> 01:12:36.239
+Sanisha: Nubed and Divansh.
+
+413
+01:12:36.610 --> 01:12:38.850
+Sanisha: And also
+
+414
+01:12:39.570 --> 01:12:46.769
+Sanisha: Chandraveer, you guys could stay back. Rest of you, please leave the meeting. I'm sorry, but we are not proceeding with you.
+
+415
+01:12:47.180 --> 01:12:48.619
+Sanisha: For the further rounds.
+
+416
+01:13:06.170 --> 01:13:24.640
+Suhani_HR: Okay. So, we would just continue now with, like, I would like to hear from all of you, one by one, why A4G? Like, why, not any company and an NGO? The second thing is, what is your motivation to join this internship?
+
+417
+01:13:25.030 --> 01:13:32.050
+Suhani_HR: Third is, what is your career goal? And fourth is, what are your expectations from this internship?
+
+418
+01:13:35.880 --> 01:13:43.189
+Suhani_HR: So I'm repeating, what is your motivation to join this internship? What are your expectations? What is your career goal, and why A4G?
+
+419
+01:13:43.690 --> 01:13:47.500
+Suhani_HR: So these four questions, you can go one by one and spell it out.
+
+420
+01:13:48.300 --> 01:13:50.109
+Divyansh Verma: Oh, ma'am, can I?
+
+421
+01:13:51.130 --> 01:13:52.650
+Suhani_HR: Yes, anybody can start.
+
+422
+01:13:53.020 --> 01:13:56.190
+Divyansh Verma: Okay, ma'am, one second, please.
+
+423
+01:13:57.590 --> 01:14:10.060
+Divyansh Verma: As a BTEC student, and to be very honest, like, I am from AIML specialization, so, from the very first year of my college journey, I am
+
+424
+01:14:10.060 --> 01:14:18.520
+Divyansh Verma: More focused towards the AI and ML domains. And I am fascinated towards how this particular framework is working.
+
+425
+01:14:18.530 --> 01:14:29.000
+Divyansh Verma: And currently, I am doing my own project like Agentic Knowledge Research System, in which I have implemented the AI agents and the whole workflow.
+
+426
+01:14:29.250 --> 01:14:52.490
+Divyansh Verma: For the, if a particular company actually, taking an assumption, if a particular company actually have a particular database, and if an employee or an employer want to search a particular file or a doc, any kind, like how can he or she can operate in a particular field, like in a company?
+
+427
+01:14:53.020 --> 01:15:11.089
+Divyansh Verma: although there is a very, maintained database, but in my situation, like, if I have to find a particular file, or I can give a prompt to the AI, like, find a particular file, or can have a text, so that he can search the particular keywords, and detects the whole
+
+428
+01:15:11.150 --> 01:15:21.430
+Divyansh Verma: Of, file or a folder and generates the output according to this. So I have, I am working on a particular project then that is majorly.
+
+429
+01:15:21.640 --> 01:15:28.319
+Divyansh Verma: Of, deploy on my particular local environment and detects all the files that, I
+
+430
+01:15:28.580 --> 01:15:33.589
+Divyansh Verma: from my permission given to the particular AI prompt to detect all this.
+
+431
+01:15:33.590 --> 01:15:47.799
+Sanisha: I'm sorry to cut you, Divansh, but then we would want to know how you want to work for this particular role, and why A4G? So you could just specifically talk about what is the motivation factor for you, and all those things.
+
+432
+01:15:47.800 --> 01:16:12.369
+Divyansh Verma: Sorry for the interruption, but to be very short, I am firstly fascinated from the role that you have mentioned. Like you are not just using the AI for the productivity as I already mentioned earlier, but for the human well-being. Like if in the further my journey in this particular role, I am
+
+433
+01:16:12.370 --> 01:16:18.480
+Divyansh Verma: I'm targeting the AI agentic AI or AI engineer role in current era.
+
+434
+01:16:18.530 --> 01:16:21.399
+Divyansh Verma: But like if
+
+435
+01:16:21.570 --> 01:16:27.950
+Divyansh Verma: In future, I want to build my own startup, which I have, I have thought about it.
+
+436
+01:16:28.190 --> 01:16:47.099
+Divyansh Verma: So, your foundation is generally working with the same mindset. Like, if a particular person have not get opportunity to, build his, his own startup, he or she may help others to build such a particular startup or, to, build, the business, which
+
+437
+01:16:47.100 --> 01:17:03.090
+Divyansh Verma: AI can help in this. So I am generally eager to contribute this from my side. Like I am proficient in building AI agents and orchestrating the workflows. So this particular point I mentioned here.
+
+438
+01:17:03.110 --> 01:17:18.810
+Divyansh Verma: Towards what you are asking, like, how you are fascinated towards the foundation. And why A4G? Because it is, totally, collaborating and, doing for the human and social well-being.
+
+439
+01:17:19.020 --> 01:17:21.930
+Divyansh Verma: So, this is my answer to your question, ma'am.
+
+440
+01:17:22.920 --> 01:17:24.599
+Vedant Deshpande: Can I continue with the next?
+
+441
+01:17:24.950 --> 01:17:25.380
+Sanisha: Yes.
+
+442
+01:17:25.380 --> 01:17:26.360
+Vedant Deshpande: I.
+
+443
+01:17:26.470 --> 01:17:38.409
+Vedant Deshpande: Just want to say the reason, personal reason for me to joining this organization would be as you are, helping the community, the people, and, to the people to understand how
+
+444
+01:17:38.460 --> 01:17:53.940
+Vedant Deshpande: AI can be a risk to, your life, or like, let's say, your day-to-day life, and how you can use it sustainably. That is also amazing, that is what I find, interesting in the first place. And the things that I will learn from it, because,
+
+445
+01:17:54.240 --> 01:18:03.980
+Vedant Deshpande: Once I read the JD, I was really excited about it because I will be able to contribute in multiple verticals.
+
+446
+01:18:03.980 --> 01:18:16.229
+Vedant Deshpande: Let's say from actually designing the, front end, back end to also working on the workflows in terms of, product workflows or Agentic frameworks and.
+
+447
+01:18:16.240 --> 01:18:18.670
+Vedant Deshpande: Also… Garlic.
+
+448
+01:18:18.770 --> 01:18:29.859
+Vedant Deshpande: Having complete control over a whole product, what you guys will be quoting me. And that is was my main motivation of learning because as someone.
+
+449
+01:18:29.890 --> 01:18:44.139
+Vedant Deshpande: coming as a entry-level fresher and a recent graduate, I would really like to have this opportunity to, use my knowledge and actually learn from the people that already are in this industry and get an experience on how
+
+450
+01:18:44.200 --> 01:18:49.789
+Vedant Deshpande: Things are built in the production side of things, and also keeping it sustainable at the same time.
+
+451
+01:18:50.150 --> 01:18:50.870
+Vedant Deshpande: Thank you.
+
+452
+01:18:54.550 --> 01:18:56.239
+NUBAID UDDIN: Ma'am, can I continue?
+
+453
+01:18:57.960 --> 01:18:58.980
+Sanisha: Yes, yes.
+
+454
+01:18:59.510 --> 01:19:05.940
+NUBAID UDDIN: So, ma'am, basically, from your questions, the first one was about the career goal.
+
+455
+01:19:06.060 --> 01:19:17.239
+NUBAID UDDIN: So, basically, I want to become and aspiring to become an AI-focused software engineer, or go towards an backend or AI role at the starting.
+
+456
+01:19:17.480 --> 01:19:23.400
+NUBAID UDDIN: And that's why also that's why I am applying and reaching out towards these opportunities.
+
+457
+01:19:23.630 --> 01:19:27.109
+NUBAID UDDIN: And I found A4G in that.
+
+458
+01:19:27.320 --> 01:19:37.070
+NUBAID UDDIN: Also, like, I am also, like, I was also thinking to build a product and have a product-building mindset.
+
+459
+01:19:38.130 --> 01:19:48.440
+NUBAID UDDIN: So, like, in my previous experience of with Atlas School of Technology, also, I have tried to build a project, which.
+
+460
+01:19:48.550 --> 01:20:00.670
+NUBAID UDDIN: was at a product level. After that, I also tried to learn deployment. Also, as you asked about that, what motivates me to join A4G?
+
+461
+01:20:01.140 --> 01:20:14.230
+NUBAID UDDIN: So, basically, A4G is an organization that is working for social good, also. And I find it interesting that it focuses just not…
+
+462
+01:20:14.360 --> 01:20:24.160
+NUBAID UDDIN: focus on making faster or more efficient the AI, but also making sure that the person are benefited
+
+463
+01:20:24.380 --> 01:20:26.030
+NUBAID UDDIN: And being a.
+
+464
+01:20:26.310 --> 01:20:37.540
+NUBAID UDDIN: benefited from the product that we are building. Also, one more thing, which, in the previous, step of your hiring, you have,
+
+465
+01:20:37.990 --> 01:20:55.669
+NUBAID UDDIN: Asked the question of building an AI recruitment… AI-powered recruitment system. I have also gone through it, and I think that that aligns with my skills and my experience and my project, which I have built till now.
+
+466
+01:20:55.820 --> 01:21:08.319
+NUBAID UDDIN: So, and in that also, you have not just to focus on automating the process. We can consider, from my perspective, we can consider on fairness and transparency.
+
+467
+01:21:08.960 --> 01:21:12.839
+NUBAID UDDIN: To generate an AI generated decision.
+
+468
+01:21:12.980 --> 01:21:19.979
+NUBAID UDDIN: Also like 1 more point and which I like the most about it and that.
+
+469
+01:21:20.400 --> 01:21:30.290
+NUBAID UDDIN: Like, motivated me to join A 4 G was the was to own a end to end development product AI development product.
+
+470
+01:21:30.300 --> 01:21:43.059
+NUBAID UDDIN: I would get an opportunity to own a real product, take ownership, and also collaborate with a good team to understand how, like, engineering decision is done, UIS, UI, UX,
+
+471
+01:21:43.100 --> 01:21:46.450
+NUBAID UDDIN: Collaboration in done and I with my.
+
+472
+01:21:46.650 --> 01:22:03.889
+NUBAID UDDIN: With my skills like Python, and I have also a Flash skills, and I have worked deeply in RAG systems, and moving towards Agentic AI, so I can also contribute and develop my skill more forward towards full-stack AI development.
+
+473
+01:22:04.630 --> 01:22:16.319
+NUBAID UDDIN: And I can feel that… I see that this opportunity can contribute more than an internship for me in longer term of my journey, as currently I'm in third year of BTEC.
+
+474
+01:22:17.570 --> 01:22:19.770
+NUBAID UDDIN: And I can achieve.
+
+475
+01:22:20.010 --> 01:22:23.819
+NUBAID UDDIN: Can help in a step towards my.
+
+476
+01:22:24.140 --> 01:22:26.419
+NUBAID UDDIN: Career goals thank you.
+
+477
+01:22:27.310 --> 01:22:28.030
+NUBAID UDDIN: Thank you.
+
+478
+01:22:35.810 --> 01:22:37.560
+Yimkumer Pongen: Hello, am I audible?
+
+479
+01:22:38.180 --> 01:22:39.050
+Sanisha: Yes, you were.
+
+480
+01:22:39.790 --> 01:22:41.660
+Yimkumer Pongen: Okay, so…
+
+481
+01:22:42.130 --> 01:22:53.869
+Yimkumer Pongen: I'm currently working as an AI software developer for a company in the United States. Right now, I was working for a year full time. They've changed it to contract.
+
+482
+01:22:53.960 --> 01:23:12.259
+Yimkumer Pongen: based now, so basically project-based. But, yeah, the main reason why I found this position interesting is because even when applying on different platforms, I would see people posting jobs, like, they want developers to fasten their productivity, gain more margins, they want more…
+
+483
+01:23:12.260 --> 01:23:19.010
+Yimkumer Pongen: Products to be delivered out fast, but this organization A4G, they want to actually educate people.
+
+484
+01:23:19.310 --> 01:23:22.379
+Yimkumer Pongen: on how to use AI and also ensure that
+
+485
+01:23:24.130 --> 01:23:26.640
+Yimkumer Pongen: Ensure that it's not, how to say…
+
+486
+01:23:27.270 --> 01:23:46.940
+Yimkumer Pongen: being used irresponsibly. So this one, I resonate with this role on a personal level because my own mother, she finds it hard to even navigate through YouTube. So the thought of AI, AI fake images and videos, it's something scary for her.
+
+487
+01:23:46.940 --> 01:23:51.009
+Yimkumer Pongen: Finding an organization that actually wants to empower.
+
+488
+01:23:51.010 --> 01:24:07.040
+Yimkumer Pongen: communities to not only learn how to use AI, but also to use it for their own positive and well-being, mental growth as well. That's something that I truly found fascinating, and I really want to be part of it. So that's my reason, yeah.
+
+489
+01:24:10.260 --> 01:24:13.340
+Chandraveer Singh Solanki: Okay. Hi. So…
+
+490
+01:24:13.340 --> 01:24:30.969
+Chandraveer Singh Solanki: I'll first of all answer why I choose A4G or any other organization, is because A4G is really working on a problem that I'm currently living inside, that I am a fresher, and after the introduction to the Agentic AI.
+
+491
+01:24:30.970 --> 01:24:37.309
+Chandraveer Singh Solanki: Most of the entry-level doors are narrowing down, and… Because of that,
+
+492
+01:24:37.520 --> 01:24:51.490
+Chandraveer Singh Solanki: the things that Apogee is building around is kind of interesting to me. They are also primarily focused on the privacy side of the AI. They build the new mark.
+
+493
+01:24:51.560 --> 01:25:09.429
+Chandraveer Singh Solanki: And that handles both the health and the privacy, and I care about the privacy now. One of my projects that I've built on text that is a filter between your private versus, the non-private data that is being delivered to the, normal cloud LLMs.
+
+494
+01:25:09.570 --> 01:25:17.479
+Chandraveer Singh Solanki: So my work around AI is almost similar to how AGI's vision and how they work around it is.
+
+495
+01:25:17.490 --> 01:25:34.729
+Chandraveer Singh Solanki: So my expectation with, this role would be, just that, whatever I do, I need a clear mentorship of what I do, because most of the things, most of the roles that other organizations offer are
+
+496
+01:25:35.320 --> 01:25:53.379
+Chandraveer Singh Solanki: similar, but they do not have the people who are into that space and currently working on it. And the people in Omnisia, I believe, are the ones who are currently working on the AI space actively. And because of that, I want to be the part of it.
+
+497
+01:25:53.490 --> 01:25:57.840
+Chandraveer Singh Solanki: As for my career goal, I want to make a particular.
+
+498
+01:25:57.950 --> 01:26:03.959
+Chandraveer Singh Solanki: Products from idea to production and to be completely.
+
+499
+01:26:04.180 --> 01:26:11.860
+Chandraveer Singh Solanki: To be, completely on the tech side of it, and handle the products on my own, with the help of AI, not…
+
+500
+01:26:12.150 --> 01:26:19.429
+Chandraveer Singh Solanki: My goal is not particularly to build a AI product, but a product that helps the people in their own life.
+
+501
+01:26:19.590 --> 01:26:22.940
+Chandraveer Singh Solanki: And can use in everyday.
+
+502
+01:26:27.350 --> 01:26:28.260
+Sanisha: Alright.
+
+503
+01:26:29.130 --> 01:26:33.550
+Sanisha: We will go in another breakout room and be right back.
+
+504
+01:27:48.650 --> 01:27:59.280
+Sanisha: Alright, so… Dubed and Divyansh, please leave the meeting. Unfortunately, we are not going ahead with you. Rest of you can stay back.
+
+505
+01:28:01.760 --> 01:28:03.249
+Suhani_HR: All the best to you.
+
+506
+01:28:03.260 --> 01:28:27.350
+Suhani_HR: And, we would proceed with the one-to-one rounds now, so you guys have to wait in the breakout room. Please be patient, and don't, like, because it can take some time, because it would be a one-to-one round. We will take some natural traits and HR round with the person. So you just have to wait in the breakout room, you can switch off your video and stay there. We will call one by one here, and we will have the conversation.
+
+507
+01:28:27.850 --> 01:28:35.419
+Suhani_HR: Yeah, so you will get a notification right now to join the room one, or Sanisha can assign, and you guys can join there.
+
+508
+01:28:35.700 --> 01:28:36.590
+Sanisha: Alright.
+
+509
+01:28:37.780 --> 01:28:40.079
+Divyansh Verma: Ma'am, do I have to pay this?
+
+510
+01:28:40.270 --> 01:28:44.000
+Sanisha: Yes, also then you do, you do also have to leave.
+
+511
+01:28:44.790 --> 01:28:45.430
+Divyansh Verma: Okay.
+
+512
+01:28:46.000 --> 01:28:48.780
+NUBAID UDDIN: Ma'am, did you take my name?
+
+513
+01:28:48.900 --> 01:28:49.710
+Sanisha: Yes.
+
+514
+01:28:49.710 --> 01:28:50.280
+NUBAID UDDIN: Cool.
+
+515
+01:28:50.380 --> 01:28:54.780
+NUBAID UDDIN: And can I go like know what was wrong?
+
+516
+01:28:55.040 --> 01:28:57.370
+NUBAID UDDIN: Like, what was my mistake, basically?
+
+517
+01:28:57.370 --> 01:29:07.080
+Sanisha: It's, I cannot tell… there was no mistake as such, but, however, you don't align much with what we are looking for, and that is the reason why we would not proceed with you.
+
+518
+01:29:08.330 --> 01:29:13.660
+NUBAID UDDIN: Thank you, ma'am. Any future opportunity, I would be loving to do it. Please contact me. Thank you.
+
+519
+01:29:13.660 --> 01:29:15.490
+Sanisha: Thank you for being there today.
+
+520
+01:29:18.600 --> 01:29:19.649
+Divyansh Verma: Thank you, ma'am.
+
+521
+01:29:35.330 --> 01:29:37.740
+Sanisha: Alright, so we can start.
+
+522
+01:29:39.060 --> 01:29:40.949
+Sanisha: I have assigned the other two.
+
+523
+01:29:41.060 --> 01:29:42.659
+Sanisha: We can start with Vedant.
+
+524
+01:29:44.260 --> 01:29:45.459
+Sanisha: Sushma, you could take over.
+
+525
+01:29:45.460 --> 01:29:46.800
+Suhani_HR: Okay, yeah.
+
+526
+01:29:47.270 --> 01:29:50.099
+Suhani_HR: So first of all, hi Vedant, how are you?
+
+527
+01:29:50.100 --> 01:29:50.650
+Vedant Deshpande: I'm fine.
+
+528
+01:29:50.650 --> 01:29:58.589
+Suhani_HR: And yeah, okay, let's move with the HR round. So my first question to you is what is your family background?
+
+529
+01:29:59.180 --> 01:30:02.600
+Vedant Deshpande: I currently live in Airoli.
+
+530
+01:30:03.670 --> 01:30:13.649
+Vedant Deshpande: In my family, I have my mom and my dad. I've done my education in electronics and telecommunication from Nehru Navi Mumbai.
+
+531
+01:30:13.990 --> 01:30:16.880
+Vedant Deshpande: And… That is all.
+
+532
+01:30:17.810 --> 01:30:18.579
+Vedant Deshpande: Let me see.
+
+533
+01:30:20.010 --> 01:30:22.469
+Suhani_HR: Okay, and
+
+534
+01:30:23.110 --> 01:30:31.589
+Suhani_HR: Can you tell me how your career aspiration aligns with this internship? Like your career aspiration and the alignment.
+
+535
+01:30:32.490 --> 01:30:42.440
+Vedant Deshpande: Basically, from the start, I've always been interested in software engineering, especially backend and AI. And when I saw the job description, as I told also in the previous round.
+
+536
+01:30:42.440 --> 01:30:53.320
+Vedant Deshpande: That I was given an opportunity to actually hold the whole product from end to end development, from actually, designing the, let's say, wireframes from the basics.
+
+537
+01:30:53.320 --> 01:30:58.019
+Vedant Deshpande: of UI UX, to even going in the depth of backend, and
+
+538
+01:30:58.020 --> 01:31:08.059
+Vedant Deshpande: Connecting it with the Agentic workflows, and I will be able to talk with the actual users and get the responses from them in terms of how they want the system to be.
+
+539
+01:31:08.720 --> 01:31:20.780
+Vedant Deshpande: will know what the requirements they have, and improve the overall system based on the requirements as well. So, this will give me a clear advantage and experience over how,
+
+540
+01:31:20.810 --> 01:31:33.760
+Vedant Deshpande: One will be able to talk to clients and, organize their whole workflow in terms of designing the product, to shipping it, to taking responses from the user, and actually improve… improving
+
+541
+01:31:33.810 --> 01:31:40.179
+Vedant Deshpande: on the existing system. So I think that it really aligns with what I know, and I'm…
+
+542
+01:31:40.710 --> 01:31:43.140
+Vedant Deshpande: I've built multiple projects in terms of
+
+543
+01:31:43.940 --> 01:31:57.419
+Vedant Deshpande: Let's say AI or back inside of things. So I have experience in that. So I'm pretty confident of whatever product or project that will be in the form of internal, external, I can easily tackle it.
+
+544
+01:31:59.760 --> 01:32:00.520
+Vedant Deshpande: That's what.
+
+545
+01:32:01.480 --> 01:32:07.099
+Suhani_HR: Okay, and can you tell me what, like, what are you pursuing right now?
+
+546
+01:32:07.350 --> 01:32:08.010
+Suhani_HR: How was…
+
+547
+01:32:08.010 --> 01:32:12.970
+Vedant Deshpande: I have just graduated, like, 3 months ago. I'm a recent graduate, I've been searching for a job.
+
+548
+01:32:12.970 --> 01:32:13.420
+Suhani_HR: enough.
+
+549
+01:32:13.420 --> 01:32:14.969
+Vedant Deshpande: For the last 3 months, and…
+
+550
+01:32:15.270 --> 01:32:15.670
+Suhani_HR: 15.
+
+551
+01:32:15.670 --> 01:32:18.490
+Vedant Deshpande: As opportunities I'm getting, I'm interviewing for them.
+
+552
+01:32:18.790 --> 01:32:19.850
+Vedant Deshpande: This is one of them.
+
+553
+01:32:21.310 --> 01:32:23.489
+Suhani_HR: Okay, but this is going to be an internship, right?
+
+554
+01:32:23.490 --> 01:32:24.649
+Vedant Deshpande: Yeah, I'm okay.
+
+555
+01:32:24.650 --> 01:32:25.650
+Suhani_HR: So.
+
+556
+01:32:26.570 --> 01:32:34.550
+Suhani_HR: Okay, so, like, you just said that you were searching for a job, then why, like, going for an internship? How are you okay with it?
+
+557
+01:32:34.890 --> 01:32:45.360
+Vedant Deshpande: To be honest, like I said, I have no experience when it comes to production level systems. I know things when it comes to personal projects, I know how to handle those.
+
+558
+01:32:45.360 --> 01:32:56.169
+Vedant Deshpande: But, when it comes to, actually talking to clients, when I'm talking to use actual users, I don't have much experience with it. So, even though this is an internship, I will get an opportunity.
+
+559
+01:32:57.760 --> 01:33:07.540
+Vedant Deshpande: Talk with clients and the users to get feedback from them, and actually, get into the environment of building, and knowing how…
+
+560
+01:33:07.540 --> 01:33:13.900
+Suhani_HR: I understood that, but, like, what if you get a, like, full-time job in between?
+
+561
+01:33:14.680 --> 01:33:16.820
+Suhani_HR: As you are actively searching for it.
+
+562
+01:33:16.820 --> 01:33:17.600
+Vedant Deshpande: Yeah.
+
+563
+01:33:18.110 --> 01:33:21.000
+Vedant Deshpande: But I won't think that will…
+
+564
+01:33:21.380 --> 01:33:26.849
+Vedant Deshpande: Like, hinder any of the progress in terms of the internship because,
+
+565
+01:33:27.160 --> 01:33:28.020
+Vedant Deshpande: I can…
+
+566
+01:33:28.470 --> 01:33:38.830
+Vedant Deshpande: like, the committed hours were 30 plus something. I can easily commit it. I won't be, actively searching for any job, jobs later on.
+
+567
+01:33:39.250 --> 01:33:42.760
+Vedant Deshpande: But just thinking, to be very transparent with you.
+
+568
+01:33:43.820 --> 01:33:48.870
+Vedant Deshpande: I've, I have some opportunities later on as well, but,
+
+569
+01:33:49.010 --> 01:33:54.600
+Vedant Deshpande: I really like your vision as a organization, and would love to contribute to it.
+
+570
+01:33:54.800 --> 01:33:56.180
+Vedant Deshpande: And…
+
+571
+01:33:56.330 --> 01:34:12.929
+Vedant Deshpande: I can easily do 30 hours per day. I just want to know if the hours are flexible, or do I have to sit in a specified time period? Like, do I have to get up, like, at 9 to, let's say, 5 hours from that, is it till 1 or 2? Or, I will be given a task
+
+572
+01:34:13.090 --> 01:34:18.440
+Vedant Deshpande: to do in the whole day, or a whole week, or a whole month, and then I have to work through it.
+
+573
+01:34:18.840 --> 01:34:29.479
+Vedant Deshpande: Because if that is, if the time is in my hands, I can put in 30 hours to 35 hours easily, and complete the tasks that is assigned to me without any issues.
+
+574
+01:34:29.480 --> 01:34:40.839
+Suhani_HR: See, it is flexible in the sense that, obviously, you can work at your own pace, morning, night, but there is a slot between 5 to 9 PM in which you need to be available for all the meetings.
+
+575
+01:34:41.840 --> 01:34:43.950
+Vedant Deshpande: Yeah, I will be, without an issue.
+
+576
+01:34:44.410 --> 01:34:44.930
+Suhani_HR: Hmm.
+
+577
+01:34:44.930 --> 01:35:02.049
+Sanisha: And also one more thing. So even in tech and tech teams, what we do is we are not making, we are not getting in contact with the clients. Whatever products we are making is for the organization itself. So if there are any people who would be using it would be the employees of the organization.
+
+578
+01:35:02.430 --> 01:35:11.700
+Vedant Deshpande: Okay, but still, I will be getting feedbacks from them that this feature is not working correctly, then I can get that… still having the same experience of as…
+
+579
+01:35:11.810 --> 01:35:13.910
+Vedant Deshpande: I can think of them as clients for me.
+
+580
+01:35:14.010 --> 01:35:16.319
+Vedant Deshpande: And… work in that way.
+
+581
+01:35:16.460 --> 01:35:19.270
+Vedant Deshpande: It will still give me experience in terms of end-to-end production.
+
+582
+01:35:23.210 --> 01:35:24.000
+Suhani_HR: Okay.
+
+583
+01:35:24.130 --> 01:35:32.660
+Suhani_HR: So… Like what are you also doing any other courses or anything side by side?
+
+584
+01:35:32.990 --> 01:35:41.200
+Vedant Deshpande: At the moment, no, I'm just building some personal projects, I can say, but not really any course or anything that I have to commit to right now.
+
+585
+01:35:42.440 --> 01:35:59.329
+Suhani_HR: Understood, understood. Okay. Okay, Vedant, that's all I wanted to ask you. If you will be selected, you will get a notification from our site, through maybe mail or WhatsApp, and if you will not be, like, if you're not getting any notification, then you can take it that you're not selected.
+
+586
+01:35:59.540 --> 01:36:10.170
+Sanisha: Also, one more thing that I wanted to ask is, will you be available, like, for the next 6 months? Because this internship itself is for the 6 months duration.
+
+587
+01:36:10.960 --> 01:36:11.690
+Vedant Deshpande: Yes.
+
+588
+01:36:11.920 --> 01:36:13.950
+Vedant Deshpande: I will be available for the next 6 months.
+
+589
+01:36:14.730 --> 01:36:15.640
+Suhani_HR: Okay.
+
+590
+01:36:15.930 --> 01:36:16.800
+Suhani_HR: Great.
+
+591
+01:36:17.100 --> 01:36:17.730
+Sanisha: Okay.
+
+592
+01:36:17.730 --> 01:36:18.220
+Suhani_HR: be.
+
+593
+01:36:18.220 --> 01:36:22.759
+Sanisha: Drop your email, your name, and your contact number in the chat box.
+
+594
+01:36:23.340 --> 01:36:23.960
+Vedant Deshpande: Okay.
+
+595
+01:36:45.320 --> 01:36:46.330
+Vedant Deshpande: I've put that in.
+
+596
+01:36:50.470 --> 01:36:51.010
+Vedant Deshpande: Should I…
+
+597
+01:36:51.010 --> 01:36:51.370
+Sanisha: Alright.
+
+598
+01:36:51.370 --> 01:36:51.930
+Vedant Deshpande: right now?
+
+599
+01:36:51.930 --> 01:36:53.160
+Sanisha: Yes, yes, you can.
+
+600
+01:36:53.160 --> 01:36:54.220
+Vedant Deshpande: Okay, thank you.
+
+601
+01:36:54.220 --> 01:36:54.760
+Sanisha: you.
+
+602
+01:36:57.810 --> 01:37:05.809
+Suhani_HR: He was a totally stability issue person. He clearly expressed that like if he gets through, he would try to manage it.
+
+603
+01:37:05.810 --> 01:37:06.290
+Sanisha: the.
+
+604
+01:37:06.290 --> 01:37:08.580
+Suhani_HR: This like with.
+
+605
+01:37:08.580 --> 01:37:28.380
+Suhani_HR: like, with this internship, his job also. And he's actively looking since 3 months, and, like, it's something that he's not getting, and he's on that watch, ki, to take it. And, like, I would continue this internship, so possible, nahi hai, we all know this, pe hai, libi cases wah, bhai, ki, kuch tokne try kiya, toh jaga karne ka, bhai, wo nahi aupata.
+
+606
+01:37:28.640 --> 01:37:29.710
+Sanisha: Alright, dear.
+
+607
+01:37:29.710 --> 01:37:32.320
+Suhani_HR: So, what is the stability issue in SLM?
+
+608
+01:37:33.000 --> 01:37:35.629
+Sanisha: Okay, then let's take the other person.
+
+609
+01:37:35.630 --> 01:37:36.600
+Suhani_HR: Yeah, sure.
+
+610
+01:37:59.100 --> 01:38:05.660
+Sanisha: Why am I not able to move that person? I did move them to… The main session.
+
+611
+01:38:06.790 --> 01:38:10.509
+Suhani_HR: Do it again sometime it happens.
+
+612
+01:38:10.860 --> 01:38:11.580
+Sanisha: Yeah.
+
+613
+01:38:11.980 --> 01:38:12.939
+Sanisha: Hi, Jim.
+
+614
+01:38:13.980 --> 01:38:14.630
+Yimkumer Pongen: Hi.
+
+615
+01:38:15.270 --> 01:38:16.790
+Sanisha: Hello, can you turn on your camera?
+
+616
+01:38:17.060 --> 01:38:18.659
+Suhani_HR: Turn on your video.
+
+617
+01:38:20.340 --> 01:38:21.020
+Suhani_HR: Yeah.
+
+618
+01:38:21.020 --> 01:38:21.750
+Sanisha: Alright.
+
+619
+01:38:22.560 --> 01:38:30.400
+Suhani_HR: Okay, hello, first of all, and I would like to know from you, what is your family background?
+
+620
+01:38:32.290 --> 01:38:36.969
+Yimkumer Pongen: My family background actually… I have a single mother.
+
+621
+01:38:37.330 --> 01:38:39.370
+Yimkumer Pongen: And I have a younger brother.
+
+622
+01:38:39.800 --> 01:38:42.490
+Yimkumer Pongen: And my younger brother is also…
+
+623
+01:38:42.810 --> 01:38:49.860
+Yimkumer Pongen: has some medical problems. So that's the reason why I'm searching for remote roles specifically.
+
+624
+01:38:50.360 --> 01:38:51.430
+Yimkumer Pongen: And.
+
+625
+01:38:51.540 --> 01:38:54.099
+Yimkumer Pongen: Yeah, that's that's about it.
+
+626
+01:38:54.480 --> 01:38:58.629
+Suhani_HR: Are you pursuing right now anything or you are a graduate?
+
+627
+01:38:58.880 --> 01:39:05.510
+Yimkumer Pongen: I'm a graduate. I graduated in 2024 from Acharya Institute of Technology, Bangalore.
+
+628
+01:39:06.840 --> 01:39:10.479
+Suhani_HR: Okay, so are you not looking for jobs right now?
+
+629
+01:39:11.140 --> 01:39:17.369
+Yimkumer Pongen: I am, and I'm actively applying, I do have several interviews also, but,
+
+630
+01:39:17.740 --> 01:39:25.320
+Yimkumer Pongen: Like I said previously, most of the job descriptions, they're more,
+
+631
+01:39:25.680 --> 01:39:36.630
+Yimkumer Pongen: searching for profit margins, or they want more, products being shipped out sooner. They don't exactly have a novel cause as this,
+
+632
+01:39:36.830 --> 01:39:38.649
+Yimkumer Pongen: That was my main takeaway.
+
+633
+01:39:40.150 --> 01:39:45.779
+Suhani_HR: So, are you right now also, like, searching for jobs actively?
+
+634
+01:39:45.780 --> 01:39:46.470
+Yimkumer Pongen: Yes.
+
+635
+01:39:46.620 --> 01:39:52.220
+Yimkumer Pongen: Right, I'm actually still on a contractual contract with my
+
+636
+01:39:52.610 --> 01:40:06.179
+Yimkumer Pongen: parent company, but that… I've already talked with them, and they said there's no due notice, so if I want to leave that, I can leave that at any time. I am applying for different job roles as well, yes.
+
+637
+01:40:06.830 --> 01:40:16.500
+Suhani_HR: So, like, then why are you applying for this internship? Like, this is going to be a 6-month internship, right? You have to commit 6 months, you cannot leave, like, in between.
+
+638
+01:40:16.620 --> 01:40:22.039
+Suhani_HR: And also, what if you get any job in between, like, in these 6 months?
+
+639
+01:40:22.530 --> 01:40:26.859
+Suhani_HR: Because this is NUBHCO is going to be just an internship only.
+
+640
+01:40:27.900 --> 01:40:33.250
+Yimkumer Pongen: Yes, this was that also I had planned and in the form that we were given.
+
+641
+01:40:33.500 --> 01:40:42.089
+Yimkumer Pongen: there was a third option regarding the stipend as well, so I was wondering if there was any chance to slightly increase that, or at least adjust the rates.
+
+642
+01:40:43.950 --> 01:40:49.740
+Suhani_HR: See, the thing is, you know, this is like a NGO, right?
+
+643
+01:40:50.000 --> 01:40:57.989
+Suhani_HR: So, we are already, like, whatever stipends are given, I know that's, like, that is very minimal, that's very low.
+
+644
+01:40:58.210 --> 01:41:08.220
+Suhani_HR: But we are actually, like, people, whosoever is working here, they're not, like, working towards that. Obviously, everybody needs stipends, everybody needs salaries, but.
+
+645
+01:41:08.220 --> 01:41:33.060
+Suhani_HR: like, more than that, our aim is the learning part, the growth part which we are getting here, for our career, for our resume, for our father, when we convert it, like, when we go into any MNCs, any jobs, and the entire learning, whole thing that we are getting here about AI, about related things, about our job role, like, about our positions, in whichever positions we are. So.
+
+646
+01:41:33.060 --> 01:41:34.569
+Suhani_HR: It's more about it.
+
+647
+01:41:35.300 --> 01:41:48.039
+Suhani_HR: And I don't… like, there… there cannot be any negotiation, actually. The stipend would follow like this, only ki… two months, you will get 5,000 if you're spending 30 hours per week, every month.
+
+648
+01:41:48.040 --> 01:42:09.809
+Suhani_HR: like, you have to spend 30 hours per week, then you will get a stipend of 5,000. After that, after 2 months, there would be an appraisal cycle for you. There will be 2 cycles like that, and if you get 4 or 4 above rating in the appraisal when it is done, so your stipend would get increased to 7,500 for the next 2 months.
+
+649
+01:42:10.120 --> 01:42:27.259
+Suhani_HR: And if it is rating is, like, less than 4, like, 3.53, or it's, like, 2.5, so it would be less, like, less than 7,500, between 5,000 to 7,500. Same goes with, the next circle, the appraisal would be done, and then it would range between 7,500 to 10,000.
+
+650
+01:42:27.700 --> 01:42:30.589
+Suhani_HR: So, this is how your stipend is going to be.
+
+651
+01:42:30.880 --> 01:42:34.550
+Suhani_HR: So what do you think about it, like are you okay with this?
+
+652
+01:42:35.790 --> 01:42:42.149
+Yimkumer Pongen: Yeah, so… I was prepared if, that would be the case, but there was another…
+
+653
+01:42:42.320 --> 01:42:52.700
+Yimkumer Pongen: a line in the job description which said, after the completion of the internship, you might be considered as a fellow, right? And then the fellow also might be offered a full-time role.
+
+654
+01:42:56.690 --> 01:42:58.939
+Yimkumer Pongen: Am I correct on that part?
+
+655
+01:42:58.940 --> 01:43:04.189
+Suhani_HR: Okay, so you are telling, like, after the internship, what was it written?
+
+656
+01:43:05.860 --> 01:43:09.380
+Yimkumer Pongen: Okay, let me check on specifically…
+
+657
+01:43:10.200 --> 01:43:35.129
+Suhani_HR: See, the thing is, actually, what the guideline is about, I will tell you, that after the internship, actually, there's no PPO here, like, anything like that, but after the internship, you can get a consultant role. Right now, our fellowships are going on, like, it's getting built. So, maybe by that time, the fellowships would start, so you can be a fellow, like, under that fellowship, you can be a fellow member here. And apart from that, now also people are working after 6
+
+658
+01:43:35.130 --> 01:43:41.790
+Suhani_HR: months. Like me, I am also there more than six months here now, but there would be a consultant role for you.
+
+659
+01:43:42.070 --> 01:43:59.720
+Suhani_HR: So your internship would end, and you would get a consultant role. But there is no proper, like, full-time PPO kind of thing, or job kind of thing, I would say. You won't be getting like that. But yeah, the consultant roles conversion can be there, and you can be there based on your performance after 6 months also.
+
+660
+01:44:02.720 --> 01:44:05.050
+Sanisha: However, the stipend is still 10,000.
+
+661
+01:44:05.050 --> 01:44:05.650
+Suhani_HR: Yeah.
+
+662
+01:44:05.650 --> 01:44:07.500
+Sanisha: It won't be more than that.
+
+663
+01:44:07.500 --> 01:44:24.690
+Suhani_HR: Maybe it gets increased, yeah, monthly 10,000. If you reach your appraisal by, like, by your internship, if you're reaching the 10,000 limit, then it would be 10,000 for… constant 10,000 for a consultancy role, but then also you have to, like, give 30 hours per week.
+
+664
+01:44:24.890 --> 01:44:32.359
+Suhani_HR: And also, maybe the stipends get increased if we get good amount of funds.
+
+665
+01:44:32.480 --> 01:44:45.340
+Suhani_HR: For which our growth team is working, all the other teams are focusing on it. So, then maybe the fair… like, this can be changed or increased a little bit, but as of now, it would be this only.
+
+666
+01:44:46.950 --> 01:44:53.429
+Yimkumer Pongen: Okay. Yeah, may I ask, like, the work hours, 30 per week, 30 hours.
+
+667
+01:44:53.430 --> 01:45:06.590
+Suhani_HR: Yeah, so basically, it is, like, sort of flexible in the sense that you can obviously work maybe at night, maybe in the morning, that is your pace, but you need to be available between 5 to 9 PM.
+
+668
+01:45:06.590 --> 01:45:22.019
+Suhani_HR: For all the meetings, like, if there is any meeting scheduled for you, then also you need to be there, and if, like, no meeting is scheduled, but you need to be there if anybody calls you, or anybody tells you to join a meeting, you need to be there between this slot, that is 5 to 9.
+
+669
+01:45:23.900 --> 01:45:27.459
+Yimkumer Pongen: So, it's flexible in the sense that during the day.
+
+670
+01:45:28.130 --> 01:45:39.249
+Suhani_HR: Yeah, you can work, like, whatever work you are getting, whatever projects you are getting, you can work anytime. But for the meetings and for your availability that is, like, expected from you is between 5 to 9.
+
+671
+01:45:41.200 --> 01:45:44.419
+Yimkumer Pongen: I can, I think I can work with that, yeah. That seems doable, yeah.
+
+672
+01:45:45.260 --> 01:45:59.830
+Suhani_HR: Okay. So, can you tell me that, why are you okay with going, like, going with this internship, knowing that this would be 6 months into a commitment, you cannot leave in between? What if you get a job in between, then how would you handle it?
+
+673
+01:46:01.030 --> 01:46:08.560
+Yimkumer Pongen: So right now I'm already on a contract with my current company and I'm also involved in a startup.
+
+674
+01:46:08.730 --> 01:46:13.190
+Yimkumer Pongen: It's called Curiosense. It's based in Bangalore. It's another FTX startup.
+
+675
+01:46:13.400 --> 01:46:17.210
+Yimkumer Pongen: So, those… I'm already working
+
+676
+01:46:17.420 --> 01:46:23.380
+Yimkumer Pongen: Like, multiple part-time, so to say. So, in a sense, I am flexible.
+
+677
+01:46:23.620 --> 01:46:43.350
+Yimkumer Pongen: a little bit in the income side, but this organization, as I said before, I haven't come across any… at least the ones posted on LinkedIn, where they want to actually empower people on how to use AI, as well as, how to say, using it for good. So, this one…
+
+678
+01:46:43.440 --> 01:46:46.440
+Yimkumer Pongen: On a moral ground, it's… it made me…
+
+679
+01:46:46.800 --> 01:47:01.159
+Yimkumer Pongen: pivot more towards it, actually. I was considering it, but then after I went through the company website, as well as the LinkedIn pages of the company portfolio, I felt like this… this was a good, opportunity.
+
+680
+01:47:09.230 --> 01:47:09.970
+Suhani_HR: Okay.
+
+681
+01:47:12.040 --> 01:47:14.439
+Suhani_HR: Okay, Sanisha, do you want to add on anything?
+
+682
+01:47:14.890 --> 01:47:16.710
+Sanisha: No, that's all.
+
+683
+01:47:18.290 --> 01:47:19.409
+Sanisha: From my side.
+
+684
+01:47:21.380 --> 01:47:21.940
+Suhani_HR: Okay.
+
+685
+01:47:22.260 --> 01:47:23.240
+Suhani_HR: Oh…
+
+686
+01:47:23.490 --> 01:47:26.880
+Sanisha: You can, put your email ID.
+
+687
+01:47:27.080 --> 01:47:29.470
+Sanisha: Contact number and your name in the chat box.
+
+688
+01:47:33.370 --> 01:47:44.690
+Suhani_HR: And if you will be selected, you will get a notification from our side through WhatsApp or email, and if you're not getting any notification, then you can take it that you are not selected.
+
+689
+01:47:46.090 --> 01:47:48.190
+Yimkumer Pongen: Within a span of,
+
+690
+01:47:48.190 --> 01:47:49.600
+Suhani_HR: Within 2 to 3 days.
+
+691
+01:47:49.600 --> 01:47:50.260
+Yimkumer Pongen: Okay.
+
+692
+01:47:50.480 --> 01:47:53.649
+Yimkumer Pongen: Email, phone number, and, what was it?
+
+693
+01:47:53.920 --> 01:47:54.820
+Sanisha: Payment for…
+
+694
+01:47:54.820 --> 01:47:55.170
+Suhani_HR: name.
+
+695
+01:47:55.170 --> 01:47:56.380
+Sanisha: Phone number and your name.
+
+696
+01:47:56.580 --> 01:47:57.230
+Yimkumer Pongen: Okay.
+
+697
+01:48:00.050 --> 01:48:04.719
+Sanisha: Who is this person? I think they have joined in late. I'll remove this.
+
+698
+01:48:05.840 --> 01:48:06.500
+Suhani_HR: Hmm.
+
+699
+01:48:06.650 --> 01:48:08.990
+Suhani_HR: How many candidates are left in the breakout room?
+
+700
+01:48:08.990 --> 01:48:09.969
+Sanisha: Just one.
+
+701
+01:48:10.880 --> 01:48:11.570
+Suhani_HR: Okay.
+
+702
+01:48:13.730 --> 01:48:15.519
+Yimkumer Pongen: I can leave the call, right?
+
+703
+01:48:15.730 --> 01:48:16.540
+Sanisha: Yes, yeah, yeah, time.
+
+704
+01:48:16.540 --> 01:48:18.079
+Suhani_HR: Thank you, thank you so much.
+
+705
+01:48:18.080 --> 01:48:18.510
+Yimkumer Pongen: Thank you.
+
+706
+01:48:22.220 --> 01:48:23.390
+Suhani_HR: No, no one.
+
+707
+01:48:23.820 --> 01:48:24.619
+Suhani_HR: That's right.
+
+708
+01:48:31.030 --> 01:48:33.180
+Suhani_HR: You can call the other candidates.
+
+709
+01:48:33.910 --> 01:48:35.510
+Sanisha: Okay.
+
+710
+01:48:49.040 --> 01:48:49.980
+Sanisha: Hello?
+
+711
+01:48:51.060 --> 01:48:51.960
+Sanisha: Yes.
+
+712
+01:48:52.120 --> 01:48:53.430
+Sanisha: Hi Chandraveer.
+
+713
+01:48:55.970 --> 01:48:57.819
+Suhani_HR: Hello, how are you?
+
+714
+01:48:57.820 --> 01:48:59.830
+Sanisha: Yim, you can leave the meeting.
+
+715
+01:49:04.730 --> 01:49:09.009
+Suhani_HR: Okay, can you tell me, Chandrabir, what are you pursuing right now?
+
+716
+01:49:10.880 --> 01:49:13.099
+Chandraveer Singh Solanki: Hello? Am I audible? Yeah.
+
+717
+01:49:13.100 --> 01:49:15.710
+Suhani_HR: Yeah, you're audible. What are you pursuing right now?
+
+718
+01:49:16.750 --> 01:49:23.869
+Chandraveer Singh Solanki: I clearly I recently cleared my bachelor's in computer application, and I am.
+
+719
+01:49:23.970 --> 01:49:28.610
+Chandraveer Singh Solanki: Currently finding my admission in PGD programs.
+
+720
+01:49:28.880 --> 01:49:29.760
+Chandraveer Singh Solanki: Got it.
+
+721
+01:49:30.080 --> 01:49:34.659
+Suhani_HR: Are you looking for jobs or you are going to take admission to BGTN?
+
+722
+01:49:36.480 --> 01:49:42.639
+Chandraveer Singh Solanki: I'm looking for, jobs currently, and I will… I'm planning to do a remote PDDM.
+
+723
+01:49:44.210 --> 01:49:48.549
+Suhani_HR: Okay, so you are looking for internships or you are looking for jobs?
+
+724
+01:49:49.840 --> 01:49:50.800
+Chandraveer Singh Solanki: Oh!
+
+725
+01:49:51.420 --> 01:50:00.090
+Chandraveer Singh Solanki: I'm I'm just currently looking for anything that can give me a profound experience that I can work in a industry.
+
+726
+01:50:00.900 --> 01:50:03.389
+Suhani_HR: Have you done any internships before?
+
+727
+01:50:04.280 --> 01:50:12.979
+Chandraveer Singh Solanki: Yes, I've done a software engineer internship in my college days, and I've also done a product manufacturing internship.
+
+728
+01:50:14.550 --> 01:50:15.780
+Chandraveer Singh Solanki: In a company.
+
+729
+01:50:16.410 --> 01:50:19.010
+Chandraveer Singh Solanki: Both were 6 months each.
+
+730
+01:50:19.290 --> 01:50:22.540
+Suhani_HR: So, do you have any offers in pipeline?
+
+731
+01:50:24.630 --> 01:50:26.080
+Chandraveer Singh Solanki: No, not yet.
+
+732
+01:50:27.320 --> 01:50:30.020
+Suhani_HR: Okay, any interviews planned that you're going to give?
+
+733
+01:50:32.110 --> 01:50:41.539
+Chandraveer Singh Solanki: There are few interviews, but both of those are For the remote internships and.
+
+734
+01:50:41.830 --> 01:50:52.360
+Chandraveer Singh Solanki: I'm actually not qualified for that, that is, they are asking for 3 to 5 years of experience, I'm just applying just to practice my internship, for interview process.
+
+735
+01:50:56.220 --> 01:50:56.800
+Suhani_HR: Okay.
+
+736
+01:50:57.270 --> 01:51:04.640
+Suhani_HR: And, like, do you have any other certification courses, or any other thing which is going on right now,
+
+737
+01:51:04.850 --> 01:51:06.129
+Suhani_HR: Side by side.
+
+738
+01:51:07.020 --> 01:51:14.809
+Chandraveer Singh Solanki: I'm currently, learning, the DevOps program, so currently I'm learning through YouTube. That's it.
+
+739
+01:51:16.900 --> 01:51:19.450
+Suhani_HR: Okay, so you don't have any other commitments for now?
+
+740
+01:51:20.270 --> 01:51:34.679
+Chandraveer Singh Solanki: Actually, I am doing a part-time of creating my own digital marketing agency. I have a client who is, like, one of my family members, and I'm just helping out.
+
+741
+01:51:34.730 --> 01:51:41.589
+Chandraveer Singh Solanki: Making their online presence. They'll be launching by this month, around, like, 17 to.
+
+742
+01:51:41.590 --> 01:51:44.240
+Suhani_HR: How many hours you have to devote in that?
+
+743
+01:51:45.100 --> 01:51:48.379
+Chandraveer Singh Solanki: I I mainly work 3 hours a day.
+
+744
+01:51:52.230 --> 01:51:54.720
+Suhani_HR: Okay. So.
+
+745
+01:51:54.950 --> 01:51:59.520
+Suhani_HR: I hope you know that this is going to be a 6-month internship, and you cannot leave in between.
+
+746
+01:52:00.020 --> 01:52:01.720
+Chandraveer Singh Solanki: Yeah, yes, I understand.
+
+747
+01:52:02.400 --> 01:52:08.220
+Suhani_HR: Yeah, and you need to commit, like, 30 hours per week for this internship throughout the 6 months.
+
+748
+01:52:08.520 --> 01:52:09.310
+Chandraveer Singh Solanki: Yes.
+
+749
+01:52:09.310 --> 01:52:12.740
+Suhani_HR: Also, you're typing good. So sorry.
+
+750
+01:52:12.950 --> 01:52:19.600
+Suhani_HR: Your stipend would look like 5,000 for the starting 2 months. If you are, like.
+
+751
+01:52:21.060 --> 01:52:41.299
+Suhani_HR: completing 30 hours per week. After two months, there would be an appraisal cycle for you. There would be two appraisals round for you, like, two appraisal cycles will be there, so your performance and your values, everything would be evaluated. And after two months, if you get a rating of 4 or 4 above, then you would, get.
+
+752
+01:52:41.300 --> 01:52:57.869
+Suhani_HR: like, 7,500 of stipend, that would be the benchmark. And if it is less than 4 or 4 rating, then you would get less, like, between 5,000 to 7,500, something like that. Same goes for the last 2 months, between 7,500 to 10,000. If you get 4 or 4 above rating, then it would be 10,000.
+
+753
+01:52:58.520 --> 01:53:02.339
+Suhani_HR: So, but for all, like, throughout, you have to give 30 hours per week.
+
+754
+01:53:03.790 --> 01:53:04.350
+Chandraveer Singh Solanki: Yeah.
+
+755
+01:53:04.600 --> 01:53:16.289
+Chandraveer Singh Solanki: So, I have the question that I asked in a questionnaire, in the chat, that what's the, like, what separates a person, an intern from.
+
+756
+01:53:16.410 --> 01:53:18.700
+Chandraveer Singh Solanki: 4 Out of 5 or 3 out of 5.
+
+757
+01:53:20.850 --> 01:53:22.790
+Suhani_HR: It is four out of five.
+
+758
+01:53:24.960 --> 01:53:32.469
+Chandraveer Singh Solanki: No, like the rating, an intern that has a rating of four out of five versus the intern that has a rating of three out of five.
+
+759
+01:53:32.470 --> 01:53:35.909
+Suhani_HR: Asking me what would be the difference between both of them.
+
+760
+01:53:35.910 --> 01:53:36.530
+Chandraveer Singh Solanki: Yeah, the race.
+
+761
+01:53:36.530 --> 01:53:59.629
+Suhani_HR: Yeah, see, the ratings are done, on the basis, like, your HRs, like, your personal HWPM, would be, analyzing everything throughout your internship. So, you would be, like, the two criterias. One, it will be your values. We have five main values here, which you will get to know further if you are selected. So, one is the values, and the other is your performance.
+
+762
+01:53:59.680 --> 01:54:14.579
+Suhani_HR: So they, like, have a look on this, like, entire structure, you will get to know how they do it. So you, they, like, very closely have a look on your performance and everything. And based on that, they make the appraisal ratings.
+
+763
+01:54:14.750 --> 01:54:25.839
+Suhani_HR: So, like, if you can get 3, you can get 2.5, you can get 4. We have different, like, criterias for it, for getting it. We have the entire SOPs for it.
+
+764
+01:54:26.100 --> 01:54:30.030
+Suhani_HR: So, it is about that, and also, like.
+
+765
+01:54:31.010 --> 01:54:39.019
+Suhani_HR: Getting a 4 is something, obviously, a very huge thing, because in that case, your performance needs to be, like, very good on mark.
+
+766
+01:54:39.360 --> 01:54:42.280
+Suhani_HR: So that is the criteria.
+
+767
+01:54:42.440 --> 01:54:46.089
+Suhani_HR: But you will get to know more about the appraisals once you join here.
+
+768
+01:54:46.600 --> 01:54:51.230
+Suhani_HR: So that is there. Can you tell me about your family background?
+
+769
+01:54:52.640 --> 01:54:55.309
+Chandraveer Singh Solanki: My father is,
+
+770
+01:54:55.430 --> 01:55:11.549
+Chandraveer Singh Solanki: My father has a background in agriculture, medicine, so he is currently working in a Gujarat-based fertilizer company by the name of GSFC, and he is currently in the sales department and working
+
+771
+01:55:11.550 --> 01:55:18.929
+Chandraveer Singh Solanki: on ground with the farmers and working on the research department too. And my mother is a homemaker.
+
+772
+01:55:24.390 --> 01:55:32.089
+Suhani_HR: How does your career aspiration aligns with this internship, like your career aspiration and the alignment?
+
+773
+01:55:35.280 --> 01:55:41.169
+Chandraveer Singh Solanki: Well, this is a product-based internship that I've read and,
+
+774
+01:55:41.870 --> 01:55:59.150
+Chandraveer Singh Solanki: in today's world, anyone can build a product, but AI can build the product that you can only think of, and through this internship, I will get the mentors who will help me align the product that are the industry standards versus the
+
+775
+01:55:59.450 --> 01:56:05.710
+Chandraveer Singh Solanki: Things that were taught me that were taught in the schools so this.
+
+776
+01:56:05.710 --> 01:56:20.979
+Chandraveer Singh Solanki: Will teach me the product value of how it is built, and what goes around it, other than the development part of it, and also will teach me how to work with the real-time… how to work in a real-time
+
+777
+01:56:21.460 --> 01:56:23.599
+Chandraveer Singh Solanki: Products and the customs.
+
+778
+01:56:24.400 --> 01:56:33.319
+Chandraveer Singh Solanki: So this will help me develop my overall product management skills and the development skills as a solopreneur.
+
+779
+01:56:35.170 --> 01:56:39.490
+Suhani_HR: Okay, what was your last drawn stipend?
+
+780
+01:56:41.010 --> 01:56:42.940
+Chandraveer Singh Solanki: The last…
+
+781
+01:56:43.120 --> 01:56:58.120
+Chandraveer Singh Solanki: joint stipend, that was my part-time job that I did in my university's, incubation firm. My stipend was based upon the working hours that I provided. It was around $3,000 to $6,000 per month.
+
+782
+01:56:58.860 --> 01:57:01.579
+Chandraveer Singh Solanki: Based upon how much I gave.
+
+783
+01:57:01.790 --> 01:57:02.850
+Chandraveer Singh Solanki: The walk-in.
+
+784
+01:57:02.960 --> 01:57:04.390
+Chandraveer Singh Solanki: Based off of us.
+
+785
+01:57:04.980 --> 01:57:05.850
+Suhani_HR: Okay.
+
+786
+01:57:05.960 --> 01:57:10.190
+Suhani_HR: So, are you okay with this type and structure that we have here?
+
+787
+01:57:10.490 --> 01:57:11.250
+Chandraveer Singh Solanki: Yeah.
+
+788
+01:57:11.480 --> 01:57:13.399
+Chandraveer Singh Solanki: I am totally okay with it.
+
+789
+01:57:14.590 --> 01:57:20.269
+Suhani_HR: And are you, like, committing 6 months to this internship with 30 hours per week?
+
+790
+01:57:20.930 --> 01:57:22.080
+Chandraveer Singh Solanki: Yes, I can come.
+
+791
+01:57:23.390 --> 01:57:26.769
+Suhani_HR: Okay, and also, I hope you are an immediate joiner.
+
+792
+01:57:27.590 --> 01:57:28.510
+Chandraveer Singh Solanki: Sorry?
+
+793
+01:57:28.960 --> 01:57:31.379
+Suhani_HR: I hope you are an immediate joiner.
+
+794
+01:57:31.800 --> 01:57:33.279
+Chandraveer Singh Solanki: Yes, yes, yes.
+
+795
+01:57:34.290 --> 01:57:34.930
+Suhani_HR: Okay.
+
+796
+01:57:39.190 --> 01:57:40.920
+Sanisha: Just give me a minute, I'll be back.
+
+797
+01:57:41.200 --> 01:57:45.940
+Suhani_HR: Yeah, yeah, sure, sure. I have, I think I have more to ask.
+
+798
+01:57:51.600 --> 01:57:53.939
+Suhani_HR: Do you have any questions for us?
+
+799
+01:57:55.760 --> 01:58:01.070
+Chandraveer Singh Solanki: Other than that, I have a question regarding the development cycle, like…
+
+800
+01:58:01.170 --> 01:58:05.830
+Chandraveer Singh Solanki: What is the tech stack that you guys are using, and…
+
+801
+01:58:06.510 --> 01:58:15.870
+Chandraveer Singh Solanki: When involving in your code base, how was we introduced in it, and what agentic frameworks are you using right now?
+
+802
+01:58:17.400 --> 01:58:27.150
+Suhani_HR: See, regarding the Agentic frameworks and everything, and, like, this technical question, obviously the subject expertise can brief you better.
+
+803
+01:58:27.610 --> 01:58:31.320
+Suhani_HR: Like, so I don't want to give any guesses on this.
+
+804
+01:58:31.320 --> 01:58:55.090
+Suhani_HR: Basically, right now, we are, like, just a brief of it that we are working right now on is different, like, tools. We are creating in-house, tools, and, we are, also, like, recently we, shifted from Clockify to Kimai. The whole structure was done, by through our tech team. We are also working on our entire portal of, HR recruitment automation.
+
+805
+01:58:55.580 --> 01:59:10.430
+Suhani_HR: That the entire recruitment, yeah, the entire HR recruitment automation is in process, it's almost completed, and we have different, other tools, like for the project managers, the tracking tools and everything, which is in process.
+
+806
+01:59:10.810 --> 01:59:27.399
+Suhani_HR: And there are different things which are going on, and coming to the technology aspect, I think the person concerned with it can brief you better on this. Once you proceed to the next round, if, so we will have the oil round, and in that also, you can ask these questions.
+
+807
+01:59:28.320 --> 01:59:29.670
+Chandraveer Singh Solanki: Okay, sure.
+
+808
+01:59:29.880 --> 01:59:30.790
+Sanisha: Alright.
+
+809
+01:59:31.330 --> 01:59:33.830
+Suhani_HR: So just one minute.
+
+810
+01:59:34.060 --> 01:59:35.170
+Suhani_HR: Sanisha.
+
+811
+01:59:35.270 --> 01:59:40.519
+Suhani_HR: Can you tell me what attracts you about this role?
+
+812
+01:59:43.530 --> 01:59:55.319
+Chandraveer Singh Solanki: As I've told you before, the reason this role attracts me is one that, the people around working in this organization are the one currently
+
+813
+01:59:55.410 --> 02:00:08.849
+Chandraveer Singh Solanki: is in the field, and the expertise would provide me the best I can get, and I will get the practical exposure around the product development that I am currently eager to learn.
+
+814
+02:00:09.270 --> 02:00:21.069
+Sanisha: Okay, I would like to correct you on that. The other, interns that are over here are also not someone with experience. They are also bachelors, or they are also taking on
+
+815
+02:00:21.070 --> 02:00:39.030
+Sanisha: different projects that would be assigned to them. So, over here, you could learn from, like, how do I say? Through the process and learning and taking ownership of things and working on it. But, that is how we are doing. So, there are not any experts as such with 3 years of experience, or 5 years of experience, and so on.
+
+816
+02:00:40.720 --> 02:00:46.720
+Chandraveer Singh Solanki: Like, if I'm building a product, I'd be mentored on that, right, that.
+
+817
+02:00:46.720 --> 02:00:48.540
+Sanisha: You will have a mentor, yes.
+
+818
+02:00:48.540 --> 02:00:51.050
+Chandraveer Singh Solanki: Going right and how I'm handling a product.
+
+819
+02:00:51.050 --> 02:01:14.449
+Suhani_HR: See, I will tell you, you will not have something very specific that you will have a mentor. Okay. The thing is, we have our OLs with us, our operational leader, who is even the founder and the CEO. Nitin Dhawan, sir, you must know about him because he is the founder of this foundation. So he would obviously be there with you to tell you and give you the directions maybe.
+
+820
+02:01:14.450 --> 02:01:31.879
+Suhani_HR: But yes, because we are an AI-based organization, at the end, you have to talk as much as, like, with AI. He would give you the direction, obviously. Yeah, like, in which way you are supposed to go, how you can do this, you can discuss ideas with him. Conceptual clarity would be given by him.
+
+821
+02:01:31.940 --> 02:01:45.899
+Suhani_HR: But at the end, you have to talk with AI, figure out things on your own, take that decision ability inside you, because here, every, like, intern are expected to take their own decisions. Nobody is spoon-feeding anyone.
+
+822
+02:01:46.250 --> 02:02:11.240
+Suhani_HR: So, we are not, like, we are not doing, like, that task-based thing that, okay, you guys, you are supposed to do these four tasks for, for today, so you have to complete it. Not in that way. You have to plan your work, you have to, talk with AI, figure out things, come up with solutions, discuss those solutions with Sir, that, okay, these are things I found out, and then how can we proceed on it? If you are going
+
+823
+02:02:11.240 --> 02:02:13.390
+Suhani_HR: Going wrong, he would correct you, obviously.
+
+824
+02:02:13.400 --> 02:02:19.300
+Suhani_HR: So this is how, like you have, like in the simple line, you have to use your brain also.
+
+825
+02:02:19.300 --> 02:02:33.599
+Suhani_HR: Like, you have to use your ideas. This is a place where you can put your ideas very openly. You can implement your ideas. You can work around your ideas and basically.
+
+826
+02:02:33.600 --> 02:02:35.669
+Suhani_HR: Ki apos ko explore kar.
+
+827
+02:02:36.050 --> 02:02:36.700
+Suhani_HR: Oh.
+
+828
+02:02:36.700 --> 02:02:37.270
+Chandraveer Singh Solanki: Okay.
+
+829
+02:02:37.720 --> 02:02:40.140
+Suhani_HR: With the organization's vision and mission.
+
+830
+02:02:40.530 --> 02:02:54.089
+Suhani_HR: So this is how it is going to be. And you will have the decision making ability inside you. Okay, you have to take certain decisions at certain points on your own and nobody would be there to help you in that because you have to take, you have to learn taking decisions.
+
+831
+02:02:54.390 --> 02:02:56.620
+Suhani_HR: Yeah, of course I, yeah.
+
+832
+02:02:56.620 --> 02:02:57.290
+Chandraveer Singh Solanki: Yeah.
+
+833
+02:02:57.620 --> 02:03:10.880
+Chandraveer Singh Solanki: I, yeah, I didn't expect, like, I'll get one-on-one internship, but I just expected that, there'll be someone, if I'm going wrong, there'll be someone who will say that you can improve in this particular area, or…
+
+834
+02:03:10.880 --> 02:03:34.639
+Suhani_HR: Definitely, the feedbacks and everything would be given you. That's why I told you in very simple word that we all know is that people are not like going to spoon feed you and there is no hierarchy here. First of all, the major thing is we are not working like if I am here since like more than one year now, but if you join on a day, so we both would be working on the same level almost.
+
+835
+02:03:34.780 --> 02:03:42.270
+Suhani_HR: There is no something that, there is a hierarchy thing, that I would be… nothing is like that. All the sankals here are on the same level.
+
+836
+02:03:43.570 --> 02:03:44.100
+Chandraveer Singh Solanki: Okay.
+
+837
+02:03:44.100 --> 02:03:52.250
+Sanisha: Yes. And also over here, it's not the case that if you're assigned a work, you would have to do individually only. You also work in small teams.
+
+838
+02:03:52.250 --> 02:03:52.610
+Suhani_HR: and.
+
+839
+02:03:52.610 --> 02:03:58.360
+Sanisha: So we have a tech team. So you could have conversations. They are also very much open to discussing.
+
+840
+02:03:58.360 --> 02:03:58.990
+Suhani_HR: Yeah.
+
+841
+02:03:58.990 --> 02:03:59.720
+Sanisha: winding.
+
+842
+02:03:59.720 --> 02:04:23.350
+Suhani_HR: You can even ask them. You guys can have an internal discussion. Okay. Okay. We can figure out this. We can do this way. So all the ideas can be mixed also that you guys can discuss it among yourselves as well. Also with other teams also. You can even discuss with other teams. They can give you some idea. See, the collaboration part is really good. And if you want to connect with anybody and know about anything, anyone would be there to help you.
+
+843
+02:04:23.350 --> 02:04:31.109
+Suhani_HR: So that is one of our values and we focus on our values very much that we have. So that is there.
+
+844
+02:04:31.250 --> 02:04:35.589
+Suhani_HR: Arpit, you have joined really late, I think.
+
+845
+02:04:38.050 --> 02:04:44.219
+Arpit Kumar: Sorry, ma'am, but, right now, we just got a, my, from,
+
+846
+02:04:44.220 --> 02:04:47.550
+Suhani_HR: Okay, okay, you guys, I understood, understood, understood.
+
+847
+02:04:47.850 --> 02:04:51.140
+Suhani_HR: You can stay here, Sanisha, you can.
+
+848
+02:04:51.730 --> 02:04:53.560
+Suhani_HR: Assign him the breakout.
+
+849
+02:04:55.000 --> 02:04:55.750
+Sanisha: Alright.
+
+850
+02:04:56.970 --> 02:04:59.209
+Suhani_HR: You can stay in the breakout room, guys.
+
+851
+02:04:59.340 --> 02:05:00.660
+Suhani_HR: And we would call you.
+
+852
+02:05:00.860 --> 02:05:01.740
+Arpit Kumar: Yeah. Okay.
+
+853
+02:05:08.680 --> 02:05:12.359
+Suhani_HR: And Sanisha you can continue with the natural fit round which yeah just to.
+
+854
+02:05:12.360 --> 02:05:12.970
+Sanisha: minute
+
+855
+02:05:35.710 --> 02:05:40.720
+Sanisha: Tarajit, Taraji has not been moved. I did try moving.
+
+856
+02:05:45.780 --> 02:05:47.420
+Sanisha: Alright, anyway.
+
+857
+02:05:48.630 --> 02:05:49.430
+Sanisha: Yeah.
+
+858
+02:05:50.050 --> 02:05:52.030
+Sanisha: I could start,
+
+859
+02:05:52.220 --> 02:06:01.069
+Sanisha: I'm first starting with your skill fit round. So whichever questions that I would ask you, you just give me a brief answer to it. All right.
+
+860
+02:06:02.080 --> 02:06:02.740
+Chandraveer Singh Solanki: Okay.
+
+861
+02:06:02.970 --> 02:06:11.429
+Sanisha: Yes. So tell me about a time you had to simplify a complex technical concept for a non-technical teammate. How did you explain it?
+
+862
+02:06:13.080 --> 02:06:18.010
+Chandraveer Singh Solanki: That happened when I was working, in a.
+
+863
+02:06:18.120 --> 02:06:31.960
+Chandraveer Singh Solanki: startup… in a college startup, that was basically a biotech startup that I… I have to explain the IoT part to the biotech people who were into the biology part and didn't understand the technological part.
+
+864
+02:06:32.050 --> 02:06:46.420
+Chandraveer Singh Solanki: So, basically, what I did was I took another example, another live form example of how the particular product works. The product was basically a.
+
+865
+02:06:47.060 --> 02:07:03.020
+Chandraveer Singh Solanki: blood circulation chip that, checks, the lactic acid in a person, based, it was applied as a patch on the skin. So, I have to explain, how, I am processing the data of it.
+
+866
+02:07:03.070 --> 02:07:15.700
+Chandraveer Singh Solanki: Based upon the things that are coming up. So I explained them, as if, they're the beginner of it. So I explained in a way, that.
+
+867
+02:07:16.060 --> 02:07:30.269
+Chandraveer Singh Solanki: To process a specific asset, they already understand that to process a particular asset, we need to pass it through a particular current, and this is how anything digital could be counted as a value.
+
+868
+02:07:30.930 --> 02:07:36.179
+Chandraveer Singh Solanki: So, I just practically showed them how it works. I used,
+
+869
+02:07:36.220 --> 02:07:44.829
+Chandraveer Singh Solanki: ChatGPT to create a visual HTML page to show what goes around the diagram.
+
+870
+02:07:44.830 --> 02:07:56.240
+Chandraveer Singh Solanki: the IoT components, and showing them visually, and pointing them step by step, that how the lactic acid is produced from the sensors to the electrical.
+
+871
+02:07:57.830 --> 02:08:01.960
+Sushma: I prefer interacting, so can anyone please do me a favor?
+
+872
+02:08:06.290 --> 02:08:10.990
+Sushma: And also, did Sanjay and Sir Arpit join here?
+
+873
+02:08:13.720 --> 02:08:16.820
+Sanisha: They have joined here, I have sent them to breakout room.
+
+874
+02:08:17.070 --> 02:08:19.449
+Sushma: Just give me co-host access only.
+
+875
+02:08:19.450 --> 02:08:20.770
+Sanisha: How do I give you that?
+
+876
+02:08:21.380 --> 02:08:23.939
+Sanisha: Hmm… oh yeah, me, got it.
+
+877
+02:08:23.940 --> 02:08:25.700
+Sushma: Yeah, beside of mine.
+
+878
+02:08:27.250 --> 02:08:28.299
+Sushma: Thank you.
+
+879
+02:08:28.300 --> 02:08:29.280
+Sanisha: Yes.
+
+880
+02:08:29.450 --> 02:08:35.449
+Sanisha: Alright, try to keep your answers brief, okay?
+
+881
+02:08:35.550 --> 02:08:43.430
+Sanisha: So my next question is, you are assigned a product using an unfamiliar AI framework. How would you approach it?
+
+882
+02:08:46.400 --> 02:08:59.289
+Chandraveer Singh Solanki: Well, I would build something else with that similar product, alongside the AI, and based on that, I'll understand how it works practically, and increment,
+
+883
+02:08:59.520 --> 02:09:01.139
+Chandraveer Singh Solanki: Slowly on that.
+
+884
+02:09:02.600 --> 02:09:09.579
+Sanisha: All right. Describe a time you worked in a team with very different skill sets. How did you contribute?
+
+885
+02:09:12.290 --> 02:09:23.220
+Chandraveer Singh Solanki: It was when I completed my it was the time when I was doing my final year project, and it was a team project.
+
+886
+02:09:23.290 --> 02:09:25.509
+Chandraveer Singh Solanki: And each of us had,
+
+887
+02:09:25.530 --> 02:09:34.609
+Chandraveer Singh Solanki: Different sections of the part, different skill sets and what we did was we did.
+
+888
+02:09:34.610 --> 02:09:47.809
+Chandraveer Singh Solanki: we segmented the whole project, that was the, essential moments. It's a gallery app, so we separated each other's tasks based upon who can do what, and then later on.
+
+889
+02:09:47.920 --> 02:09:53.729
+Chandraveer Singh Solanki: In our final week, we just merged them all together, and that was…
+
+890
+02:09:53.890 --> 02:10:02.380
+Chandraveer Singh Solanki: That was a hectic way to combine all people's work, but that was what I did to handle the situation.
+
+891
+02:10:04.250 --> 02:10:08.540
+Sanisha: Okay, so share a time when a project didn't go as planned.
+
+892
+02:10:12.620 --> 02:10:16.659
+Chandraveer Singh Solanki: It was a live demo of SIH Hackathon that I…
+
+893
+02:10:16.840 --> 02:10:34.520
+Chandraveer Singh Solanki: there in my college days, and, I have to show the particular web app that has to fetch data of, real, real-based data. It was for, cryptocurrency. It was just to show the, crypto, exchanging.
+
+894
+02:10:34.530 --> 02:10:37.980
+Chandraveer Singh Solanki: each other, and I have to show their transaction, but it failed.
+
+895
+02:10:38.220 --> 02:10:39.020
+Chandraveer Singh Solanki: Oh.
+
+896
+02:10:39.400 --> 02:10:50.900
+Chandraveer Singh Solanki: due to an unknown error, so I already had the recording of how it used to work beforehand, so I just showed them the recording of the problem.
+
+897
+02:10:52.580 --> 02:10:56.650
+Sanisha: Okay. How would you gather user insights before building?
+
+898
+02:10:57.870 --> 02:10:59.849
+Sanisha: Any project or anything.
+
+899
+02:11:02.580 --> 02:11:07.760
+Chandraveer Singh Solanki: User insights, as in, like, do they want to use the product, or something else?
+
+900
+02:11:07.760 --> 02:11:16.020
+Sanisha: If the product is supposed to be deployed for someone or some people, how would you gather user insights before building it?
+
+901
+02:11:17.760 --> 02:11:25.489
+Chandraveer Singh Solanki: Basic research work around reddit and acts and.
+
+902
+02:11:26.370 --> 02:11:33.159
+Chandraveer Singh Solanki: If that gathers enough data, then we can build around it, or we can just,
+
+903
+02:11:33.550 --> 02:11:47.409
+Chandraveer Singh Solanki: Create a MVP of the app, post it on the X and the Reddit, and post it to the particular audience that we need already, and get their waitlist and ask them about it.
+
+904
+02:11:49.310 --> 02:11:52.890
+Sanisha: Alright, so I am done with your,
+
+905
+02:11:53.680 --> 02:11:57.279
+Sanisha: Skill fitment, now I'll take your organizational fitment.
+
+906
+02:11:59.050 --> 02:12:11.379
+Sanisha: So, for that, you'll also, again, have to answer a few questions, and yeah, that's how we'll go about it. So, tell me about a time when you… when something went wrong in your work, and what did you do then?
+
+907
+02:12:14.480 --> 02:12:21.070
+Chandraveer Singh Solanki: If something happens, by my side, I try to, Oh.
+
+908
+02:12:22.090 --> 02:12:30.290
+Chandraveer Singh Solanki: I, I, first of all, I, agree on the point that I have, done the mistake, and I tried to
+
+909
+02:12:31.000 --> 02:12:31.820
+Chandraveer Singh Solanki: Oh.
+
+910
+02:12:32.180 --> 02:12:37.299
+Chandraveer Singh Solanki: Reciprocate on that and try to finish that problem beforehand.
+
+911
+02:12:37.660 --> 02:12:38.350
+Chandraveer Singh Solanki: Okay.
+
+912
+02:12:38.860 --> 02:12:41.890
+Chandraveer Singh Solanki: Anything happens in your bad miserable.
+
+913
+02:12:42.340 --> 02:12:46.379
+Sanisha: Okay, so tell me about a time when you disagreed with a team member.
+
+914
+02:12:49.400 --> 02:12:58.840
+Chandraveer Singh Solanki: it was It happened when I was in a film club and we were discussing the.
+
+915
+02:12:58.950 --> 02:13:03.960
+Chandraveer Singh Solanki: Topics to film for the film for the project and.
+
+916
+02:13:04.650 --> 02:13:14.389
+Chandraveer Singh Solanki: The ideas were the opposite side of the pole, so what we did was we introduced both of our ideas and then asked.
+
+917
+02:13:14.510 --> 02:13:19.090
+Chandraveer Singh Solanki: the… Other team members to vote on it and give their input.
+
+918
+02:13:20.140 --> 02:13:23.450
+Chandraveer Singh Solanki: And based on the voting, we just followed that up.
+
+919
+02:13:24.280 --> 02:13:24.980
+Chandraveer Singh Solanki: Oh.
+
+920
+02:13:25.370 --> 02:13:26.330
+Chandraveer Singh Solanki: Agreed.
+
+921
+02:13:26.740 --> 02:13:31.329
+Sanisha: Okay. So when plans change suddenly, how do you respond to it?
+
+922
+02:13:34.050 --> 02:13:41.590
+Chandraveer Singh Solanki: Well, if a plan is, planned by me and it crashed out, so…
+
+923
+02:13:41.770 --> 02:13:47.579
+Chandraveer Singh Solanki: It would take me a minute or two to get myself together, and then I get
+
+924
+02:13:47.980 --> 02:13:59.800
+Chandraveer Singh Solanki: to the other side of the things, that, what… why it changed, if I get that idea, and then based on that, I, get back to the team and answer them.
+
+925
+02:14:01.060 --> 02:14:05.940
+Sanisha: Okay, so tell me about a creative solution that you've proposed or implemented.
+
+926
+02:14:08.800 --> 02:14:10.190
+Chandraveer Singh Solanki: Regarding?
+
+927
+02:14:11.020 --> 02:14:11.980
+Chandraveer Singh Solanki: Anything?
+
+928
+02:14:11.980 --> 02:14:16.510
+Sanisha: Any idea, any implementation that you did out of your curiosity?
+
+929
+02:14:18.840 --> 02:14:19.700
+Chandraveer Singh Solanki: Oh…
+
+930
+02:14:24.850 --> 02:14:36.230
+Chandraveer Singh Solanki: Yeah, it was my last year, the last semester, and I was in the debate and allocation club, and
+
+931
+02:14:36.490 --> 02:14:51.199
+Chandraveer Singh Solanki: We had the problem that debate and education club was the most boring club of our university, and no one agreedly joined other than a particular friend circle of mine. So, what I did was, I was.
+
+932
+02:14:51.520 --> 02:14:52.410
+Chandraveer Singh Solanki: Oh.
+
+933
+02:14:52.580 --> 02:15:11.280
+Chandraveer Singh Solanki: accounted for the technical side, the IT part, and also the marketing part. So, I particularly used, the email marketing strategy that was only allowed exclusively for the, only allowed for the faculties and no one else. So.
+
+934
+02:15:11.420 --> 02:15:16.560
+Chandraveer Singh Solanki: We… Use that medium to market our No.
+
+935
+02:15:16.740 --> 02:15:20.370
+Chandraveer Singh Solanki: You know, cloud, and we didn't market it as
+
+936
+02:15:20.820 --> 02:15:29.000
+Chandraveer Singh Solanki: Please join our club. We did the opposite of it. We just made a notice board of why you should not join this particular
+
+937
+02:15:29.100 --> 02:15:36.749
+Chandraveer Singh Solanki: Why you should not join our club? And we made a list of it. So it was a negative, marketing kind of thing.
+
+938
+02:15:38.210 --> 02:15:40.990
+Chandraveer Singh Solanki: That we started through the email campaign.
+
+939
+02:15:41.220 --> 02:15:47.410
+Sanisha: Okay. So, if you are overwhelmed with work or anything, what do you do? How do you handle it?
+
+940
+02:15:50.540 --> 02:15:58.810
+Chandraveer Singh Solanki: If I am overwhelmed with the work, first of all, I try to switch my working place, or…
+
+941
+02:15:58.940 --> 02:15:59.890
+Chandraveer Singh Solanki: Oh.
+
+942
+02:16:00.700 --> 02:16:06.359
+Chandraveer Singh Solanki: If that didn't work, I just, take a break for about…
+
+943
+02:16:07.520 --> 02:16:09.410
+Chandraveer Singh Solanki: I'll just take a break for a while.
+
+944
+02:16:11.530 --> 02:16:12.360
+Sanisha: Okay.
+
+945
+02:16:13.020 --> 02:16:19.789
+Sanisha: That is it from my side. You could drop your email ID, your contact number, and your name in the chat box.
+
+946
+02:16:22.320 --> 02:16:23.450
+Chandraveer Singh Solanki: Okay.
+
+947
+02:16:24.150 --> 02:16:28.879
+Sanisha: If you are selected, we will get in touch with you within 2 3 days.
+
+948
+02:17:08.059 --> 02:17:09.589
+Chandraveer Singh Solanki: Did you receive the message?
+
+949
+02:17:10.639 --> 02:17:11.299
+Sanisha: Yes, I did.
+
+950
+02:17:11.299 --> 02:17:11.919
+Sushma: Yes.
+
+951
+02:17:12.079 --> 02:17:13.849
+Sushma: You can leave this way, thank you.
+
+952
+02:17:14.799 --> 02:17:15.699
+Chandraveer Singh Solanki: Thank you very much.
+
+953
+02:17:16.129 --> 02:17:16.589
+Sanisha: Yes.
+
+954
+02:17:17.350 --> 02:17:24.549
+Sushma: Sanisha, there are two people from that Zoom one, so I will take the… I didn't take the HR round there, actually.
+
+955
+02:17:24.690 --> 02:17:29.039
+Sushma: So I will be taking the H R round one after one.
+
+956
+02:17:29.049 --> 02:17:36.069
+Sanisha: Also one more thing. So the previous candidates before him, the first guy, Vedant.
+
+957
+02:17:36.069 --> 02:17:51.379
+Sanisha: So he has just graduated right now. And then he said he would be open to full time if there is any eventually. But right now he wanted to do this internship and he wants to focus on this. And he was keen to go with it. But then Suhani said…
+
+958
+02:17:51.379 --> 02:18:02.579
+Sushma: Forgot to say, did you check, about after the, this role, discussion, like, you know, motivation to the joint goals, something after that?
+
+959
+02:18:02.579 --> 02:18:12.289
+Sushma: Did you also check, just to brief their projects, something? Because there's a… there's a tech, na? For tech, interviews, we usually ask.
+
+960
+02:18:12.439 --> 02:18:19.359
+Sushma: What kind of AI Agentic frameworks and generative AI they used in the project or learning anything exposure?
+
+961
+02:18:19.360 --> 02:18:28.669
+Sanisha: They themselves have also talked about it. A few people did say that I was working on this project and then I did this, I did that, those things.
+
+962
+02:18:28.670 --> 02:18:32.110
+Sushma: Alright, so from your end, anyone too good to go?
+
+963
+02:18:32.110 --> 02:18:43.920
+Sanisha: I found Vedant. Then we did not take natural fitment and organizational fitment because Suhani was like this stability issue. And I was like, but everyone would say that they would look for long term.
+
+964
+02:18:43.920 --> 02:18:51.450
+Sushma: We also have that guy also who completed the graduation but also will be looking.
+
+965
+02:18:51.709 --> 02:18:54.459
+Sushma: Full time if it is there if it is not.
+
+966
+02:18:54.770 --> 02:19:06.919
+Sanisha: I asked this guy if you would be available for the 6 months, he said yes. So, it's like, as a fresher, he knows that he's not going to get things anywhere, and if he would be motivated, I think he would do good in our organization.
+
+967
+02:19:07.980 --> 02:19:21.440
+Sushma: Then we will see on that. So they were like, so do one thing. These are about the two candidates. I will be taking the HR round. You please have your own insights. And after that, take the org fit and HR fit.
+
+968
+02:19:22.139 --> 02:19:40.990
+Sushma: Just, let's discuss what do you feel. If anyone from these two Ghoshu go. Actually, I'm not much sure about the Arpit, because, he's somewhere IN Swachha also feeling, but we just want to check in the HR round also, we're just feeling that. But the projects, whatever he mentioned, that is good, actually. That's the reason we just considered.
+
+969
+02:19:41.440 --> 02:19:59.649
+Sushma: And this guy, Sanjay, I feel good to go so far because he's 30 years student and the projects are like very, you know, good inside projects and using both generative AI and agentic frameworks and having a decent understanding so far about us, about the role. That's it.
+
+970
+02:19:59.650 --> 02:20:07.990
+Sanisha: Actually, the second candidate called him. He was actually good at it. He was also good for solopreneurship, but only thing is.
+
+971
+02:20:07.990 --> 02:20:23.129
+Sanisha: What he was saying is that first he was not so sure about the stipend thing. He asked clarification on that. We provided him clarification that there won't be any add-on and this is how we work for it. And then he was okay with it because he said that he also knows.
+
+972
+02:20:23.130 --> 02:20:40.579
+Sanisha: He's also involved in some startup that he's doing by himself in flexible time and he also is doing contract work with some other organization. So on the basis of that, Suwani asked me not to take organization and natural fitment, but he said, I really want to work in this because it seems very much aligned.
+
+973
+02:20:40.580 --> 02:20:46.409
+Sushma: Let's discuss with sir also if something we didn't find anyone we can also re-evaluate him.
+
+974
+02:20:46.410 --> 02:21:01.859
+Sanisha: Yeah, because both Vedant and this guy were very much suited for solopreneurship as well, and the tech role as well. The other guy that I just talked right now was not that… he was just suited for the tech role. So, if we are screening these many people, we'll have to also look into that.
+
+975
+02:21:02.700 --> 02:21:18.950
+Sushma: Yeah, yeah. All right then. So let's see these two also. If you feel good to as a HRBP, we can look into that. Otherwise you will like, you are very confident about the stability. Just give it, try and talk to this sir and just give it a try. It's you at the end, you are the HRBP, so it's your call and sir, how you're going.
+
+976
+02:21:18.950 --> 02:21:23.639
+Sanisha: Then I'll again have to take his natural and organizational fitment because I did not take it.
+
+977
+02:21:24.010 --> 02:21:25.109
+Sushma: You can take that.
+
+978
+02:21:25.110 --> 02:21:25.520
+Sanisha: evening.
+
+979
+02:21:25.520 --> 02:21:28.280
+Sushma: So let me first of all talk with Sanjay.
+
+980
+02:21:29.670 --> 02:21:32.400
+Sanisha: It's Amit over here. Arpit here.
+
+981
+02:21:32.400 --> 02:21:33.850
+Sushma: With
+
+982
+02:21:34.470 --> 02:21:36.419
+Sushma: Arpit just joined Room 3.
+
+983
+02:21:47.730 --> 02:21:49.599
+Sanisha: Are you moving him in the main room?
+
+984
+02:21:50.290 --> 02:21:53.360
+Sushma: Yeah, I just want to move Sanjay.
+
+985
+02:21:53.900 --> 02:21:55.530
+Sanisha: There is no Sanjay.
+
+986
+02:21:56.210 --> 02:21:57.460
+Sushma: In room 2, I check.
+
+987
+02:21:57.460 --> 02:21:57.980
+Sanisha: Oh yeah.
+
+988
+02:21:57.980 --> 02:21:58.700
+Sushma: is.
+
+989
+02:21:58.700 --> 02:21:59.980
+Sanisha: Valerie, yeah.
+
+990
+02:22:02.440 --> 02:22:03.630
+Sanisha: Hi Sanjay.
+
+991
+02:22:09.070 --> 02:22:18.370
+Sushma: So, Sanjay, so let me take your HR round first. If it is good to go, then we will be taking the natural treatment at all.
+
+992
+02:22:19.940 --> 02:22:25.369
+Sushma: One of the one, okay? So, firstly, let's please, let me know…
+
+993
+02:22:25.790 --> 02:22:32.330
+Sushma: Oh, how your career aspiration will be aligned to this organization or to this, role?
+
+994
+02:22:33.810 --> 02:22:38.170
+Talari Sanjay: Ma'am, it is a bit tricky question.
+
+995
+02:22:38.300 --> 02:22:45.119
+Talari Sanjay: It is actually, sticker on the… sticker on the… around the room, ma'am.
+
+996
+02:22:45.580 --> 02:22:46.590
+Talari Sanjay: So…
+
+997
+02:22:48.200 --> 02:22:50.059
+Talari Sanjay: It is sticker on problem.
+
+998
+02:22:51.250 --> 02:22:55.190
+Sushma: I just want to hear how your career aspiration will be aligned to this role.
+
+999
+02:22:55.310 --> 02:22:56.040
+Sushma: How?
+
+1000
+02:22:56.040 --> 02:22:56.790
+Talari Sanjay: Okay.
+
+1001
+02:22:56.790 --> 02:22:58.240
+Sushma: In which aspects?
+
+1002
+02:22:59.200 --> 02:23:06.130
+Talari Sanjay: So, ma'am, I'm focusing on, in long term, I'm focusing on AI and how to build
+
+1003
+02:23:06.300 --> 02:23:12.689
+Talari Sanjay: A on how AI is thinking how we can,
+
+1004
+02:23:13.630 --> 02:23:14.490
+Talari Sanjay: Oh.
+
+1005
+02:23:15.620 --> 02:23:17.110
+Talari Sanjay: Become means.
+
+1006
+02:23:17.310 --> 02:23:29.890
+Talari Sanjay: with less power we can how we can do big works with the a consuming less power but same efficiency which are given by big models taking a large amount
+
+1007
+02:23:30.040 --> 02:23:34.210
+Talari Sanjay: So, and also, Oh.
+
+1008
+02:23:34.670 --> 02:23:48.749
+Talari Sanjay: it is very useful… this role is very useful to me learn more tools and understanding about AI, how we can use, in-depth in projects, and how we can,
+
+1009
+02:23:49.480 --> 02:23:59.259
+Talari Sanjay: improve a real world platforms like dashboards or any APR such type of things.
+
+1010
+02:24:02.850 --> 02:24:03.380
+Talari Sanjay: Okay.
+
+1011
+02:24:03.380 --> 02:24:08.189
+Sushma: you you said that your long-term goal is ML developer, right?
+
+1012
+02:24:08.610 --> 02:24:09.390
+Talari Sanjay: Yes, ma'am.
+
+1013
+02:24:17.100 --> 02:24:26.129
+Sushma: So you say, you just, earlier in that, other, Zoom link, you just shared that something that you're perceiving some course, right?
+
+1014
+02:24:26.660 --> 02:24:27.440
+Talari Sanjay: Yes, ma'am, yeah.
+
+1015
+02:24:27.670 --> 02:24:35.900
+Sushma: So, could you please provide the details about your course, like your course timings, and how much time you usually commit to that course in a day?
+
+1016
+02:24:36.200 --> 02:24:41.619
+Talari Sanjay: Yeah, it is, the course is from, Manishaity, it is.
+
+1017
+02:24:45.560 --> 02:24:47.509
+Sanisha: Sanjay, we have lost you.
+
+1018
+02:24:49.020 --> 02:24:49.820
+Sushma: Yes.
+
+1019
+02:24:53.220 --> 02:24:58.030
+Talari Sanjay: In Hyderabad, so it is all, can I know, can I hear me?
+
+1020
+02:24:58.030 --> 02:25:04.819
+Sushma: Yeah, yeah, now you're audible, just please check your bandwidth also, so just before that you got stumped.
+
+1021
+02:25:05.500 --> 02:25:11.809
+Talari Sanjay: Yeah, ma'am, one minute, I'm changing my, Wi-Fi to another one, so…
+
+1022
+02:25:12.170 --> 02:25:14.160
+Talari Sanjay: I will get better and better.
+
+1023
+02:25:14.520 --> 02:25:16.739
+Sushma: Where are you? Are you from Hyderabad?
+
+1024
+02:25:30.020 --> 02:25:31.609
+Talari Sanjay: Hello, ma'am? Can I audible now?
+
+1025
+02:25:31.940 --> 02:25:34.729
+Sushma: Yeah, you're audible now. Where are you from?
+
+1026
+02:25:35.780 --> 02:25:37.270
+Talari Sanjay: I'm from Marangal, ma'am.
+
+1027
+02:25:38.790 --> 02:25:39.700
+Sushma: Okay.
+
+1028
+02:25:40.320 --> 02:25:41.800
+Talari Sanjay: So,
+
+1029
+02:25:41.800 --> 02:25:42.660
+Sushma: The.
+
+1030
+02:25:42.940 --> 02:25:56.650
+Talari Sanjay: The course I am taken from by Naresh Haiti, it is a institute in Hyderabad. So it is a, it is the course, all the course, it is in a Google traveling.
+
+1031
+02:25:57.030 --> 02:25:57.760
+Talari Sanjay: Inc.
+
+1032
+02:25:59.330 --> 02:26:09.350
+Talari Sanjay: So, the, the all videos are offline, downloaded videos. So, I can manage, it is very flex- flexible to me to
+
+1033
+02:26:09.630 --> 02:26:25.970
+Talari Sanjay: watch the videos and learn. So, daily, two to, one to two hours, I'm giving to, to learn the ML part. So, it is not ML. It includes ML and mission,
+
+1034
+02:26:26.170 --> 02:26:30.019
+Talari Sanjay: AI Agentic AI and data science.
+
+1035
+02:26:30.630 --> 02:26:36.799
+Talari Sanjay: Data science and, main parts like, develops.
+
+1036
+02:26:37.940 --> 02:26:38.950
+Sushma: Okay.
+
+1037
+02:26:39.560 --> 02:26:41.960
+Sushma: What you are expecting from this internship?
+
+1038
+02:26:43.680 --> 02:26:58.700
+Talari Sanjay: So, I am expecting from this internship, mainly experience on the… on a full stack, application, how to build, and what is the maintenance, how we can maintain. So, what is the.
+
+1039
+02:26:58.970 --> 02:27:08.489
+Talari Sanjay: How many, the ways to maintain and how we can build, a real world,
+
+1040
+02:27:09.220 --> 02:27:15.809
+Talari Sanjay: Application so and also I want to learn experience what.
+
+1041
+02:27:16.550 --> 02:27:27.899
+Talari Sanjay: How would be the, A professional experience with a company like Air Force.
+
+1042
+02:27:29.970 --> 02:27:36.970
+Sushma: I don't know, so far your network is good, but now for this, in this session, it's stuck in between.
+
+1043
+02:27:37.140 --> 02:27:39.449
+Sushma: Just please check on that as well.
+
+1044
+02:27:39.750 --> 02:27:42.050
+Talari Sanjay: Yeah, one minute, ma'am. Yeah, ma'am.
+
+1045
+02:27:42.150 --> 02:27:42.820
+Sushma: Bye!
+
+1046
+02:27:42.820 --> 02:27:43.510
+Talari Sanjay: One minute.
+
+1047
+02:28:12.380 --> 02:28:17.000
+Talari Sanjay: Ma'am, I changed my internet, so it is better now?
+
+1048
+02:28:17.550 --> 02:28:29.219
+Sushma: Alright. So, you just mentioned in the previous meet that your college timings were from 8.15am to 3.10pm, right? Yes, ma'am. So, when you will be back from college to home?
+
+1049
+02:28:30.000 --> 02:28:33.209
+Talari Sanjay: So, I'm staying in P G, ma'am.
+
+1050
+02:28:33.350 --> 02:28:51.130
+Talari Sanjay: Usually I spend my most time in library. So I will my I have a schedule to study this react and this all things according besides of my ML course. So most time I will stay in library.
+
+1051
+02:28:52.930 --> 02:28:59.380
+Sushma: Okay, I understand that most of the time you spend your time in library. I would like to know that
+
+1052
+02:28:59.980 --> 02:29:01.140
+Sushma: Can you able to?
+
+1053
+02:29:01.290 --> 02:29:05.760
+Sushma: Commit to this internship at least from 4 PM onwards availability.
+
+1054
+02:29:05.760 --> 02:29:08.249
+Talari Sanjay: Yeah, ma'am, definitely. 4pm onwards.
+
+1055
+02:29:08.250 --> 02:29:09.680
+Sushma: PM to 9 PM.
+
+1056
+02:29:10.200 --> 02:29:13.960
+Talari Sanjay: Huh, okay, ma'am, it is very, flexible to me.
+
+1057
+02:29:15.290 --> 02:29:17.030
+Sushma: When you will be having your mess?
+
+1058
+02:29:17.810 --> 02:29:22.790
+Talari Sanjay: Miss, it starts at, 7 to 9.30, ma'am.
+
+1059
+02:29:23.690 --> 02:29:24.960
+Sushma: Alright.
+
+1060
+02:29:25.660 --> 02:29:30.590
+Sushma: So, do you have the commitments in between of these times, or 4 PM to 9 PM?
+
+1061
+02:29:31.120 --> 02:29:33.829
+Talari Sanjay: No, ma'am, there's no any other commitments.
+
+1062
+02:29:36.070 --> 02:29:43.919
+Sushma: Could you please let me know your last drawn stipend from your previous internship, if you have done any internships?
+
+1063
+02:29:44.210 --> 02:30:02.109
+Talari Sanjay: Yeah, ma'am, I'm done an internship in, Srivara Tech Intern, a Srivara Tech startup. So, it is… it is my, it is started by my seniors. So, they said that, we will… we started just now, the…
+
+1064
+02:30:02.110 --> 02:30:04.399
+Talari Sanjay: Startup so
+
+1065
+02:30:04.960 --> 02:30:10.849
+Talari Sanjay: By going we can give the stipend so but the.
+
+1066
+02:30:11.810 --> 02:30:19.099
+Talari Sanjay: They get, they get drives in university, so they are not in, active nowadays.
+
+1067
+02:30:19.230 --> 02:30:21.800
+Talari Sanjay: So just I have a quick.
+
+1068
+02:30:22.680 --> 02:30:24.440
+Talari Sanjay: Before that I have.
+
+1069
+02:30:24.860 --> 02:30:26.520
+Talari Sanjay: Done in.
+
+1070
+02:30:26.750 --> 02:30:32.240
+Talari Sanjay: Project in… in the… S- to Shreywara Tech in the Shreywara Tech.
+
+1071
+02:30:32.440 --> 02:30:34.279
+Talari Sanjay: I currently internet.
+
+1072
+02:30:34.280 --> 02:30:35.110
+Sushma: Anywhere.
+
+1073
+02:30:35.110 --> 02:30:36.620
+Talari Sanjay: Management project.
+
+1074
+02:30:37.350 --> 02:30:39.330
+Sushma: Are you currently interning anywhere?
+
+1075
+02:30:39.840 --> 02:30:40.690
+Talari Sanjay: Ma'am?
+
+1076
+02:30:41.320 --> 02:30:43.650
+Sushma: Are you currently interning anywhere?
+
+1077
+02:30:44.170 --> 02:30:47.359
+Talari Sanjay: No, ma'am. Currently, I'm not interning anywhere.
+
+1078
+02:30:50.590 --> 02:30:52.890
+Sushma: Okay, so what's your last round stipend?
+
+1079
+02:30:53.900 --> 02:30:57.429
+Talari Sanjay: no, ma'am, it's, nothing. Okay.
+
+1080
+02:30:57.430 --> 02:31:01.850
+Sushma: So have you gone through a stipend stretcher? What do you understand from that?
+
+1081
+02:31:02.240 --> 02:31:07.319
+Talari Sanjay: Yeah, ma'am, for 1 to 3, I think 1 to 3 months, it's,
+
+1082
+02:31:07.450 --> 02:31:15.670
+Talari Sanjay: 3,000, 3… 2 to 3,000, and then for 2 months, it's 5, and then it's 7.
+
+1083
+02:31:17.440 --> 02:31:20.350
+Sushma: Oh, you just reduced the stipend. Very good.
+
+1084
+02:31:21.610 --> 02:31:22.010
+Sushma: Okay.
+
+1085
+02:31:22.010 --> 02:31:22.360
+Talari Sanjay: So.
+
+1086
+02:31:22.360 --> 02:31:24.569
+Sushma: Do the stipend to you like that only.
+
+1087
+02:31:25.240 --> 02:31:27.589
+Sushma: Are you comfortable with that stipend?
+
+1088
+02:31:27.990 --> 02:31:29.710
+Talari Sanjay: No, ma'am,
+
+1089
+02:31:32.270 --> 02:31:33.190
+Sushma: Oh.
+
+1090
+02:31:34.920 --> 02:31:40.609
+Sushma: Okay, so you didn't get any last round stipend that you're saying that, Guzuranpe.
+
+1091
+02:31:41.040 --> 02:31:59.180
+Sushma: And here, let me tell about the stipend stretcher. The first 2 months of 5K per month, if you invest 30 hours per week, if you didn't invest 30 hours per week, instead of 30 hours, you just invested 20 hours, or 28 hours, 25 hours, your stipend will be get to that amount of time you invested for that week.
+
+1092
+02:31:59.560 --> 02:32:08.110
+Sushma: Okay, and after 2 months, your performance will be evaluated and given the appraisal. If your rating got above 4, then only you will get the
+
+1093
+02:32:08.530 --> 02:32:16.060
+Sushma: 4 ratings, like, above 4, then only you will get the 7,500. From 5K to 7,500 will be appraised.
+
+1094
+02:32:16.430 --> 02:32:23.209
+Sushma: And again, for every cycle, for all the 6 months, you must invest 30 hours per week.
+
+1095
+02:32:23.360 --> 02:32:35.549
+Sushma: Of every week in the month. If you didn't invest, you didn't get a full amount of 5K your first 2 months, and if you get the 4 rating, 7,500, and after the same follows, the rating will be?
+
+1096
+02:32:36.840 --> 02:32:41.179
+Sushma: If the same after 2 after 4 months,
+
+1097
+02:32:41.360 --> 02:32:47.170
+Sushma: Your performance will be evaluated and appraised for the 5th and 6th month if your rating is above 4.
+
+1098
+02:32:47.720 --> 02:33:02.039
+Sushma: you will get the, amount appraised for 7,500 to 10K. So, this is a stretcher, so 5K first 2 months, second, next 2 months, 7,500, if you rate out of 5-4 only.
+
+1099
+02:33:02.470 --> 02:33:07.200
+Sushma: And next two months, 10K, if you rate four out of five.
+
+1100
+02:33:07.690 --> 02:33:15.199
+Sushma: If you invest 30,000 per week, then only this benchmark amount will be given to you. Are you comfortable with this type and what you're expecting?
+
+1101
+02:33:16.340 --> 02:33:19.959
+Talari Sanjay: Yeah, ma'am, I am comfortable with these timings.
+
+1102
+02:33:20.320 --> 02:33:30.520
+Talari Sanjay: So, ma'am, for one week, we want to, give 30 hours. It is the criteria, no, ma'am?
+
+1103
+02:33:31.240 --> 02:33:32.020
+Sushma: Yes.
+
+1104
+02:33:33.240 --> 02:33:42.070
+Talari Sanjay: So, I can give 30 hours in a week, ma'am. It is not an issue for me. I am very comfortable.
+
+1105
+02:33:42.780 --> 02:33:43.480
+Sanisha: Okay.
+
+1106
+02:33:43.480 --> 02:33:44.260
+Sushma: Alright.
+
+1107
+02:33:44.360 --> 02:33:45.800
+Sushma: Just give a minute.
+
+1108
+02:33:46.490 --> 02:33:47.050
+Talari Sanjay: Hmm.
+
+1109
+02:34:30.670 --> 02:34:31.110
+Sushma: Sanisha.
+
+1110
+02:34:31.110 --> 02:34:31.890
+Sanisha: Okay.
+
+1111
+02:34:31.890 --> 02:34:33.690
+Sushma: Checking your natural fitness.
+
+1112
+02:34:35.530 --> 02:34:37.600
+Talari Sanjay: Ma'am, I cannot hear you.
+
+1113
+02:34:37.970 --> 02:34:39.050
+Sanisha: Can you hear me now?
+
+1114
+02:34:39.570 --> 02:34:40.400
+Talari Sanjay: Yeah, ma'am.
+
+1115
+02:34:40.730 --> 02:34:42.949
+Sanisha: I will be taking your natural fitment.
+
+1116
+02:34:43.310 --> 02:34:46.629
+Sanisha: And… Then we will see, okay?
+
+1117
+02:34:46.630 --> 02:34:47.620
+Talari Sanjay: Okay.
+
+1118
+02:34:47.620 --> 02:34:48.889
+Sanisha: Am I audible to you?
+
+1119
+02:34:49.370 --> 02:34:51.860
+Talari Sanjay: Yeah, ma'am, you're audible to me.
+
+1120
+02:34:51.860 --> 02:34:59.760
+Sanisha: All right. So tell me about a time you had to simplify a complex technical concept for a non-technical teammate. How did you explain it?
+
+1121
+02:35:01.070 --> 02:35:02.300
+Talari Sanjay: So.
+
+1122
+02:35:02.480 --> 02:35:19.450
+Talari Sanjay: For understanding other person, a technical thing which is, which he doesn't not have any idea on it, so I will take a, real world example like, for example, in React, for example, for.
+
+1123
+02:35:19.450 --> 02:35:24.619
+Talari Sanjay: An example I'm saying in React, I will, he's, I am explaining about.
+
+1124
+02:35:24.620 --> 02:35:36.289
+Talari Sanjay: props. So, I will take a code, and I will take a real institution… a real example. I will… I will say to him in… I will demonstrate in him.
+
+1125
+02:35:36.450 --> 02:35:43.489
+Talari Sanjay: And I will, say I will explain in, Taruli to him, then I will do.
+
+1126
+02:35:43.560 --> 02:35:59.060
+Talari Sanjay: And I will say to that, whoever I am explaining, I will say to them, just do what you have learned now through me, and if you have any doubts, again, ask me. So, by this, he can…
+
+1127
+02:35:59.060 --> 02:36:03.720
+Talari Sanjay: Really learn how to, do things.
+
+1128
+02:36:04.320 --> 02:36:11.809
+Talari Sanjay: So it is my approach to, any non-technical member to understand a technical things.
+
+1129
+02:36:11.990 --> 02:36:18.299
+Sanisha: Got it. How do you usually stay updated on AI or LLM developments?
+
+1130
+02:36:19.060 --> 02:36:37.579
+Talari Sanjay: Yeah, it is. I am for this. I am using YouTube, ma'am. So there I have. I will listen more podcasts like Rishad Sarbani and.
+
+1131
+02:36:37.890 --> 02:36:52.580
+Talari Sanjay: Sisindri, Harshash Sisindri, he's the main, leading AI companies he has, so he will give a, for weekly or 3 days, he will give updates, and,
+
+1132
+02:36:52.810 --> 02:37:05.449
+Talari Sanjay: And I, on my… without any YouTube, I will search on online, what are the new things are coming online, and what are the new,
+
+1133
+02:37:05.570 --> 02:37:09.550
+Talari Sanjay: Additional features added to this AA.
+
+1134
+02:37:09.670 --> 02:37:11.260
+Talari Sanjay: By the companies.
+
+1135
+02:37:11.260 --> 02:37:19.480
+Sanisha: Okay. Alright, thank you for joining in, today. You could, drop your email ID, your contact number.
+
+1136
+02:37:19.720 --> 02:37:25.859
+Sanisha: And your name. We will get in touch with you if you are selected within 2-3 days.
+
+1137
+02:37:26.660 --> 02:37:29.350
+Talari Sanjay: Okay, ma'am, can I drop in my details in chatbot?
+
+1138
+02:37:29.350 --> 02:37:30.640
+Sanisha: Yes, chatbots.
+
+1139
+02:37:31.260 --> 02:37:32.189
+Talari Sanjay: Yeah, okay, man.
+
+1140
+02:37:32.420 --> 02:37:40.469
+Sushma: So, Sanjay, if you didn't hear from us, even from phone or from mail, so you can consider that we just moved with someone else, okay?
+
+1141
+02:37:41.240 --> 02:37:41.820
+Talari Sanjay: Okay, ma'am.
+
+1142
+02:37:43.120 --> 02:37:45.010
+Sushma: Thank you, have a nice day.
+
+1143
+02:37:46.370 --> 02:37:48.110
+Talari Sanjay: Oh, wait, I'm just typing.
+
+1144
+02:37:49.100 --> 02:37:49.680
+Sushma: Yeah.
+
+1145
+02:38:12.240 --> 02:38:15.100
+Sanisha: Sushma have you called in Arpit inside?
+
+1146
+02:38:15.590 --> 02:38:16.350
+Sanisha: Okay.
+
+1147
+02:38:16.350 --> 02:38:18.089
+Sushma: Yes, I called you.
+
+1148
+02:38:18.660 --> 02:38:22.349
+Talari Sanjay: Ma'am, just name and email ID, phone number, it's…
+
+1149
+02:38:22.350 --> 02:38:22.790
+Sanisha: Yeah.
+
+1150
+02:38:24.120 --> 02:38:25.680
+Talari Sanjay: Hmm. Okay, ma'am.
+
+1151
+02:38:29.540 --> 02:38:32.359
+Talari Sanjay: So I have a positive now.
+
+1152
+02:38:32.660 --> 02:38:35.090
+Sanisha: Okay, thank you. You can leave the meeting now.
+
+1153
+02:38:36.110 --> 02:38:38.109
+Sushma: Please turn on your video.
+
+1154
+02:38:48.920 --> 02:38:54.069
+Sushma: Am I audible to you? You are not much clear. Your face is not clear. It is in dark.
+
+1155
+02:38:59.230 --> 02:39:01.250
+Arpit Kumar: I don't know.
+
+1156
+02:39:01.460 --> 02:39:03.429
+Sanisha: No, you're not audible at all.
+
+1157
+02:39:13.180 --> 02:39:14.060
+Arpit Kumar: Hello?
+
+1158
+02:39:14.280 --> 02:39:16.780
+Arpit Kumar: Am I audible?
+
+1159
+02:39:18.700 --> 02:39:24.920
+Sushma: No, you're not at all audible. Could you please, check your bandwidth and rejoin?
+
+1160
+02:39:42.990 --> 02:39:44.390
+Sanisha: I'll be back in a minute.
+
+1161
+02:39:49.710 --> 02:39:51.349
+Arpit Kumar: Just give me a minute.
+
+1162
+02:40:11.650 --> 02:40:12.720
+Arpit Kumar: Take it over.
+
+1163
+02:40:13.290 --> 02:40:14.959
+Arpit Kumar: Hello, am I audible, ma'am?
+
+1164
+02:40:16.240 --> 02:40:17.920
+Sushma: Yeah, you're audible now.
+
+1165
+02:40:18.150 --> 02:40:18.890
+Arpit Kumar: Yeah, yeah.
+
+1166
+02:40:20.210 --> 02:40:22.040
+Sushma: So tell me,
+
+1167
+02:40:22.480 --> 02:40:27.309
+Sushma: How your career aspiration will be aligned to this organization or to this role?
+
+1168
+02:40:28.070 --> 02:40:41.660
+Arpit Kumar: Ma'am, as I discussed before, like, in my previous company, which I had experience in internship of over 3 months, so in that company, I developed… I have developed various application and software using the AI.
+
+1169
+02:40:41.660 --> 02:41:00.180
+Arpit Kumar: And, I shipped it according to the, organization and user role. So, based on this, I am ready to, do my work. And, in this company, A4G, and the previous company, they gave me a free hand to use AI to make the product more good, scalable.
+
+1170
+02:41:00.180 --> 02:41:12.849
+Arpit Kumar: So, here I'm also going to make the use of AI, not to just make the product, but to make it up to the mark of the users, so they can use it, and they can give me a review, so I can also
+
+1171
+02:41:12.850 --> 02:41:21.059
+Arpit Kumar: It will be a software cycle, so we can use it and develop it, then get a review, then we can update it according to the user review.
+
+1172
+02:41:27.690 --> 02:41:28.480
+Sushma: Where are you from?
+
+1173
+02:41:29.320 --> 02:41:30.960
+Arpit Kumar: I'm from Bangalore, ma'am.
+
+1174
+02:41:31.520 --> 02:41:34.490
+Arpit Kumar: Originally I am from Jharkhand but I am studying in Bangalore.
+
+1175
+02:41:35.790 --> 02:41:39.649
+Sushma: Okay, so I think you're a final year student, right? Or third year student?
+
+1176
+02:41:40.030 --> 02:41:41.669
+Arpit Kumar: I am finally a student.
+
+1177
+02:41:43.000 --> 02:41:43.780
+Arpit Kumar: Oh.
+
+1178
+02:41:44.520 --> 02:41:51.860
+Sushma: Then are you not, like how far you're sure about to take the internship of commitment for 6 months?
+
+1179
+02:41:52.770 --> 02:41:58.020
+Arpit Kumar: Ma'am, I am ready to take a 6-month, commitment, because right now…
+
+1180
+02:41:58.020 --> 02:42:05.840
+Sushma: That you are ready to take that, but I just want to know that are you in the 4th year of 1st like you know the last time or the?
+
+1181
+02:42:06.200 --> 02:42:07.050
+Sushma: Last but one.
+
+1182
+02:42:07.050 --> 02:42:07.940
+Arpit Kumar: Oh, no, ma'am.
+
+1183
+02:42:08.580 --> 02:42:11.919
+Arpit Kumar: I am second last SIM, and I am currently on seventh SIM.
+
+1184
+02:42:12.760 --> 02:42:14.499
+Sushma: Okay, your final semester.
+
+1185
+02:42:14.570 --> 02:42:15.689
+Arpit Kumar: Fourth year, right?
+
+1186
+02:42:16.390 --> 02:42:19.980
+Arpit Kumar: Yes, ma'am. Not final, 7th semester, ma'am. 8th is the final.
+
+1187
+02:42:19.980 --> 02:42:22.840
+Sushma: 7, so next day some also will be there, right?
+
+1188
+02:42:23.240 --> 02:42:23.910
+Arpit Kumar: Yeah.
+
+1189
+02:42:23.910 --> 02:42:29.050
+Sushma: Okay, so now in the fourth year, most of your students will be having the.
+
+1190
+02:42:29.770 --> 02:42:34.139
+Sushma: Campus drives and also the projects, etc. So.
+
+1191
+02:42:34.320 --> 02:42:39.140
+Sushma: How you will be going to manage and commit to this internship and with your.
+
+1192
+02:42:39.340 --> 02:42:41.119
+Sushma: Economic commitments.
+
+1193
+02:42:45.320 --> 02:43:02.640
+Arpit Kumar: Ma'am, yes, ma'am, you're right, like, we are having, campus drives and, projects also, but for the projects, I am, giving a time which is in my class, college. The college is stipulated as a point of time in which we have to work on the projects, and for projects, I am doing on Sundays.
+
+1194
+02:43:02.640 --> 02:43:20.239
+Arpit Kumar: And with… because Sundays, we are all, like, teammates are free. And for the campus drive, ma'am, I am applying for both in campus and off campus also, because, in… on the campus, ma'am, some companies are coming which don't gives me the growth which I want, and, some companies, like, they want,
+
+1195
+02:43:20.700 --> 02:43:26.440
+Arpit Kumar: Something that I don't know, so that's why I'm applying on the both side, campus and off-campus both.
+
+1196
+02:43:31.830 --> 02:43:35.470
+Sushma: So what's your college time? You said up to 3 PM, right?
+
+1197
+02:43:39.680 --> 02:43:43.869
+Arpit Kumar: Yes, ma'am. 11 to… 11 to 2, ma'am, not 3. 11 to 2.
+
+1198
+02:43:43.870 --> 02:43:45.459
+Sushma: 7 to 2, okay.
+
+1199
+02:43:48.120 --> 02:43:49.160
+Arpit Kumar: Oh.
+
+1200
+02:43:49.680 --> 02:43:51.200
+Sushma: What's your last one stipend?
+
+1201
+02:43:53.610 --> 02:43:54.690
+Arpit Kumar: What now?
+
+1202
+02:43:55.160 --> 02:43:58.640
+Sushma: What's your last bronze stipend from your previous internships?
+
+1203
+02:43:59.710 --> 02:44:03.639
+Arpit Kumar: Ma'am, it was an unpaid internship, so there was no stipend.
+
+1204
+02:44:04.150 --> 02:44:11.909
+Arpit Kumar: I just opted for the internship for the sake of experience, so I can apply further in the field.
+
+1205
+02:44:13.580 --> 02:44:14.400
+Sushma: Okay.
+
+1206
+02:44:15.620 --> 02:44:18.050
+Sushma: So what you're expecting from this internship?
+
+1207
+02:44:19.650 --> 02:44:32.630
+Arpit Kumar: Ma'am, for this internship, ma'am, I am expecting to grow my skills and to develop more, like, my previous company was a startup, so it consists of very limited people, like, we used to do a
+
+1208
+02:44:32.630 --> 02:44:51.859
+Arpit Kumar: one-on-one, or maybe two or three people will join, like, the reporting manager and the founder itself, but this company, I am going to explore more people, we are going to give a more big team collab, the seniors will be there, so there will be an interactive team, and yeah, that's what I am expecting from this, so I can deliver my
+
+1209
+02:44:51.910 --> 02:44:53.969
+Arpit Kumar: What my
+
+1210
+02:44:54.440 --> 02:44:59.430
+Arpit Kumar: Strength is and what I am capable of so I think I can deliver to this company.
+
+1211
+02:45:00.240 --> 02:45:02.720
+Sushma: Do you have any interviews or offers in Pipeline?
+
+1212
+02:45:04.070 --> 02:45:08.640
+Arpit Kumar: No, ma'am, currently I don't have any, scheduled interview and, offers.
+
+1213
+02:45:10.310 --> 02:45:17.819
+Sushma: For instance, like, as you mentioned that you're in the final year, in your economics.
+
+1214
+02:45:18.140 --> 02:45:23.760
+Sushma: So, you just committed to this internship from 4 PM to 9 PM.
+
+1215
+02:45:24.040 --> 02:45:32.199
+Sushma: And then the campus drives were scheduled, next, two, two weeks continuously. How will we going to manage that?
+
+1216
+02:45:32.810 --> 02:45:40.700
+Arpit Kumar: Aman, the campus drive mostly will be to the college working time, which is from 8 AM to 4 PM.
+
+1217
+02:45:40.700 --> 02:46:02.040
+Arpit Kumar: So, the campus drive, they give us a special time slot, like, which mostly this happens on 11 to, 3, max to max. So, and this, and also for the campus drive, ma'am, first time I will be committed to this company, so I will be taking more focus on, A4G, rather than expecting from some other company, but,
+
+1218
+02:46:03.850 --> 02:46:06.210
+Arpit Kumar: because it's a good time.
+
+1219
+02:46:07.450 --> 02:46:08.190
+Arpit Kumar: you.
+
+1220
+02:46:08.880 --> 02:46:09.640
+Sushma: Okay.
+
+1221
+02:46:10.230 --> 02:46:10.810
+Arpit Kumar: just.
+
+1222
+02:46:13.410 --> 02:46:14.400
+Sanisha: Alright.
+
+1223
+02:46:14.750 --> 02:46:21.570
+Sanisha: You could share your, contact details and email ID and your name in the chat box.
+
+1224
+02:46:21.870 --> 02:46:25.840
+Sanisha: If you are selected, we'll let you know within the 2-3 days.
+
+1225
+02:46:26.480 --> 02:46:29.330
+Arpit Kumar: Ma'am, my WhatsApp number or calling number?
+
+1226
+02:46:30.080 --> 02:46:31.050
+Sanisha: Your WhatsApp number.
+
+1227
+02:46:35.360 --> 02:46:36.080
+Arpit Kumar: Okay.
+
+1228
+02:46:39.890 --> 02:46:47.569
+Sushma: If you didn't hear anything about… if you didn't hear back from us, so you can consider that we just moved with someone else.
+
+1229
+02:46:49.330 --> 02:46:51.659
+Arpit Kumar: can you repeat again?
+
+1230
+02:46:52.290 --> 02:47:00.640
+Sushma: See, if you didn't get here back from us through mail or phone, you can consider that we just moved with someone else.
+
+1231
+02:47:01.530 --> 02:47:02.490
+Arpit Kumar: Okay, ma'am.
+
+1232
+02:47:06.830 --> 02:47:09.519
+Arpit Kumar: Check on the screen, is it received or not.
+
+1233
+02:47:12.630 --> 02:47:13.240
+Sushma: Alright.
+
+1234
+02:47:14.820 --> 02:47:15.580
+Sanisha: Alright, thank you.
+
+1235
+02:47:15.580 --> 02:47:16.020
+Sushma: you.
+
+1236
+02:47:18.080 --> 02:47:19.429
+Sanisha: You can leave now.
+
+1237
+02:47:19.430 --> 02:47:20.340
+Arpit Kumar: Thank you, thank you, ma'am.
+
+1238
+02:47:20.340 --> 02:47:21.320
+Sanisha: Thank you for joining me.
+
+1239
+02:47:23.760 --> 02:47:25.519
+Arpit Kumar: Thank you, thank you for your time.
+
+1240
+02:47:25.520 --> 02:47:26.190
+Sanisha: Yes.
+
+1241
+02:47:26.580 --> 02:47:27.870
+Sushma: Yeah, I think…
+
+1242
+02:47:29.410 --> 02:47:30.140
+Sanisha: There's no.
+
+1243
+02:47:30.140 --> 02:47:32.060
+Sushma: Sanisha, I will tell you one thing.
+
+1244
+02:47:32.060 --> 02:47:32.470
+Sanisha: Hmm?
+
+1245
+02:47:32.470 --> 02:47:47.020
+Sushma: When you get… when we are getting a large pool of candidates, so if we didn't, have a strip filtration, this is a thing we usually happen. This is the second time or third time I observed that also, because
+
+1246
+02:47:47.910 --> 02:47:52.399
+Sushma: A lot of applicants but still didn't find even a perfect one is really.
+
+1247
+02:47:53.750 --> 02:48:02.949
+Sanisha: That is what I was telling Suhani because this was my first time doing it. Right? So even while screening the first time itself, we had a Google form in which it said.
+
+1248
+02:48:03.370 --> 02:48:19.799
+Sanisha: People, they had to fill in, are you reading the questions before answering? And they said they still clicked on no. As in, like, everything was yes, yes, yes. So I was like, I think I should filter these people out. And then she's like, no. If they match a little, then you can keep them.
+
+1249
+02:48:20.650 --> 02:48:26.529
+Sanisha: So like that it is like if we are excusing 1 person, we have to excuse 10 person.
+
+1250
+02:48:26.660 --> 02:48:35.469
+Sushma: I'm about to also text her. I'm not sure about him. So you're just in between coming in. I don't know what to continue also further.
+
+1251
+02:48:35.470 --> 02:48:43.950
+Sanisha: Yeah. See, I found the two people who were good. One has stability issues, but Vedant, I think, could join in, considering he has just completed his…
+
+1252
+02:48:43.950 --> 02:48:51.190
+Sushma: So finally, in Zoom too, how many people you find good to go, having a conference from your end?
+
+1253
+02:48:52.870 --> 02:49:05.820
+Sanisha: Two people, three people, actually. The other guy who was, he could be a good backup. The one I was taking, that's an organizational fitment. If we could find, we can just take him in. So that is a good backup. And apart from that, Vedant, I think…
+
+1254
+02:49:05.850 --> 02:49:07.710
+Sushma: Vedant.
+
+1255
+02:49:07.710 --> 02:49:10.119
+Sanisha: Vedant is my first priority because.
+
+1256
+02:49:10.120 --> 02:49:11.659
+Sushma: Did you take all the rounds?
+
+1257
+02:49:11.660 --> 02:49:19.929
+Sanisha: No, Aswani said he has stability issues, so we should not take organization and natural fitment. But then I was like, anyone is going to say they are going to…
+
+1258
+02:49:19.930 --> 02:49:22.809
+Sushma: Who taken his HR account, Suhani?
+
+1259
+02:49:22.810 --> 02:49:23.710
+Sanisha: Yeah.
+
+1260
+02:49:25.140 --> 02:49:27.680
+Sanisha: I am not understanding much more.
+
+1261
+02:49:27.680 --> 02:49:29.940
+Sushma: Where did she found the stability issue?
+
+1262
+02:49:30.180 --> 02:49:43.530
+Sanisha: She said that he said that he would have plans eventually to join in things because he said I have two, three other plans. But I asked him as well, are you available for the six months tenure? He said yes. And then he said that I want to work in the space.
+
+1263
+02:49:43.530 --> 02:49:53.170
+Sushma: We will answer S only for that, you know, but we have to do a cross checks also. So after that, whom you are comfortable, confident of the way now.
+
+1264
+02:49:53.400 --> 02:49:55.789
+Sanisha: Vedant and the guy who is available.
+
+1265
+02:49:56.030 --> 02:49:59.480
+Sanisha: The last guy we took in his name is.
+
+1266
+02:49:59.480 --> 02:50:00.970
+Sushma: Sandrina.
+
+1267
+02:50:01.030 --> 02:50:09.739
+Sanisha: Yeah, this, Yim as well, but for Yim, Yim is already having contract work. He's also doing tech.
+
+1268
+02:50:09.740 --> 02:50:26.109
+Sanisha: He's also involved in a small tech startup as well. And then he still wants to be part of this. And we also did a conversation about stipend structure and that we are not going to change the stipend structure. And then he's like, I still want to work because I'm liking the idea of it.
+
+1269
+02:50:28.140 --> 02:50:36.769
+Sushma: Let's discuss in the workhub in H W P M. Let's have Sumanya and Swetcha also to be involved.
+
+1270
+02:50:37.670 --> 02:50:40.679
+Sanisha: So I am saying that Ritu Singh is not gonna lie.
+
+1271
+02:50:41.840 --> 02:50:48.710
+Sushma: I will let me talk with Suhan in front of you also, where did she found, why it is not stability issue.
+
+1272
+02:50:48.900 --> 02:50:58.679
+Sushma: Actually, we found one person also, which Neeraj, so there we also found the stability issue, because he's in the A, the commitment we felt, so we didn't consider that.
+
+1273
+02:50:58.680 --> 02:51:09.789
+Sanisha: No. That guy has no commitments. Vedant has no commitments. He just said that eventually, he said Madhav Swani asked him if you get a full time opportunity.
+
+1274
+02:51:09.790 --> 02:51:20.900
+Sanisha: Then will you take it? Any any fresher would take a full time opportunity. I think the question should be asked that, do you have have you applied for any other places? And he said, no. He has not applied as of now.
+
+1275
+02:51:21.090 --> 02:51:22.629
+Sanisha: Or what I I don't know.
+
+1276
+02:51:22.630 --> 02:51:24.449
+Sushma: He get his 4th year.
+
+1277
+02:51:24.600 --> 02:51:31.810
+Sanisha: He has completed his graduation and he previously did apply to full-time places but he did not get in and he wants to kickstart.
+
+1278
+02:51:32.780 --> 02:51:40.239
+Sushma: Confident enough that you know he's not looking full-time roles actually by internship.
+
+1279
+02:51:40.240 --> 02:51:50.919
+Sanisha: I said that he would be looking eventually, I feel like, but I feel that once he would understand the pace in which we are working and once he will be engrossed in it, I don't think he would be leaving it.
+
+1280
+02:51:51.110 --> 02:51:55.969
+Sanisha: Anytime soon. That is what I'm saying, because he could fit in what we are doing in.
+
+1281
+02:51:56.950 --> 02:52:07.900
+Sushma: Okay, so, did you ask, did you cross-check this question, why internship, why internship, why not full-time right away?
+
+1282
+02:52:07.900 --> 02:52:20.929
+Sanisha: He said that considering he has completed his bachelor's and he also did try to apply to full-time places, but they obviously would not take him in. And so he genuinely wants to start and he also aligns with this organization.
+
+1283
+02:52:20.930 --> 02:52:27.029
+Sushma: Did she have something of experience of some internships?
+
+1284
+02:52:27.420 --> 02:52:33.230
+Sanisha: I think he might have had experience. I don't remember as very clearly because, you know, it was fast paced. So yeah.
+
+1285
+02:52:33.490 --> 02:52:36.319
+Sushma: Let me check his resume also.
+
+1286
+02:52:38.280 --> 02:52:39.940
+Sanisha: Deshpande Vedant.
+
+1287
+02:52:40.870 --> 02:52:42.139
+Sanisha: And also check.
+
+1288
+02:52:47.260 --> 02:52:53.770
+Sanisha: And the other guy, him, he's too good to be true for our organization, because he is already doing so many things.
+
+1289
+02:52:55.950 --> 02:52:56.870
+Sushma: Okay.
+
+1290
+02:53:02.180 --> 02:53:04.370
+Sushma: I didn't find his resume.
+
+1291
+02:53:05.820 --> 02:53:06.970
+Sushma: Vedantya.
+
+1292
+02:53:06.970 --> 02:53:07.650
+Sanisha: Yeah.
+
+1293
+02:53:13.040 --> 02:53:16.970
+Sushma: I will check speed, timer here on the slides.
+
+1294
+02:53:17.420 --> 02:53:19.490
+Sushma: Okay, not much.
+
+1295
+02:53:20.100 --> 02:53:25.779
+Sushma: I think he, even though he tries full time, he won't get that, because he's not having
+
+1296
+02:53:26.000 --> 02:53:31.390
+Sushma: At least three months or six months of internship experience, definitely you won't get full time.
+
+1297
+02:53:31.390 --> 02:53:32.150
+Sanisha: Hello?
+
+1298
+02:53:32.460 --> 02:53:34.909
+Sushma: Yeah, definitely. So let's use.
+
+1299
+02:53:34.910 --> 02:53:39.219
+Sanisha: It's like even if he wants to try, he won't go because he's learning something here.
+
+1300
+02:53:39.220 --> 02:53:57.520
+Sushma: Something. So, yeah, mostly we can give it a try, I can say, because if he's having good exposure and good enough internships, most of people will prefer full-time only. They won't do internships. But he's not. As for the resume, I can see project sections, achievement section.
+
+1301
+02:53:58.690 --> 02:54:01.559
+Sanisha: And there's no internship as such, he has done projects and…
+
+1302
+02:54:01.690 --> 02:54:04.130
+Sushma: Experience session at all.
+
+1303
+02:54:04.610 --> 02:54:11.309
+Sanisha: Yeah, because he did say he has worked on certain projects in university and all those things or whatever. Correct.
+
+1304
+02:54:11.310 --> 02:54:15.570
+Sushma: Let's have a discussion in HWBM, in WorkWell, okay?
+
+1305
+02:54:15.570 --> 02:54:17.620
+Sanisha: Alright, I'll close this.
+
+1306
+02:54:17.620 --> 02:54:18.510
+Sushma: And.
+
+1307
+02:54:18.510 --> 02:54:19.430
+Sanisha: Bye bye.
+
+1308
+02:54:19.660 --> 02:54:20.240
+Sushma: Right.
+
+1309
+02:54:20.240 --> 02:54:21.469
+Sanisha: Should I end the meeting?
+

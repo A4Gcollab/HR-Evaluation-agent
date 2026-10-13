@@ -1,0 +1,156 @@
+{
+  "batch_info": {
+    "interview_date": "August 19, 2026",
+    "interviewers": "Sushma (Lead), Suhani (Support), Swetcha (Support)",
+    "role": "Marketing Intern",
+    "transcript_note": "Zoom VTT. Some candidates eliminated after HR round."
+  },
+  "candidates": [
+    {
+      "name": "Suhani Menderatta",
+      "role_applied": "Marketing Intern",
+      "interview_date": "August 19, 2026",
+      "availability": "College timings 10 AM to 2 PM; comfortable with 5 PM to 9 PM remote work.",
+      "stipend_discussed": "Not currently doing paid work; last internship was unpaid.",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round + NF Round + OF Round",
+      "confidence_level": "High",
+      "limitation_note": "",
+      "background": "Third-year Eco-honors student at Shivaji College. Experience as a business analyst at an IELTS coaching platform and handling social media for a subsidiary brand 'Purcelli'.",
+      "interview_summary": "Suhani presented herself as an articulate and committed candidate. She has foundational marketing experience running social media pages and demonstrates a good grasp of storytelling and audience connection. She showed a clear intent to learn and contribute to a cause-driven organization, matching the required commitment.",
+      "natural_fit": {
+        "role_reference": "natural-fit-marketing.md",
+        "traits": [
+          {
+            "trait": "Creativity and Storytelling",
+            "score": 4,
+            "observation": "Understands the power of narrative to drive engagement; cited a relevant industry example (Fae Beauty) to explain how personal founder stories build trust.",
+            "example": "Described building a social media page from scratch for a beauty brand."
+          },
+          {
+            "trait": "Audience Awareness",
+            "score": 4,
+            "observation": "Clearly understands the mindset of the target demographic (12-18 years old) and the need to tailor messages to make them relatable.",
+            "example": "Mentioned that 'people want to do good things but lack the medium', showing empathetic audience reading."
+          },
+          {
+            "trait": "Curiosity and Trend Awareness",
+            "score": 3.5,
+            "observation": "Aware of current social media patterns and recognizes that consistency helps discover what resonates with users.",
+            "example": "Noted the trend of brand founders using their personal narratives for marketing."
+          },
+          {
+            "trait": "Execution and Consistency",
+            "score": 4,
+            "observation": "Recognizes that regular posting is essential for growth; has practical experience doing this for a past brand.",
+            "example": "Worked on growing 'Purcelli' by taking it from just 2-3 videos to a fully populated page."
+          },
+          {
+            "trait": "Data and Feedback Orientation",
+            "score": 3,
+            "observation": "Understands the basics of engaging dropped leads by following up and seeking mutual agreement, though lacking deep data analytics insight.",
+            "example": "Suggested following up with dropped leads to ask about their preferences and find a middle ground."
+          }
+        ],
+        "average": 3.7
+      },
+      "org_fit": {
+        "values": [
+          {
+            "value": "Ownership and Alignment",
+            "score": 4,
+            "observation": "Views ownership as taking full accountability, including for mistakes, to preserve personal credibility.",
+            "example": "Stated 'ownership is taking accountability for what you did, and owning up to what you did, even if it is a mistake.'"
+          },
+          {
+            "value": "Respect and Acceptance",
+            "score": 3,
+            "observation": "Prefers direct communication and warnings when dealing with colleagues who delay work.",
+            "example": "Described giving 'strict warnings' and communicating directly if a colleague continually delays work."
+          },
+          {
+            "value": "Innovation and Imagination",
+            "score": 3.5,
+            "observation": "Views innovation as a collective effort to experiment and achieve goals that benefit society.",
+            "example": "Defined innovation as 'finding good or new things... to achieve a collective goal'."
+          },
+          {
+            "value": "Agility",
+            "score": 4,
+            "observation": "Comfortable admitting knowledge gaps and proactively finding the missing information.",
+            "example": "Said she would explain what she knows, admit what she doesn't, and get back after researching it."
+          },
+          {
+            "value": "Integrity and Authenticity",
+            "score": 4,
+            "observation": "Willing to raise ethical concerns, though she prefers to consult peers before escalating to management.",
+            "example": "Said she would consult friends to validate her concerns, then bring the ethical issue to her superior."
+          }
+        ],
+        "average": 3.7
+      },
+      "total_score": 7.4,
+      "recommendation": "Can Be Considered",
+      "recommendation_emoji": "🟢",
+      "action_label": "🟢 Hold",
+      "key_strengths": [
+        "Strong understanding of brand storytelling and audience empathy.",
+        "Demonstrated accountability and self-awareness in behavioral responses."
+      ],
+      "areas_for_development": [
+        "May need guidance on data-driven marketing decisions beyond basic social media posting.",
+        "Conflict resolution approach leans slightly toward warnings rather than collaborative problem-solving."
+      ],
+      "overall_observation": "Suhani is an enthusiastic, early-stage marketer who grasps the creative side of the role well. Her communication is strong and she seems genuinely motivated by the organization's cause. While she is still developing deeper strategic marketing skills, she has a great foundation for social media engagement and content creation.",
+      "recommendation_basis": "Solid alignment across NF (3.7) and OF (3.7), with particular strengths in Storytelling and Agility.",
+      "key_risk": "No material risk identified at assessment stage.",
+      "placement_fit": "Strongest in Creativity and Storytelling — best fit for content creation and brand storytelling initiatives."
+    },
+    {
+      "name": "Vinay Goswami",
+      "role_applied": "Marketing Intern",
+      "interview_date": "August 19, 2026",
+      "availability": "College timings from 8 AM to 2 PM / 3 PM.",
+      "stipend_discussed": "Last internship was unpaid.",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round",
+      "confidence_level": "Medium",
+      "limitation_note": "Did not progress to Natural Fit or Org Fit rounds.",
+      "background": "BBA in Business Analytics from Mural University. Head of his university's marketing club, with a family background in business (CNF/Super stockist).",
+      "interview_summary": "Vinay showed confidence during the GD and discussed strategies like B2B vs B2C marketing and email marketing. In the HR round, he expressed a desire to improve his communication skills and learn new marketing strategies. He is looking for a paid internship that will bolster his resume before his placements in six months.",
+      "natural_fit": {},
+      "org_fit": {},
+      "total_score": 0,
+      "recommendation": "Not Scored",
+      "recommendation_emoji": "",
+      "action_label": "",
+      "key_strengths": [],
+      "areas_for_development": [],
+      "overall_observation": "Vinay demonstrated good theoretical knowledge of marketing channels during the GD. However, his motivation appears highly instrumental (resume building for upcoming placements) and he did not advance to the fit assessment rounds. No scores are assigned due to insufficient round data.",
+      "recommendation_basis": "Not scored due to non-advancement.",
+      "key_risk": "Commitment risk — explicit focus on placements in 6 months may conflict with internship tenure."
+    }
+  ],
+  "gd_eliminations": [
+    {
+      "name": "Shivani Tiwari",
+      "outcome": "Eliminated at GD",
+      "note": "Internet connection issues / dropped off multiple times; HR asked her to leave the meet."
+    },
+    {
+      "name": "Aditya Rajawat",
+      "outcome": "Eliminated at HR Round",
+      "note": "Active GD participant but HR decided not to move forward after HR round — stated he is serving notice period for full-time product designer role and seeking PPO."
+    },
+    {
+      "name": "Vishwanath anand Rawat",
+      "outcome": "Eliminated at HR Round",
+      "note": "Active GD participant but HR decided not to move forward after HR round — reason not explicitly stated."
+    },
+    {
+      "name": "Devenshu Mishra",
+      "outcome": "Eliminated at HR Round",
+      "note": "Active GD participant but HR decided not to move forward after HR round — currently doing another unpaid digital marketing internship."
+    }
+  ]
+}

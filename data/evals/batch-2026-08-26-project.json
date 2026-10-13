@@ -1,0 +1,211 @@
+{
+  "batch_info": {
+    "interview_date": "August 26, 2026",
+    "interviewers": "Suhani (Lead HR, Natural Fit), Sanisha (Org Fit)",
+    "role": "Project Management Intern",
+    "transcript_note": "Transcript of the Project Management interviews containing GD, HR, Natural Fit, and Org Fit rounds."
+  },
+  "candidates": [
+    {
+      "name": "Amna (fatima)",
+      "role_applied": "Project Management Intern",
+      "interview_date": "August 26, 2026",
+      "availability": "Available weekends and weekdays after 3 PM (5 PM to 9 PM). College ends at 2 PM.",
+      "stipend_discussed": "Yes — comfortable with the 5K/7.5K/10K structure based on performance.",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round + Natural Fit + Org Fit",
+      "confidence_level": "High",
+      "limitation_note": "",
+      "background": "B.Pharm student at Jamia Hamdard Univ, graduating next May. Current research intern at DSC (weekends). Previously completed a project management internship at Paishan NGO and an investment banking internship.",
+      "interview_summary": "Amna is a highly communicative candidate with relevant NGO project management and research experience. She demonstrated a strong understanding of A4G's mission and prefers hands-on impact over pure finance roles. During the fit rounds, she showcased strong accountability and problem-solving skills, citing concrete examples of protecting beneficiaries over accommodating influencers. Her primary limitation is a self-admitted tendency to procrastinate.",
+      "key_risk": "Procrastination tendency admitted during OF round, which could impact tight event deadlines.",
+      "action_label": "🟢 Can Be Considered",
+      "natural_fit": {
+        "traits": [
+          {
+            "name": "Structuring and Planning",
+            "score": 4.0,
+            "evidence": "Described project management as end-to-end ownership, breaking timelines into phases, and staying on top of progress through regular check-ins.",
+            "signal": "Understands the necessity of structured execution beyond merely completing assigned tasks."
+          },
+          {
+            "name": "Accountability and Ownership",
+            "score": 4.5,
+            "evidence": "Stated that her responsibility is not finished until the overall project is executed, and she would proactively help colleagues complete their deliverables.",
+            "signal": "Displays a high level of collective ownership and accountability for end results."
+          },
+          {
+            "name": "Risk Anticipation",
+            "score": 4.0,
+            "evidence": "Emphasized the importance of identifying problems and connecting before they become major issues.",
+            "signal": "Proactive mindset towards risk management."
+          },
+          {
+            "name": "Adaptability",
+            "score": 4.0,
+            "evidence": "Would modify work and assign more hours if the expected impact of a task is found to be lower than assumed.",
+            "signal": "Flexible and focused on achieving the desired quality and outcome."
+          },
+          {
+            "name": "Problem Solving",
+            "score": 4.0,
+            "evidence": "When faced with a failed project, she would look for the root cause and flag it for the future without entirely blaming one person.",
+            "signal": "Constructive approach to post-mortem analysis and continuous improvement."
+          }
+        ],
+        "average": 4.1,
+        "summary": "Strong in structuring, accountability, and problem-solving, with concrete examples supporting her approach. Overall verdict: Strong."
+      },
+      "org_fit": {
+        "values": [
+          {
+            "name": "Communication",
+            "score": 4.0,
+            "evidence": "People often rely on her to network and connect them with others due to her adaptability.",
+            "signal": "Strong interpersonal and networking skills."
+          },
+          {
+            "name": "Accountability",
+            "score": 4.5,
+            "evidence": "Is quickly shut down by people who refuse to take accountability for their actions.",
+            "signal": "Values responsibility highly in collaborative environments."
+          },
+          {
+            "name": "Empathy and Patience",
+            "score": 3.5,
+            "evidence": "Learned through household surveys that communication sometimes fails when people are reluctant, requiring patience.",
+            "signal": "Realistic understanding of communication limits with difficult stakeholders."
+          },
+          {
+            "name": "Integrity",
+            "score": 4.5,
+            "evidence": "Intervened when an influencer made children uncomfortable during a previous NGO shoot, prioritizing the children's well-being over the influencer's demands.",
+            "signal": "Demonstrates strong moral courage and alignment with social impact values."
+          },
+          {
+            "name": "Self-Awareness",
+            "score": 3.5,
+            "evidence": "Admitted to struggling with procrastination until work is finally completed.",
+            "signal": "Honest self-reflection, though the trait itself is a minor risk."
+          }
+        ],
+        "average": 4.0,
+        "summary": "Demonstrates high integrity, accountability, and solid communication skills. Well-aligned with organizational values. Overall verdict: Strong."
+      }
+    },
+    {
+      "name": "Juhi Chaudhary",
+      "role_applied": "Project Management Intern",
+      "interview_date": "August 26, 2026",
+      "availability": "Available from 5 PM to 9 PM.",
+      "stipend_discussed": "Yes — understands the structure.",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round + Natural Fit + Org Fit",
+      "confidence_level": "Medium",
+      "limitation_note": "",
+      "background": "Recent BSc graduate (Computer Science). Fresher with no prior internship experience. Currently preparing for MBA (CAT).",
+      "interview_summary": "Juhi is a fresher seeking to build communication and execution skills. She possesses a good theoretical understanding of project management but lacks practical experience to draw upon. Her responses in the fit rounds were somewhat brief and generic, reflecting her early career stage. She faces a commitment risk due to her ongoing CAT preparation.",
+      "key_risk": "Commitment risk — preparing for CAT exams which may clash with the demands of a heavy internship.",
+      "action_label": "🟡 Hold — needs HR OL review",
+      "natural_fit": {
+        "traits": [
+          {
+            "name": "Structuring and Planning",
+            "score": 3.5,
+            "evidence": "Mentioned breaking projects into milestones and assigning responsibilities as key parts of project management.",
+            "signal": "Basic theoretical understanding of project structures."
+          },
+          {
+            "name": "Accountability and Ownership",
+            "score": 3.5,
+            "evidence": "Believes the project must stay on track and would reach out to uncooperative team members to ensure delivery.",
+            "signal": "Understands ownership but approach to enforcement is basic."
+          },
+          {
+            "name": "Risk Anticipation",
+            "score": 3.0,
+            "evidence": "Stated she would admit and change course if new information proves her assumptions wrong.",
+            "signal": "Adequate response but lacks depth or experiential backing."
+          },
+          {
+            "name": "Adaptability",
+            "score": 3.0,
+            "evidence": "If a task's impact is lower than assumed, she would consider the task over if she had already given her best abilities to complete it.",
+            "signal": "Somewhat rigid approach; prioritizes task completion over evaluating impact."
+          },
+          {
+            "name": "Problem Solving",
+            "score": 3.5,
+            "evidence": "Would try to help team members having difficulty, but finds it highly problematic if they still fail to deliver.",
+            "signal": "Basic problem-solving mindset without advanced conflict resolution strategies."
+          }
+        ],
+        "average": 3.3,
+        "summary": "Adequate theoretical understanding but lacks the depth of practical experience. Overall verdict: Adequate."
+      },
+      "org_fit": {
+        "values": [
+          {
+            "name": "Self-Reflection",
+            "score": 3.5,
+            "evidence": "When something fails, she first asks herself if she gave her best and if she did something wrong.",
+            "signal": "Capable of basic self-reflection."
+          },
+          {
+            "name": "Conflict Resolution",
+            "score": 3.0,
+            "evidence": "Finds people who don't take responsibility to be the hardest to work with; would try to listen to them but struggles if they don't respond.",
+            "signal": "Has difficulty managing uncooperative team members."
+          },
+          {
+            "name": "Adaptability",
+            "score": 3.0,
+            "evidence": "Struggles with understanding different behavioral patterns and how to respond to various types of people.",
+            "signal": "Requires more exposure to diverse working environments."
+          },
+          {
+            "name": "Critical Thinking",
+            "score": 3.0,
+            "evidence": "Questioned the current education system for its lack of practical approach.",
+            "signal": "Standard, generic observation without deep insight."
+          },
+          {
+            "name": "Vulnerability",
+            "score": 3.5,
+            "evidence": "Comfortable admitting mistakes to her mother, whom she views as a friend.",
+            "signal": "Comfortable with vulnerability in safe, personal spaces."
+          }
+        ],
+        "average": 3.2,
+        "summary": "Adequate alignment with organizational values, but responses lack maturity and depth. Overall verdict: Adequate."
+      }
+    },
+    {
+      "name": "Gurjot Singh Sidhu",
+      "role_applied": "Project Management Intern",
+      "interview_date": "August 26, 2026",
+      "availability": "Taking final semester MBA exams.",
+      "stipend_discussed": "Not discussed",
+      "resume_provided": "Yes",
+      "rounds_completed": "GD + HR Round",
+      "confidence_level": "Medium",
+      "limitation_note": "",
+      "background": "Final semester MBA student. Father runs a transportation business. Has run a self-funded NGO for 4-5 years, organizing events and providing scholarships.",
+      "interview_summary": "Gurjot was eliminated after the HR round. Despite his background in running an NGO, his communication skills were noted as weak, and his career aspirations (becoming a business coach) did not strongly align with the project management role at A4G. HR decided not to proceed to the fitment rounds.",
+      "key_risk": "Weak communication skills and misaligned career aspirations.",
+      "action_label": "❌ Reject"
+    }
+  ],
+  "gd_eliminations": [
+    {
+      "name": "Tanya Gupta",
+      "outcome": "Eliminated at GD",
+      "note": "Participated in the GD but was not selected to advance to the HR round."
+    },
+    {
+      "name": "Roshan Devadiga",
+      "outcome": "Eliminated at GD",
+      "note": "Participated in the GD but was not selected to advance to the HR round."
+    }
+  ]
+}

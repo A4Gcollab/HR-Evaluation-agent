@@ -1,0 +1,606 @@
+﻿Ariti :): Ma'am, I want to correct you.
+
+451
+01:08:24.410 --> 01:08:26.839
+Ariti :): My name is Ariti, not Ariti.
+
+452
+01:08:27.890 --> 01:08:28.870
+Sushma_HR: Ariti.
+
+453
+01:08:29.180 --> 01:08:31.000
+Ariti :): Ariti. Ariti, Ariti.
+
+454
+01:08:31.160 --> 01:08:32.729
+Sushma_HR: Ariti, sorry.
+
+455
+01:08:32.850 --> 01:08:35.050
+Sushma_HR: Ariti. Ariti.
+
+456
+01:08:35.050 --> 01:08:37.280
+Ariti :): It's okay, well, everybody doesn't mistaken.
+
+457
+01:08:37.430 --> 01:08:42.310
+Sushma_HR: Yeah, it's, it's like, you know, you just keep that emojis, and it's like, you know.
+
+458
+01:08:42.430 --> 01:08:44.889
+Sushma_HR: Are you also there? Something…
+
+459
+01:08:45.279 --> 01:08:50.219
+Sushma_HR: Okay, yay, Smith. Okay, alright then. Yeah, thanks for correcting me, Rathi.
+
+460
+01:08:54.739 --> 01:08:56.009
+Sushma_HR: Nishad.
+
+461
+01:09:12.539 --> 01:09:14.049
+Sushma_HR: this program.
+
+462
+01:09:14.969 --> 01:09:16.219
+Sushma_HR: Where are you from?
+
+463
+01:09:17.160 --> 01:09:19.310
+Nishad Dhakephalkar: I'm from Pune, I currently stay in Pune.
+
+464
+01:09:20.099 --> 01:09:21.429
+Sushma_HR: Okay.
+
+465
+01:09:22.369 --> 01:09:25.049
+Sushma_HR: What do your father, mother do?
+
+466
+01:09:26.060 --> 01:09:30.469
+Nishad Dhakephalkar: My father is currently a product manager, my mother is a school principal.
+
+467
+01:09:30.470 --> 01:09:31.370
+Sushma_HR: Rachel.
+
+468
+01:09:31.370 --> 01:09:32.670
+Nishad Dhakephalkar: Product manager.
+
+469
+01:09:32.670 --> 01:09:35.620
+Sushma_HR: Product manager. Oh, great.
+
+470
+01:09:38.050 --> 01:09:43.380
+Sushma_HR: So, is it that your goal is also to be, like, your father as product manager?
+
+471
+01:09:44.020 --> 01:09:51.230
+Nishad Dhakephalkar: No, so he is more onto the finance side, with the product side, so I am more interested in the Agentic application side.
+
+472
+01:09:53.369 --> 01:09:54.309
+Sushma_HR: Okay.
+
+473
+01:09:54.609 --> 01:09:57.079
+Sushma_HR: So, tell me… hmm…
+
+474
+01:09:57.709 --> 01:10:04.079
+Sushma_HR: That, how your career aspiration will be aligned to this internship, or to this organization?
+
+475
+01:10:05.630 --> 01:10:18.669
+Nishad Dhakephalkar: So, as I… as I read the job description, we are very much focusing on, AI-first and Agentic AI-first products, which will help employees and overall for social impact as well.
+
+476
+01:10:18.670 --> 01:10:30.810
+Nishad Dhakephalkar: So that is what I am looking forward to, to building Agentic production systems using Agentic development tools that will be or can be used by real users, and so that there is some sort of
+
+477
+01:10:30.820 --> 01:10:34.360
+Nishad Dhakephalkar: Our contribution to social causes that we can achieve.
+
+478
+01:10:37.590 --> 01:10:38.380
+Sushma_HR: Oh, okay.
+
+479
+01:10:39.180 --> 01:10:43.630
+Sushma_HR: So, you said that your college time is from 9am to 2.30pm.
+
+480
+01:10:43.810 --> 01:10:57.389
+Sushma_HR: And you will be back from 4pm onwards. You will be back from 4pm onwards, right? So I compared the timings, which is 5pm to 9pm. Mostly, we do have our team meetings. Do you have concerns in that, in that time… in that…
+
+481
+01:10:57.540 --> 01:11:06.240
+Sushma_HR: Window time, do you have any other commitments, like any kind of, you know, co-curricular activities, or freelancing, or any kind of part-time role that you're committed currently?
+
+482
+01:11:07.050 --> 01:11:19.249
+Nishad Dhakephalkar: No, I have no commitments right now, and the good thing is that my colleges… ours are flexible, so I think I have… I just have to go 3 days a week to college, so in the morning, I can attend to other side projects or anything, and I can commit to 5 to 9 p.m.
+
+483
+01:11:19.410 --> 01:11:20.879
+Nishad Dhakephalkar: For this internship.
+
+484
+01:11:21.830 --> 01:11:23.750
+Sushma_HR: I'll let you know.
+
+485
+01:11:24.660 --> 01:11:25.770
+Sushma_HR: How…
+
+486
+01:11:28.890 --> 01:11:31.659
+Sushma_HR: Okay, so can you please let…
+
+487
+01:11:31.770 --> 01:11:34.819
+Sushma_HR: Let us know what you're expecting from this internship.
+
+488
+01:11:36.510 --> 01:11:52.820
+Nishad Dhakephalkar: Moreover, to gain experience, firstly, and additionally, for me to actually contribute to building products or systems that are used by actual users, and that I can get feedback on as to what I can improve, how I can improve.
+
+489
+01:11:52.820 --> 01:12:00.819
+Nishad Dhakephalkar: That is something that I'm looking forward to, but primarily understanding and experiencing how to build, Git, Agentic AI production systems.
+
+490
+01:12:04.680 --> 01:12:12.919
+Sushma_HR: So, what's your last drawn stipend? Do you… I hope you didn't do any internships? Did you enroll in any internships?
+
+491
+01:12:13.250 --> 01:12:27.600
+Nishad Dhakephalkar: No. So, no stipend-based internships. I was working with a founder before, but because there was an issue with the NOC in college, so that is why I couldn't attend the internship full-time. So it was just, like, a project-based internship.
+
+492
+01:12:33.380 --> 01:12:34.200
+Sushma_HR: Okay.
+
+493
+01:12:41.600 --> 01:12:44.069
+Sushma_HR: Any questions that you would like to ask us?
+
+494
+01:12:45.980 --> 01:13:05.000
+Nishad Dhakephalkar: Nothing that comes to my mind, but, like, primarily, if you are assigned to a specific, project or a product, is it, like, a pre-existing product or product, like the human resource product that we had mentioned in the job description, or the LMS project, or would it be something newer?
+
+495
+01:13:07.760 --> 01:13:08.580
+Sushma_HR: Okay.
+
+496
+01:13:09.290 --> 01:13:15.700
+Sushma_HR: See, the thing is that, most of, some proj… It depends upon the…
+
+497
+01:13:15.820 --> 01:13:22.210
+Sushma_HR: team allocation also. Maybe you will get a chance to develop from scratch.
+
+498
+01:13:23.090 --> 01:13:23.470
+Nishad Dhakephalkar: Okay.
+
+499
+01:13:23.470 --> 01:13:24.150
+Sushma_HR: Okay?
+
+500
+01:13:24.390 --> 01:13:33.430
+Sushma_HR: You will, you can develop from scratch, or otherwise, you will be hand over. Someone already developed, you have to refine that.
+
+501
+01:13:33.730 --> 01:13:35.160
+Sushma_HR: It depends upon that.
+
+502
+01:13:35.400 --> 01:13:54.559
+Sushma_HR: So, it depends upon how you are going to be, you know, how you're going to take your lab, all those things below. But you will get a chance to work from scratch, from research to deployment, or either you can, you know, hand over some existing product, and, you know, understand that, and refine.
+
+503
+01:13:55.260 --> 01:13:55.820
+Nishad Dhakephalkar: Yeah.
+
+504
+01:13:56.960 --> 01:13:58.530
+Sushma_HR: Oh… okay.
+
+505
+01:13:59.120 --> 01:14:03.200
+Sushma_HR: So, when you're going to complete in 2027, right?
+
+506
+01:14:03.430 --> 01:14:04.860
+Nishad Dhakephalkar: Yes, 2027.
+
+507
+01:14:06.500 --> 01:14:15.119
+Sushma_HR: Can you be able to manage, this internship along with your economic commitments? Are you comfortable… are you confident enough to manage?
+
+508
+01:14:16.100 --> 01:14:33.420
+Nishad Dhakephalkar: Yes, so, because for this final year, we primarily have to build, like, a capstone project. Other than that, we just have exams that we have to attend to, so if that is… I'll be able to take care of that in the initial part of the day, which is still about 3 to 4 p.m, so I will be able to manage both things for the 6-month period.
+
+509
+01:14:35.160 --> 01:14:46.949
+Sushma_HR: Okay, alright. So, you're comfortable to, commit Monday to Saturday from next 5… next, 6 months, with the, stipend structure, right?
+
+510
+01:14:46.950 --> 01:14:47.630
+Nishad Dhakephalkar: Yes.
+
+511
+01:14:48.230 --> 01:14:49.300
+Sushma_HR: Culpit.
+
+512
+01:14:49.730 --> 01:14:52.460
+Sushma_HR: Oh… Okay.
+
+513
+01:14:53.790 --> 01:15:00.620
+Sushma_HR: That's it from my end, I think, yeah, so over to you, Swetcha, you can, you know, take over the…
+
+514
+01:15:00.770 --> 01:15:03.039
+Sushma_HR: Next repeat, maintenance and profit.
+
+515
+01:15:03.460 --> 01:15:05.700
+Swetcha: Oh, yes, this is good for me, I say goodbye.
+
+516
+01:15:05.700 --> 01:15:06.520
+Sushma_HR: Yeah, yeah.
+
+517
+01:15:08.330 --> 01:15:13.020
+Sushma_HR: I just want to ask one other thing also. Do you have any Interviews or offers in pipeline?
+
+518
+01:15:14.790 --> 01:15:25.979
+Nishad Dhakephalkar: Yes, I have, I had given an interview recently, for this, solar founder, so… that is still in Python, so I've not gotten the results yet.
+
+519
+01:15:27.030 --> 01:15:29.429
+Sushma_HR: Okay. Is it the parent internship?
+
+520
+01:15:29.700 --> 01:15:30.420
+Nishad Dhakephalkar: Yes.
+
+521
+01:15:32.380 --> 01:15:34.230
+Sushma_HR: Copy. Great.
+
+522
+01:15:34.440 --> 01:15:38.509
+Sushma_HR: So, did you complete all the interview rounds, or had to complete?
+
+523
+01:15:39.050 --> 01:15:41.170
+Nishad Dhakephalkar: I'm still yet to complete 2 more rounds.
+
+524
+01:15:41.980 --> 01:15:43.910
+Sushma_HR: Okay, alright.
+
+525
+01:15:46.450 --> 01:15:48.260
+Sushma_HR: Is that an internship role?
+
+526
+01:15:49.320 --> 01:15:50.030
+Nishad Dhakephalkar: Internship?
+
+527
+01:15:50.440 --> 01:15:51.810
+Sushma_HR: Internship Pro?
+
+528
+01:15:53.430 --> 01:15:54.830
+Nishad Dhakephalkar: Yes, it's an internship.
+
+529
+01:15:54.990 --> 01:15:57.480
+Sushma_HR: But non-IT, right? Founder's office means?
+
+530
+01:15:58.140 --> 01:16:11.139
+Nishad Dhakephalkar: No, so the thing is, it's like a newly incorporated company, so it's going to be a technical role only, so… but… because there will be a segregated project, so you will assign a specific project that he's working in a partnership with.
+
+531
+01:16:11.830 --> 01:16:13.300
+Sushma_HR: Okay, alright.
+
+532
+01:16:13.670 --> 01:16:17.250
+Sushma_HR: Okay, then, that's it, to you, Swetcha.
+
+533
+01:16:17.890 --> 01:16:24.269
+Swetcha: Hi, Nishad, my name is Swetcha, and I'm the HRBPI at A4G Collaborative.
+
+534
+01:16:24.380 --> 01:16:28.730
+Swetcha: And first, I'll be asking you questions for the skill set round.
+
+535
+01:16:28.990 --> 01:16:29.980
+Swetcha: Okay.
+
+536
+01:16:30.170 --> 01:16:37.579
+Swetcha: You need to explain technical AI workflow to a non-technical stakeholder from the HR team. How would you do that?
+
+537
+01:16:39.820 --> 01:16:55.320
+Nishad Dhakephalkar: So first, I would, segregate the very deliverables as to what were asked of this specific, Agentic workflow, and what are the exact, endpoints that the non-technical stakeholder would actually understand.
+
+538
+01:16:55.410 --> 01:17:10.259
+Nishad Dhakephalkar: And once I do that, then it would be much more easier to quantify the actual results and what is the logical workflow of things in a more analogical manner by maybe using examples, so that it's much more easier for this non-technical stakeholder to understand.
+
+539
+01:17:11.950 --> 01:17:18.049
+Swetcha: How do you usually stay updated on AI or LLM developments?
+
+540
+01:17:19.210 --> 01:17:34.170
+Nishad Dhakephalkar: So, multiple sources. I primarily have emails specifically dedicated to my reading on a daily basis, wherein I get different newsletters from Y Combinator and latest LLM organizations.
+
+541
+01:17:34.170 --> 01:17:45.930
+Nishad Dhakephalkar: Along with that, I even make use of social media platforms like Substack, or Twitter, or Reddit, or even Instagram, where tech influencers share their views, or the latest updates, or products that have been launched.
+
+542
+01:17:49.770 --> 01:17:55.809
+Swetcha: One of your team members isn't contributing equally, how would you handle this situation?
+
+543
+01:17:57.460 --> 01:18:12.310
+Nishad Dhakephalkar: Initially, I would try to understand their perspective as to what is the issue. Is the issue with their contribution itself, or is it something that they're facing difficulty with to contribute? And if I can sort it out, or if I can give them a different task.
+
+544
+01:18:12.310 --> 01:18:17.779
+Nishad Dhakephalkar: so that they can contribute much better, then I would go for that. If not, if it's still a persistent issue.
+
+545
+01:18:17.780 --> 01:18:24.420
+Nishad Dhakephalkar: then I would raise it up with, whoever I'm, whoever I'm talking to pertaining to this specific project.
+
+546
+01:18:26.860 --> 01:18:28.769
+Swetcha: Imagine you are designing.
+
+547
+01:18:28.880 --> 01:18:33.910
+Swetcha: An AI mental well-being tool, how would you ensure it helps users?
+
+548
+01:18:35.560 --> 01:18:44.530
+Nishad Dhakephalkar: So, to start off, what I would do is, I would actually try to get an understanding as to what issues are we solving, maybe, like, an extensive research or a survey.
+
+549
+01:18:44.570 --> 01:18:54.840
+Nishad Dhakephalkar: to what this specific mental health app is actually solving, is there a specific disease, or is there a general problem that is being faced that we are solving? And then, once I get the rubrics.
+
+550
+01:18:54.840 --> 01:19:05.510
+Nishad Dhakephalkar: that, okay, this needs to be solved, then I will run trial test runs on these specific subjects, and take their honest feedback as to if something's improved, or if they feel a change.
+
+551
+01:19:05.550 --> 01:19:13.500
+Nishad Dhakephalkar: And, on a feedback loop, I would make this an iterative changes, and would successfully, maybe, build a product that they could find useful.
+
+552
+01:19:19.470 --> 01:19:21.649
+Swetcha: What does ownership mean to you?
+
+553
+01:19:23.250 --> 01:19:39.629
+Nishad Dhakephalkar: Ownership, for me is, is maybe, like, a synonymous word to accountability, which is, if I've built something, I have to take accountability of everything from end to end, as in the outputs that it generates, what it does, the process, and more importantly.
+
+554
+01:19:39.630 --> 01:19:44.819
+Nishad Dhakephalkar: the expectations that I've… that… of this specific project or the product that I've built.
+
+555
+01:19:45.030 --> 01:19:51.969
+Nishad Dhakephalkar: if I've taken ownership of it, it should deliver what it… what the goal initially was while building this product or project.
+
+556
+01:19:54.320 --> 01:19:56.810
+Swetcha: How do you handle delays from others?
+
+557
+01:19:58.590 --> 01:19:59.600
+Nishad Dhakephalkar: So…
+
+558
+01:19:59.790 --> 01:20:10.980
+Nishad Dhakephalkar: Initially, what I would do is I would set timelines as to, maybe give them a day or two extensions to… so that I can incorporate those extensions in these delays.
+
+559
+01:20:11.080 --> 01:20:25.320
+Nishad Dhakephalkar: And if there still are delays, then maybe I could try to work by myself to see if, you know, if these can be filled up. If not, then I would have to ask them to, you know, maybe ramp up their speech or tackle much… tackle tasks at a much higher rate.
+
+560
+01:20:28.270 --> 01:20:32.899
+Swetcha: Tell me about a time when you had limited resources, but still delivered.
+
+561
+01:20:34.540 --> 01:20:38.499
+Nishad Dhakephalkar: So, when I was… I had built this project called GST Shield.
+
+562
+01:20:38.640 --> 01:20:51.119
+Nishad Dhakephalkar: which is a very finance, tech-savvy project, so now the issue there was that you needed access to a government database to actually show results. And this was a part of a hackathon. So, but what I did was,
+
+563
+01:20:51.120 --> 01:21:03.269
+Nishad Dhakephalkar: through a mutual connection. I found out this person who's actually in finance, and then I wrote a mock database that I used instead of this government database, and then I used it to power my project.
+
+564
+01:21:03.310 --> 01:21:09.660
+Nishad Dhakephalkar: So that is how, even without an actual government database, I was able to showcase this project and win the hackathon.
+
+565
+01:21:12.880 --> 01:21:16.940
+Swetcha: How do you use AI or tools to improve productivity?
+
+566
+01:21:18.110 --> 01:21:34.580
+Nishad Dhakephalkar: So, for me, AI has become, like, an everyday thing, right? Starting from, like, using it as a thinking partner to giving it all the execution aspects, but I still prefer that I take the very crucial decisions on the architectural side.
+
+567
+01:21:34.580 --> 01:21:39.440
+Nishad Dhakephalkar: On what needs to be executed, or the key decisions that would drive a product or a project.
+
+568
+01:21:39.440 --> 01:21:51.089
+Nishad Dhakephalkar: And so overall, for my productivity, I mean, there are 10 different tools that I use on a daily basis, right, from getting, like, a digest every morning to read what are the summaries of my emails.
+
+569
+01:21:51.120 --> 01:21:54.970
+Nishad Dhakephalkar: To reading as to what my project, developments are.
+
+570
+01:21:57.200 --> 01:22:00.600
+Swetcha: Have you ever disagreed with authority? What did you do?
+
+571
+01:22:02.210 --> 01:22:12.260
+Nishad Dhakephalkar: I… so there was, like, the project that I mentioned, the Finance GST Shield project. The thing there was, I was with two of my other teammates there.
+
+572
+01:22:12.280 --> 01:22:24.990
+Nishad Dhakephalkar: And one of whom was 2 years older to us, so he was much more experienced, but because I initially had the idea, so I was very sure as to what features do we need to bring in and which features we do not need to.
+
+573
+01:22:24.990 --> 01:22:33.420
+Nishad Dhakephalkar: So, I was very clear that, I was authoritative in that tone, in the sense that I was sure that this would not bring any utility when we deliver the final product.
+
+574
+01:22:36.880 --> 01:22:40.309
+Swetcha: That is it for my question. So, Shypai, anything you would like to add?
+
+575
+01:22:45.420 --> 01:22:47.170
+Swetcha: Do you think she's on a comment?
+
+576
+01:22:47.450 --> 01:22:48.080
+Nishad Dhakephalkar: Hmm?
+
+577
+01:22:48.480 --> 01:22:49.660
+Swetcha: And conditioning.
+
+578
+01:22:50.110 --> 01:22:50.790
+Nishad Dhakephalkar: Thanks.
+
+579
+01:24:15.440 --> 01:24:21.929
+Nishad Dhakephalkar: Hi, Swetcha, if you don't mind me asking, are you a part of the HR team, and how are you, like, contributing to A4G?
+
+580
+01:24:23.050 --> 01:24:25.279
+Swetcha: Yes, I am part of the HR team.
+
+581
+01:24:25.280 --> 01:24:25.710
+Sushma_HR: Oh my god.
+
+582
+01:24:25.710 --> 01:24:27.940
+Swetcha: For my neighbor, specifically.
+
+583
+01:24:27.940 --> 01:24:30.639
+Sushma_HR: Nishad, are you an immediate joiner?
+
+584
+01:24:31.960 --> 01:24:32.730
+Nishad Dhakephalkar: Yes.
+
+585
+01:24:33.070 --> 01:24:37.110
+Sushma_HR: Just drop your… did you complete your outfit and natural fitment Swetcha?
+
+586
+01:24:38.550 --> 01:24:39.509
+Swetcha: Yes, none of that.
+
+587
+01:24:39.510 --> 01:24:41.070
+Sushma_HR: Just drop your contact number.
+
+588
+01:24:41.310 --> 01:24:42.560
+Sushma_HR: In the chat box.
+
+589
+01:24:42.820 --> 01:24:45.029
+Sushma_HR: If you have any doubts, you can ask Richard.
+
+590
+01:24:47.430 --> 01:25:00.370
+Swetcha: Yeah, so as I was saying, for my role as in the HR team, I help with the recruitments, and for the team management, and I also act as the HRBP for certain teams.
+
+591
+01:25:02.490 --> 01:25:03.449
+Nishad Dhakephalkar: booking here?
+
+592
+01:25:05.520 --> 01:25:06.209
+Swetcha: Oh, you know what?
+
+593
+01:25:06.610 --> 01:25:08.970
+Nishad Dhakephalkar: How long have you been working with A4G?
+
+594
+01:25:09.990 --> 01:25:13.550
+Swetcha: It's been a month right now, so I've been that long.
+
+595
+01:25:38.910 --> 01:25:40.740
+Swetcha: And you want to drop her email ID.
+
+596
+01:25:41.220 --> 01:25:41.800
+Nishad Dhakephalkar: Sure.
+
+597
+01:25:48.550 --> 01:25:49.910
+Nishad Dhakephalkar: Workmail ID.
+
+598
+01:25:52.370 --> 01:25:53.540
+Swetcha: Okay.
+
+599
+01:25:55.540 --> 01:25:57.870
+Sushma_HR: Yes, ma' Okay.
+
+600
+01:26:13.430 --> 01:26:15.580
+Sushma_HR: Okay, I can leave, Nishad. Thank you.
+
+601
+01:26:15.960 --> 01:26:17.650
+Nishad Dhakephalkar: Thank you. Thank you, ma'am. Thank you, Swetcha.
+
